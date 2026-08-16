@@ -28,7 +28,7 @@
             "last_commit": "2023-05-25T06:09:10Z",
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 497
+            "stars": 498
           }
         },
         {
@@ -1022,7 +1022,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1237
+            "stars": 1238
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-07-20T21:21:31Z",
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -1162,7 +1162,7 @@
             "last_commit": "2026-07-28T15:05:38Z",
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -2207,10 +2207,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T06:57:30Z",
+            "last_commit": "2026-08-16T00:52:17Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2584
+            "stars": 2587
           }
         },
         {
@@ -2856,7 +2856,7 @@
             "last_commit": "2026-07-13T02:12:31Z",
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -3693,7 +3693,7 @@
             "last_commit": "2026-07-26T18:38:02Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9409
+            "stars": 9411
           }
         },
         {
@@ -3881,7 +3881,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4551
+            "stars": 4552
           }
         },
         {
@@ -3917,7 +3917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:57:16.439Z",
+    "last_updated": "2026-08-16T15:57:53.641Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_sha": "fd851a96c81f87964e4c4d6b8906083b5a7a3c36",
     "enhanced_repository": "enhansome/enhansome-love2d",
