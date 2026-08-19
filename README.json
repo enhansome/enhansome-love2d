@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172617852,
             "language": "Lua",
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178612316,
             "language": "Lua",
             "last_commit": "2023-05-25T06:09:10Z",
             "owner": "3dreamengine",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282748292,
             "language": "Lua",
             "last_commit": "2025-08-26T09:15:20Z",
             "owner": "rozenmad",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96963599,
             "language": "Lua",
             "last_commit": "2020-07-03T19:17:54Z",
             "owner": "oniietzschan",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75201141,
             "language": "Lua",
             "last_commit": "2018-07-08T12:50:17Z",
             "owner": "Keyslam",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39682670,
             "language": "Python",
             "last_commit": "2021-06-04T00:38:00Z",
             "owner": "excessive",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41474044,
             "language": "Lua",
             "last_commit": "2020-05-07T19:47:28Z",
             "owner": "excessive",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130220440,
             "language": "Lua",
             "last_commit": "2019-09-05T13:23:48Z",
             "owner": "flamendless",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24841313,
             "language": "Lua",
             "last_commit": "2015-08-27T07:32:46Z",
             "owner": "excessive",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6157826,
             "language": "Lua",
             "last_commit": "2022-10-21T09:02:33Z",
             "owner": "Yonaba",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112820645,
             "language": "Lua",
             "last_commit": "2021-07-25T21:38:03Z",
             "owner": "wesleywerner",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343318631,
             "language": "Lua",
             "last_commit": "2022-09-23T15:25:04Z",
             "owner": "GlorifiedPig",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280684210,
             "language": "Lua",
             "last_commit": "2022-06-09T04:31:50Z",
             "owner": "drhayes",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934393964,
             "language": "Lua",
             "last_commit": "2025-02-17T18:56:30Z",
             "owner": "Nrosa01",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249422636,
             "language": "Lua",
             "last_commit": "2025-06-06T07:45:22Z",
             "owner": "xiejiangzhi",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 571810885,
             "language": "Lua",
             "last_commit": "2026-06-18T19:40:34Z",
             "owner": "Safebox36",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3574209,
             "language": "Lua",
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246699228,
             "language": "Lua",
             "last_commit": "2024-08-03T19:09:19Z",
             "owner": "sysl-dev",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130282173,
             "language": "Lua",
             "last_commit": "2026-05-04T05:59:30Z",
             "owner": "josh-perry",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372405302,
             "language": "Lua",
             "last_commit": "2023-07-14T13:48:34Z",
             "owner": "elloramir",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37038062,
             "language": "Lua",
             "last_commit": "2022-05-21T03:22:00Z",
             "owner": "davisdude",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13721323,
             "language": "Lua",
             "last_commit": "2019-10-17T09:35:38Z",
             "owner": "patrixr",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222457916,
             "language": "Lua",
             "last_commit": "2021-10-16T14:57:49Z",
             "owner": "besnoi",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83213735,
             "language": "Lua",
             "last_commit": "2018-01-14T15:14:45Z",
             "owner": "pfirsich",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44459788,
             "language": "Lua",
             "last_commit": "2018-03-18T16:43:54Z",
             "owner": "bjornbytes",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10902281,
             "language": "Lua",
             "last_commit": "2019-05-10T00:55:51Z",
             "owner": "pelevesque",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62301659,
             "language": "Lua",
             "last_commit": "2016-07-05T08:08:08Z",
             "owner": "sixFingers",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7152521,
             "language": "Lua",
             "last_commit": "2021-07-29T13:38:21Z",
             "owner": "kikito",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33282804,
             "language": "Lua",
             "last_commit": "2020-06-10T00:07:43Z",
             "owner": "davisdude",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38699419,
             "language": "Lua",
             "last_commit": "2019-07-30T02:08:04Z",
             "owner": "bakpakin",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348961593,
             "language": "Lua",
             "last_commit": "2022-01-11T08:35:16Z",
             "owner": "idbrii",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137046282,
             "language": "Lua",
             "last_commit": "2026-01-18T21:14:12Z",
             "owner": "mshiplet",
@@ -482,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17454896,
             "language": "Lua",
             "last_commit": "2023-07-22T23:29:56Z",
             "owner": "rxi",
@@ -496,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32788810,
             "language": "Lua",
             "last_commit": "2026-05-07T03:07:24Z",
             "owner": "love2d-community",
@@ -510,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18712087,
             "language": "Lua",
             "last_commit": "2021-05-08T07:48:32Z",
             "owner": "rxi",
@@ -524,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148103191,
             "language": null,
             "last_commit": "2026-03-31T12:05:24Z",
             "owner": "hazzard993",
@@ -538,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253291222,
             "language": "Shell",
             "last_commit": "2026-06-25T10:02:20Z",
             "owner": "nhartland",
@@ -552,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129567795,
             "language": "Lua",
             "last_commit": "2024-10-30T20:35:23Z",
             "owner": "deltadaedalus",
@@ -566,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127731569,
             "language": "Lua",
             "last_commit": "2020-09-04T04:00:43Z",
             "owner": "flamendless",
@@ -580,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48611008,
             "language": "Lua",
             "last_commit": "2017-09-17T14:27:58Z",
             "owner": "Mechazawa",
@@ -594,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235018706,
             "language": "JavaScript",
             "last_commit": "2021-05-11T01:00:23Z",
             "owner": "patrixr",
@@ -608,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18350634,
             "language": "Lua",
             "last_commit": "2014-04-03T01:48:36Z",
             "owner": "icrawler",
@@ -622,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439714648,
             "language": "Lua",
             "last_commit": "2024-08-15T17:39:32Z",
             "owner": "dknight",
@@ -642,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40838200,
             "language": "Lua",
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
@@ -656,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63481123,
             "language": "Lua",
             "last_commit": "2018-09-10T19:24:48Z",
             "owner": "rxi",
@@ -670,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106171702,
             "language": "Lua",
             "last_commit": "2026-02-17T11:10:18Z",
             "owner": "Nikaoto",
@@ -684,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282023881,
             "language": "Lua",
             "last_commit": "2020-10-09T11:29:34Z",
             "owner": "arthurealike",
@@ -698,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946790676,
             "language": "Lua",
             "last_commit": "2025-05-23T08:38:34Z",
             "owner": "Oval-Tutu",
@@ -712,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268092654,
             "language": "Lua",
             "last_commit": "2022-03-20T21:03:24Z",
             "owner": "ReFreezed",
@@ -726,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69262797,
             "language": "Lua",
             "last_commit": "2020-02-08T00:57:04Z",
             "owner": "globalcitizen",
@@ -740,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10890767,
             "language": "Lua",
             "last_commit": "2019-06-03T21:48:19Z",
             "owner": "pelevesque",
@@ -754,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55681049,
             "language": "Lua",
             "last_commit": "2020-08-02T01:05:01Z",
             "owner": "adekto",
@@ -768,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23729551,
             "language": "Lua",
             "last_commit": "2023-05-03T02:08:24Z",
             "owner": "hsluv",
@@ -782,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53083334,
             "language": "Lua",
             "last_commit": "2025-04-16T12:31:54Z",
             "owner": "EvineDev",
@@ -796,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83158989,
             "language": "Lua",
             "last_commit": "2020-06-10T18:08:43Z",
             "owner": "sysl-dev",
@@ -810,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416052279,
             "language": "Lua",
             "last_commit": "2025-11-13T15:57:05Z",
             "owner": "EngineerSmith",
@@ -824,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241471539,
             "language": "Lua",
             "last_commit": "2021-06-10T20:11:05Z",
             "owner": "FloatingBanana",
@@ -838,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81755666,
             "language": "Lua",
             "last_commit": "2017-11-19T10:14:33Z",
             "owner": "meric",
@@ -852,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218564867,
             "language": "Lua",
             "last_commit": "2022-04-11T10:08:01Z",
             "owner": "swalrus1",
@@ -866,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80917083,
             "language": "Lua",
             "last_commit": "2026-01-11T12:52:14Z",
             "owner": "JanWerder",
@@ -880,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431805209,
             "language": "Lua",
             "last_commit": "2025-11-13T15:25:58Z",
             "owner": "EngineerSmith",
@@ -894,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911330671,
             "language": null,
             "last_commit": "2024-10-09T19:47:24Z",
             "owner": "grif-on",
@@ -914,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32625028,
             "language": "Lua",
             "last_commit": "2023-03-15T01:27:58Z",
             "owner": "bakpakin",
@@ -928,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38066732,
             "language": "Lua",
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
@@ -942,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118922021,
             "language": "Lua",
             "last_commit": "2026-07-24T20:46:24Z",
             "owner": "Keyslam-Group",
@@ -956,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306048698,
             "language": "Lua",
             "last_commit": "2024-06-24T06:34:40Z",
             "owner": "nidorx",
@@ -970,8 +1036,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 886198089,
             "language": "Lua",
-            "last_commit": "2026-04-08T16:58:30Z",
+            "last_commit": "2026-08-18T22:09:21Z",
             "owner": "BlackMATov",
             "repo": "evolved.lua",
             "stars": 219
@@ -984,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110418621,
             "language": "Lua",
             "last_commit": "2021-01-20T04:02:02Z",
             "owner": "tesselode",
@@ -998,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74608996,
             "language": "Lua",
             "last_commit": "2020-02-25T23:06:14Z",
             "owner": "JosephShering",
@@ -1018,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17262930,
             "language": "Lua",
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
@@ -1032,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15909222,
             "language": "Lua",
             "last_commit": "2024-03-24T11:43:23Z",
             "owner": "karai17",
@@ -1046,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38066732,
             "language": "Lua",
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
@@ -1060,8 +1132,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236895355,
             "language": "Lua",
-            "last_commit": "2026-05-26T06:01:27Z",
+            "last_commit": "2026-08-19T04:23:05Z",
             "owner": "1bardesign",
             "repo": "batteries",
             "stars": 435
@@ -1074,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6743041,
             "language": "Lua",
             "last_commit": "2025-06-25T16:12:24Z",
             "owner": "kyleconroy",
@@ -1088,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9403068,
             "language": "Lua",
             "last_commit": "2022-04-03T17:17:23Z",
             "owner": "paulofmandown",
@@ -1102,11 +1177,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15741223,
             "language": "Lua",
             "last_commit": "2026-06-22T17:53:56Z",
             "owner": "SiENcE",
             "repo": "astray",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -1116,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229589446,
             "language": "Lua",
             "last_commit": "2024-05-09T09:12:43Z",
             "owner": "astrochili",
@@ -1130,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900067214,
             "language": "Lua",
             "last_commit": "2026-07-20T21:21:31Z",
             "owner": "PrismRL",
@@ -1144,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163011622,
             "language": "Lua",
             "last_commit": "2023-02-22T10:04:41Z",
             "owner": "HDictus",
@@ -1158,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843714075,
             "language": "Lua",
             "last_commit": "2026-07-28T15:05:38Z",
             "owner": "Miisan-png",
@@ -1172,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112905454,
             "language": "Lua",
             "last_commit": "2020-11-28T07:49:03Z",
             "owner": "tesselode",
@@ -1186,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57452845,
             "language": "Lua",
             "last_commit": "2016-04-30T19:41:00Z",
             "owner": "Ulydev",
@@ -1200,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200319143,
             "language": "Lua",
             "last_commit": "2024-10-05T06:02:55Z",
             "owner": "MikuAuahDark",
@@ -1214,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40200877,
             "language": "Lua",
             "last_commit": "2020-03-25T21:45:47Z",
             "owner": "WetDesertRock",
@@ -1228,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163777105,
             "language": "Lua",
             "last_commit": "2020-11-11T20:54:45Z",
             "owner": "tesselode",
@@ -1242,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206435165,
             "language": "Lua",
             "last_commit": "2020-05-20T06:54:21Z",
             "owner": "josefnpat",
@@ -1256,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487735457,
             "language": "Lua",
             "last_commit": "2025-01-13T15:30:36Z",
             "owner": "paltze",
@@ -1270,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57450694,
             "language": "Lua",
             "last_commit": "2023-07-07T12:17:07Z",
             "owner": "Ulydev",
@@ -1284,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32791029,
             "language": "Lua",
             "last_commit": "2017-11-20T11:07:39Z",
             "owner": "rm-code",
@@ -1298,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211109499,
             "language": "Lua",
             "last_commit": "2023-09-15T00:43:40Z",
             "owner": "besnoi",
@@ -1312,6 +1402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211100089,
             "language": "Lua",
             "last_commit": "2020-07-19T09:37:52Z",
             "owner": "besnoi",
@@ -1326,6 +1417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93423399,
             "language": "Lua",
             "last_commit": "2019-02-09T14:39:30Z",
             "owner": "flamendless",
@@ -1340,6 +1432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 771264620,
             "language": "Lua",
             "last_commit": "2025-12-28T23:59:34Z",
             "owner": "GwyrddGlas",
@@ -1354,6 +1447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241471539,
             "language": "Lua",
             "last_commit": "2021-06-10T20:11:05Z",
             "owner": "FloatingBanana",
@@ -1368,6 +1462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177840098,
             "language": "Lua",
             "last_commit": "2019-03-29T06:51:23Z",
             "owner": "MineGame159",
@@ -1382,6 +1477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676345615,
             "language": "Lua",
             "last_commit": "2025-11-02T19:06:13Z",
             "owner": "KINGTUT10101",
@@ -1396,6 +1492,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 89810835,
             "language": "Lua",
             "last_commit": "2017-04-29T20:39:49Z",
             "owner": "nekromoff",
@@ -1416,6 +1513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65523511,
             "language": "Lua",
             "last_commit": "2022-11-18T15:57:22Z",
             "owner": "tesselode",
@@ -1430,6 +1528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28014754,
             "language": "Lua",
             "last_commit": "2017-12-11T07:06:30Z",
             "owner": "LPGhatguy",
@@ -1444,6 +1543,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38013072,
             "language": "Lua",
             "last_commit": "2017-10-20T16:56:01Z",
             "owner": "tesselode",
@@ -1458,6 +1558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443915187,
             "language": "Lua",
             "last_commit": "2022-01-11T08:28:30Z",
             "owner": "idbrii",
@@ -1472,6 +1573,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575356246,
             "language": "Lua",
             "last_commit": "2022-12-13T14:40:22Z",
             "owner": "MikuAuahDark",
@@ -1486,6 +1588,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 256562545,
             "language": "Lua",
             "last_commit": "2023-11-09T13:27:53Z",
             "owner": "SpaceCat-Chan",
@@ -1500,6 +1603,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325220498,
             "language": "Lua",
             "last_commit": "2021-01-04T05:58:56Z",
             "owner": "xiejiangzhi",
@@ -1514,6 +1618,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 456855059,
             "language": "Lua",
             "last_commit": "2022-03-28T19:47:58Z",
             "owner": "zombrodo",
@@ -1534,6 +1639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25700739,
             "language": "Lua",
             "last_commit": "2025-11-04T01:37:35Z",
             "owner": "tanema",
@@ -1548,6 +1654,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61066314,
             "language": "Lua",
             "last_commit": "2020-07-08T02:18:57Z",
             "owner": "matiasah",
@@ -1562,6 +1669,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312410005,
             "language": "Lua",
             "last_commit": "2026-02-08T07:41:34Z",
             "owner": "speakk",
@@ -1576,6 +1684,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117877025,
             "language": "Lua",
             "last_commit": "2020-03-24T11:11:46Z",
             "owner": "dylhunn",
@@ -1590,6 +1699,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207122499,
             "language": "Lua",
             "last_commit": "2019-09-17T09:19:59Z",
             "owner": "xiejiangzhi",
@@ -1604,6 +1714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 732317320,
             "language": "Lua",
             "last_commit": "2026-05-02T17:11:30Z",
             "owner": "a13X-B",
@@ -1624,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25740057,
             "language": "Lua",
             "last_commit": "2026-02-11T00:25:33Z",
             "owner": "excessive",
@@ -1638,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15450201,
             "language": "Lua",
             "last_commit": "2017-11-21T20:30:22Z",
             "owner": "Yonaba",
@@ -1652,6 +1765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16320407,
             "language": "Lua",
             "last_commit": "2024-01-04T04:56:51Z",
             "owner": "davisdude",
@@ -1666,6 +1780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66136254,
             "language": "Lua",
             "last_commit": "2022-06-22T05:41:03Z",
             "owner": "rxi",
@@ -1680,6 +1795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200319143,
             "language": "Lua",
             "last_commit": "2024-10-05T06:02:55Z",
             "owner": "MikuAuahDark",
@@ -1694,6 +1810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121586928,
             "language": "Lua",
             "last_commit": "2022-08-21T16:39:01Z",
             "owner": "novemberisms",
@@ -1708,6 +1825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151206429,
             "language": "Lua",
             "last_commit": "2024-12-03T16:15:43Z",
             "owner": "automattf",
@@ -1722,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737606729,
             "language": "Lua",
             "last_commit": "2026-05-23T23:04:20Z",
             "owner": "DUznanski",
@@ -1736,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69345110,
             "language": "Lua",
             "last_commit": "2017-03-23T10:58:26Z",
             "owner": "rm-code",
@@ -1750,6 +1870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 822177139,
             "language": "Lua",
             "last_commit": "2024-06-30T14:54:17Z",
             "owner": "a13X-B",
@@ -1764,6 +1885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 949143092,
             "language": "Lua",
             "last_commit": "2025-04-13T01:13:04Z",
             "owner": "dknight",
@@ -1784,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62452282,
             "language": "Lua",
             "last_commit": "2021-08-06T03:57:23Z",
             "owner": "rxi",
@@ -1798,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58141802,
             "language": "Lua",
             "last_commit": "2018-06-09T22:27:33Z",
             "owner": "Ulydev",
@@ -1812,6 +1936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29484113,
             "language": "Lua",
             "last_commit": "2016-05-31T11:39:14Z",
             "owner": "superzazu",
@@ -1826,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72511723,
             "language": "Lua",
             "last_commit": "2023-03-22T20:04:17Z",
             "owner": "tesselode",
@@ -1840,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144450452,
             "language": "Lua",
             "last_commit": "2026-01-29T01:03:28Z",
             "owner": "GwyrddGlas",
@@ -1860,6 +1987,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5294729,
             "language": "Lua",
             "last_commit": "2026-06-22T15:19:55Z",
             "owner": "Overtorment",
@@ -1874,6 +2002,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63983597,
             "language": "Lua",
             "last_commit": "2020-12-31T22:18:48Z",
             "owner": "camchenry",
@@ -1888,6 +2017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1316371,
             "language": "Lua",
             "last_commit": "2016-11-27T09:40:38Z",
             "owner": "bartbes",
@@ -1902,6 +2032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55189851,
             "language": "Lua",
             "last_commit": "2019-03-30T03:34:18Z",
             "owner": "josefnpat",
@@ -1916,6 +2047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338326437,
             "language": "Lua",
             "last_commit": "2021-11-02T02:06:05Z",
             "owner": "flaribbit",
@@ -1930,6 +2062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131909202,
             "language": "C++",
             "last_commit": "2018-10-27T12:28:29Z",
             "owner": "holywyvern",
@@ -1944,6 +2077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 980927186,
             "language": "Lua",
             "last_commit": "2025-06-19T18:50:48Z",
             "owner": "elloramir",
@@ -1964,6 +2098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622403,
             "language": "Lua",
             "last_commit": "2025-11-03T12:54:01Z",
             "owner": "kikito",
@@ -1978,11 +2113,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17220820,
             "language": "Lua",
             "last_commit": "2021-12-31T14:37:20Z",
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1072
+            "stars": 1073
           }
         },
         {
@@ -1992,6 +2128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38066732,
             "language": "Lua",
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
@@ -2006,6 +2143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5544368,
             "language": "Lua",
             "last_commit": "2021-05-08T02:47:43Z",
             "owner": "Yonaba",
@@ -2020,6 +2158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296538311,
             "language": "MoonScript",
             "last_commit": "2025-06-17T06:29:38Z",
             "owner": "novafacing",
@@ -2034,6 +2173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 882870794,
             "language": "Lua",
             "last_commit": "2025-01-03T17:05:43Z",
             "owner": "DevonPalma",
@@ -2048,6 +2188,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 174710450,
             "language": "Lua",
             "last_commit": "2021-06-02T17:33:40Z",
             "owner": "megagrump",
@@ -2062,6 +2203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 884100819,
             "language": "Lua",
             "last_commit": "2024-11-16T09:51:17Z",
             "owner": "Virus01Official",
@@ -2082,6 +2224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110007643,
             "language": "Lua",
             "last_commit": "2026-08-06T13:47:17Z",
             "owner": "pfirsich",
@@ -2096,6 +2239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238286321,
             "language": "Lua",
             "last_commit": "2026-05-07T16:47:10Z",
             "owner": "EngineerSmith",
@@ -2110,6 +2254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45733404,
             "language": "Lua",
             "last_commit": "2017-08-01T08:43:09Z",
             "owner": "Polynominal",
@@ -2130,6 +2275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4465215,
             "language": "Lua",
             "last_commit": "2023-09-29T16:28:50Z",
             "owner": "kikito",
@@ -2144,6 +2290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161935578,
             "language": "Lua",
             "last_commit": "2024-08-12T14:36:54Z",
             "owner": "HDictus",
@@ -2158,6 +2305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904383718,
             "language": "Lua",
             "last_commit": "2026-04-08T17:54:35Z",
             "owner": "erinmaus",
@@ -2172,6 +2320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354097558,
             "language": "Lua",
             "last_commit": "2023-09-15T12:49:39Z",
             "owner": "Aweptimum",
@@ -2186,6 +2335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230091788,
             "language": null,
             "last_commit": "2018-10-21T05:28:07Z",
             "owner": "zhangf911",
@@ -2206,6 +2356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62519414,
             "language": "C",
             "last_commit": "2026-08-17T19:08:40Z",
             "owner": "bjornbytes",
@@ -2220,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20815377,
             "language": "C",
             "last_commit": "2017-05-06T08:32:40Z",
             "owner": "rxi",
@@ -2234,6 +2386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43768227,
             "language": "C++",
             "last_commit": "2026-08-18T03:45:00Z",
             "owner": "lovebrew",
@@ -2248,6 +2401,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148873021,
             "language": "Lua",
             "last_commit": "2021-07-19T05:25:52Z",
             "owner": "LukeZGD",
@@ -2268,6 +2422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38066732,
             "language": "Lua",
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
@@ -2282,6 +2437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40440952,
             "language": "Lua",
             "last_commit": "2023-03-02T17:41:15Z",
             "owner": "bakpakin",
@@ -2296,6 +2452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51673036,
             "language": "Lua",
             "last_commit": "2025-01-31T16:06:30Z",
             "owner": "gvx",
@@ -2310,6 +2467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14088487,
             "language": "Lua",
             "last_commit": "2016-05-19T23:03:02Z",
             "owner": "gvx",
@@ -2324,6 +2482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23522940,
             "language": "Lua",
             "last_commit": "2016-02-16T02:07:41Z",
             "owner": "gvx",
@@ -2338,6 +2497,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47238217,
             "language": "Lua",
             "last_commit": "2020-01-15T22:30:59Z",
             "owner": "bjornbytes",
@@ -2352,6 +2512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29714504,
             "language": "Lua",
             "last_commit": "2015-08-14T20:13:09Z",
             "owner": "excessive",
@@ -2366,6 +2527,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 155223120,
             "language": "MoonScript",
             "last_commit": "2024-03-13T10:44:35Z",
             "owner": "megagrump",
@@ -2380,6 +2542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23739343,
             "language": "Lua",
             "last_commit": "2016-02-16T02:07:50Z",
             "owner": "gvx",
@@ -2394,6 +2557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265145484,
             "language": "Lua",
             "last_commit": "2023-05-21T06:18:19Z",
             "owner": "flamendless",
@@ -2414,6 +2578,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29105401,
             "language": "Lua",
             "last_commit": "2023-12-23T00:39:23Z",
             "owner": "vrld",
@@ -2428,6 +2593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45569701,
             "language": "C++",
             "last_commit": "2016-06-25T19:25:16Z",
             "owner": "tsteinholz",
@@ -2442,6 +2608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200319143,
             "language": "Lua",
             "last_commit": "2024-10-05T06:02:55Z",
             "owner": "MikuAuahDark",
@@ -2456,6 +2623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529986890,
             "language": "Lua",
             "last_commit": "2023-09-08T15:18:49Z",
             "owner": "idbrii",
@@ -2476,11 +2644,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5336227,
             "language": "Lua",
             "last_commit": "2026-07-30T12:47:38Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1627
+            "stars": 1628
           }
         },
         {
@@ -2490,6 +2659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38066732,
             "language": "Lua",
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
@@ -2504,6 +2674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5502005,
             "language": "Lua",
             "last_commit": "2026-08-15T09:10:03Z",
             "owner": "lunarmodules",
@@ -2518,6 +2689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28700502,
             "language": "Lua",
             "last_commit": "2026-07-17T04:40:12Z",
             "owner": "bjornbytes",
@@ -2532,6 +2704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 550201,
             "language": "Lua",
             "last_commit": "2022-05-07T00:16:08Z",
             "owner": "silentbicycle",
@@ -2552,6 +2725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1662036,
             "language": "Lua",
             "last_commit": "2023-02-02T00:13:15Z",
             "owner": "kikito",
@@ -2566,6 +2740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38066732,
             "language": "Lua",
             "last_commit": "2018-09-17T16:10:33Z",
             "owner": "airstruck",
@@ -2580,6 +2755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19047468,
             "language": "Lua",
             "last_commit": "2020-12-16T13:21:47Z",
             "owner": "rxi",
@@ -2594,6 +2770,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29880419,
             "language": "Lua",
             "last_commit": "2015-03-11T20:46:36Z",
             "owner": "rxi",
@@ -2608,6 +2785,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200319143,
             "language": "Lua",
             "last_commit": "2024-10-05T06:02:55Z",
             "owner": "MikuAuahDark",
@@ -2628,6 +2806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3381635,
             "language": "Lua",
             "last_commit": "2023-08-26T22:45:07Z",
             "owner": "vrld",
@@ -2642,6 +2821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170941266,
             "language": "Lua",
             "last_commit": "2026-07-15T14:28:50Z",
             "owner": "flamendless",
@@ -2656,11 +2836,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73750356,
             "language": "C",
             "last_commit": "2025-02-14T21:55:38Z",
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -2670,6 +2851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63331069,
             "language": "C++",
             "last_commit": "2023-12-03T04:30:39Z",
             "owner": "slages",
@@ -2684,8 +2866,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123006889,
             "language": "Lua",
-            "last_commit": "2026-08-17T14:24:10Z",
+            "last_commit": "2026-08-19T11:18:48Z",
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
             "stars": 300
@@ -2698,6 +2881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40621685,
             "language": "Lua",
             "last_commit": "2023-09-06T16:51:39Z",
             "owner": "gustavostuff",
@@ -2712,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73325319,
             "language": "Lua",
             "last_commit": "2025-10-22T11:40:19Z",
             "owner": "linux-man",
@@ -2726,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240363458,
             "language": "Lua",
             "last_commit": "2025-04-01T13:24:27Z",
             "owner": "qeffects",
@@ -2740,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 862961685,
             "language": "Lua",
             "last_commit": "2026-06-21T11:10:17Z",
             "owner": "SiENcE",
@@ -2754,6 +2941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58032060,
             "language": "Lua",
             "last_commit": "2022-06-02T00:34:06Z",
             "owner": "wilhantian",
@@ -2768,6 +2956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579709444,
             "language": "Lua",
             "last_commit": "2025-12-20T06:47:24Z",
             "owner": "Keyslam",
@@ -2782,6 +2971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 705169844,
             "language": "Lua",
             "last_commit": "2025-11-21T15:26:02Z",
             "owner": "immortalx74",
@@ -2796,6 +2986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200319143,
             "language": "Lua",
             "last_commit": "2024-10-05T06:02:55Z",
             "owner": "MikuAuahDark",
@@ -2810,6 +3001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784060435,
             "language": "Lua",
             "last_commit": "2024-10-04T15:01:24Z",
             "owner": "Nabeel20",
@@ -2824,11 +3016,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1055803883,
             "language": "Lua",
             "last_commit": "2026-08-12T21:01:20Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -2838,6 +3031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33174860,
             "language": "Lua",
             "last_commit": "2019-03-27T04:02:10Z",
             "owner": "excessive",
@@ -2852,6 +3046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1058344189,
             "language": "Lua",
             "last_commit": "2026-07-13T02:12:31Z",
             "owner": "mtanksl",
@@ -2866,6 +3061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335215830,
             "language": "Lua",
             "last_commit": "2026-03-02T23:23:59Z",
             "owner": "zombrodo",
@@ -2880,6 +3076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 691217061,
             "language": "Lua",
             "last_commit": "2024-04-22T12:39:54Z",
             "owner": "nekromoff",
@@ -2894,6 +3091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497745883,
             "language": "Lua",
             "last_commit": "2022-05-30T02:08:28Z",
             "owner": "wqferr",
@@ -2908,6 +3106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84180052,
             "language": "Lua",
             "last_commit": "2017-03-08T19:57:58Z",
             "owner": "darkmetalic",
@@ -2922,6 +3121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 715233305,
             "language": "Lua",
             "last_commit": "2026-04-16T01:17:59Z",
             "owner": "frank-f-trafton",
@@ -2936,6 +3136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660600443,
             "language": "Lua",
             "last_commit": "2025-08-15T15:14:06Z",
             "owner": "notcl4y14",
@@ -2950,6 +3151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353636607,
             "language": "MoonScript",
             "last_commit": "2024-10-13T21:07:25Z",
             "owner": "MoonGameLab",
@@ -2964,6 +3166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259329003,
             "language": "Lua",
             "last_commit": "2020-08-25T21:58:53Z",
             "owner": "Sasszem",
@@ -2978,6 +3181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817061117,
             "language": "Lua",
             "last_commit": "2026-06-10T01:26:09Z",
             "owner": "KINGTUT10101",
@@ -2992,6 +3196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27358173,
             "language": "Lua",
             "last_commit": "2015-09-18T11:57:22Z",
             "owner": "josefnpat",
@@ -3012,6 +3217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21475308,
             "language": "Lua",
             "last_commit": "2023-08-23T03:10:40Z",
             "owner": "rxi",
@@ -3026,6 +3232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145616377,
             "language": "C++",
             "last_commit": "2026-04-09T06:32:43Z",
             "owner": "uspgamedev",
@@ -3040,6 +3247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42832823,
             "language": "Lua",
             "last_commit": "2020-02-02T02:10:04Z",
             "owner": "bjornbytes",
@@ -3054,6 +3262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3294425,
             "language": "Lua",
             "last_commit": "2025-03-25T13:54:01Z",
             "owner": "kikito",
@@ -3068,6 +3277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114961511,
             "language": "Lua",
             "last_commit": "2022-06-13T03:44:37Z",
             "owner": "MikuAuahDark",
@@ -3082,6 +3292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31001187,
             "language": "Lua",
             "last_commit": "2021-02-17T00:18:11Z",
             "owner": "bjornbytes",
@@ -3096,6 +3307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12187790,
             "language": "Lua",
             "last_commit": "2015-06-30T10:34:54Z",
             "owner": "ejmr",
@@ -3110,6 +3322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449859190,
             "language": "Lua",
             "last_commit": "2024-05-02T19:30:07Z",
             "owner": "EngineerSmith",
@@ -3124,6 +3337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61999967,
             "language": "C",
             "last_commit": "2022-10-29T04:19:01Z",
             "owner": "WetDesertRock",
@@ -3138,6 +3352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29438687,
             "language": "Lua",
             "last_commit": "2023-11-04T00:48:51Z",
             "owner": "videah",
@@ -3152,6 +3367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5669614,
             "language": "Lua",
             "last_commit": "2021-05-29T15:58:52Z",
             "owner": "Yonaba",
@@ -3166,6 +3382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 915483447,
             "language": "Lua",
             "last_commit": "2025-12-15T15:19:41Z",
             "owner": "Oval-Tutu",
@@ -3180,6 +3397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41580699,
             "language": "Lua",
             "last_commit": "2015-08-29T04:34:37Z",
             "owner": "excessive",
@@ -3194,6 +3412,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 132867091,
             "language": "Lua",
             "last_commit": "2018-05-16T19:33:07Z",
             "owner": "Rami-Sabbagh",
@@ -3208,6 +3427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60312422,
             "language": "Makefile",
             "last_commit": "2024-12-27T20:04:16Z",
             "owner": "Alloyed",
@@ -3222,6 +3442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136644257,
             "language": "Lua",
             "last_commit": "2022-11-20T18:06:05Z",
             "owner": "nobytesgiven",
@@ -3236,6 +3457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111886533,
             "language": "Lua",
             "last_commit": "2019-10-03T11:18:52Z",
             "owner": "santoslove",
@@ -3250,6 +3472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48623942,
             "language": "Lua",
             "last_commit": "2018-11-15T04:41:04Z",
             "owner": "Alloyed",
@@ -3264,6 +3487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388489472,
             "language": "Lua",
             "last_commit": "2021-07-30T14:58:19Z",
             "owner": "vinnyhorgan",
@@ -3278,6 +3502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 428811690,
             "language": "Lua",
             "last_commit": "2021-11-16T21:23:09Z",
             "owner": "premek",
@@ -3292,6 +3517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220284918,
             "language": "Lua",
             "last_commit": "2019-11-07T16:58:33Z",
             "owner": "swalrus1",
@@ -3306,6 +3532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 832135262,
             "language": "Lua",
             "last_commit": "2024-07-22T12:55:46Z",
             "owner": "itzKiwiSky",
@@ -3320,6 +3547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881574325,
             "language": "Lua",
             "last_commit": "2024-11-02T00:29:17Z",
             "owner": "YellowButShort",
@@ -3334,6 +3562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172047796,
             "language": "Lua",
             "last_commit": "2019-04-16T11:28:34Z",
             "owner": "azoyan",
@@ -3348,6 +3577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103968921,
             "language": "Lua",
             "last_commit": "2022-03-21T16:08:29Z",
             "owner": "santoslove",
@@ -3362,6 +3592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 830197557,
             "language": "Lua",
             "last_commit": "2024-07-17T19:42:37Z",
             "owner": "Nawias",
@@ -3376,6 +3607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118155367,
             "language": "Lua",
             "last_commit": "2018-01-19T17:20:43Z",
             "owner": "MusouCrow",
@@ -3390,6 +3622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 793648088,
             "language": "Lua",
             "last_commit": "2024-04-30T19:07:51Z",
             "owner": "Nawias",
@@ -3404,6 +3637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660390562,
             "language": "Lua",
             "last_commit": "2024-12-23T19:30:05Z",
             "owner": "KINGTUT10101",
@@ -3418,6 +3652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710075379,
             "language": "Lua",
             "last_commit": "2025-11-12T23:08:35Z",
             "owner": "KINGTUT10101",
@@ -3432,6 +3667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137805710,
             "language": "Lua",
             "last_commit": "2026-01-29T01:03:51Z",
             "owner": "GwyrddGlas",
@@ -3457,6 +3693,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15313779,
                 "language": "JavaScript",
                 "last_commit": "2023-03-18T14:22:26Z",
                 "owner": "ForbesLindesay",
@@ -3471,6 +3708,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 83051698,
                 "language": "JavaScript",
                 "last_commit": "2018-06-03T15:02:02Z",
                 "owner": "instilledbee",
@@ -3492,6 +3730,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 120320724,
                 "language": "Lua",
                 "last_commit": "2019-01-21T12:42:26Z",
                 "owner": "flamendless",
@@ -3513,6 +3752,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 126278608,
                 "language": "TypeScript",
                 "last_commit": "2026-08-14T12:53:09Z",
                 "owner": "EmmyLua",
@@ -3527,6 +3767,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 32866484,
                 "language": "Lua",
                 "last_commit": "2023-02-28T19:47:22Z",
                 "owner": "rm-code",
@@ -3548,6 +3789,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 48947298,
                 "language": "Lua",
                 "last_commit": "2020-08-07T14:21:14Z",
                 "owner": "davisdude",
@@ -3569,6 +3811,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 72675967,
                 "language": "Lua",
                 "last_commit": "2016-11-21T17:37:00Z",
                 "owner": "dail8859",
@@ -3590,6 +3833,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17337402,
                 "language": null,
                 "last_commit": "2019-07-08T11:00:18Z",
                 "owner": "FireZenk",
@@ -3604,6 +3848,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 41512066,
                 "language": "JavaScript",
                 "last_commit": "2023-04-22T20:34:12Z",
                 "owner": "rameshvarun",
@@ -3618,6 +3863,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70507565,
                 "language": "JavaScript",
                 "last_commit": "2020-11-17T12:08:34Z",
                 "owner": "dapetcu21",
@@ -3632,6 +3878,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 46342288,
                 "language": "JavaScript",
                 "last_commit": "2023-04-22T18:58:51Z",
                 "owner": "rameshvarun",
@@ -3653,6 +3900,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 591567418,
                 "language": "Lua",
                 "last_commit": "2026-07-20T15:15:28Z",
                 "owner": "LuaCATS",
@@ -3667,6 +3915,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 868592523,
                 "language": "Lua",
                 "last_commit": "2026-02-07T05:52:11Z",
                 "owner": "alejandro-alzate",
@@ -3689,11 +3938,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9435153,
             "language": null,
             "last_commit": "2026-07-26T18:38:02Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9412
+            "stars": 9413
           }
         },
         {
@@ -3703,6 +3953,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14150021,
             "language": "Lua",
             "last_commit": "2024-07-10T11:51:46Z",
             "owner": "MisterDA",
@@ -3717,6 +3968,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238782715,
             "language": "Python",
             "last_commit": "2026-06-01T06:14:55Z",
             "owner": "pfirsich",
@@ -3731,6 +3983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 907020907,
             "language": "Lua",
             "last_commit": "2025-12-15T00:11:35Z",
             "owner": "Oval-Tutu",
@@ -3745,6 +3998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132614949,
             "language": "Rust",
             "last_commit": "2026-04-02T15:39:55Z",
             "owner": "camchenry",
@@ -3759,6 +4013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 731758681,
             "language": "Lua",
             "last_commit": "2025-05-30T10:19:28Z",
             "owner": "ellraiser",
@@ -3773,6 +4028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198888924,
             "language": "Shell",
             "last_commit": "2020-04-25T16:38:35Z",
             "owner": "dmoa",
@@ -3787,6 +4043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 869155719,
             "language": "Rust",
             "last_commit": "2026-07-25T15:25:26Z",
             "owner": "Wolfyxon",
@@ -3801,6 +4058,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81138909,
             "language": "Shell",
             "last_commit": "2017-02-10T00:18:29Z",
             "owner": "popey",
@@ -3815,6 +4073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391667846,
             "language": "Lua",
             "last_commit": "2023-07-08T07:12:41Z",
             "owner": "MikuAuahDark",
@@ -3829,6 +4088,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511323486,
             "language": "TypeScript",
             "last_commit": "2022-09-16T12:09:38Z",
             "owner": "simplifylabs",
@@ -3843,6 +4103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385123219,
             "language": "Makefile",
             "last_commit": "2024-04-07T20:08:04Z",
             "owner": "tducasse",
@@ -3857,6 +4118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 829868411,
             "language": "Shell",
             "last_commit": "2024-07-29T07:06:22Z",
             "owner": "tpimh",
@@ -3868,7 +4130,7 @@
       "title": "Distribution"
     },
     {
-      "description": "",
+      "description": "Other awesome lists can be found in the awesome-awesomeness list.",
       "items": [
         {
           "node_type": "item",
@@ -3877,11 +4139,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23039606,
             "language": null,
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4553
+            "stars": 4554
           }
         },
         {
@@ -3891,11 +4154,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44119302,
             "language": null,
             "last_commit": "2026-07-28T13:25:56Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3065
+            "stars": 3066
           }
         },
         {
@@ -3905,6 +4169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44209147,
             "language": "GLSL",
             "last_commit": "2015-10-13T22:58:56Z",
             "owner": "karai17",
@@ -3917,8 +4182,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:02:52.223Z",
+    "last_updated": "2026-08-19T12:40:20.708Z",
     "original_repository": "love2d-community/awesome-love2d",
+    "original_repository_id": 42526631,
     "original_repository_sha": "fd851a96c81f87964e4c4d6b8906083b5a7a3c36",
     "enhanced_repository": "enhansome/enhansome-love2d",
     "enhanced_repository_description": null,
