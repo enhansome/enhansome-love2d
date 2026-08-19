@@ -53,7 +53,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper](https://github.com/Yonaba/Jumper) ⭐ 649 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - Grid-based pathfinding library.
+* [Jumper](https://github.com/Yonaba/Jumper) ⭐ 650 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - Grid-based pathfinding library.
 * [Lua-star](https://github.com/wesleywerner/lua-star) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2021-07-25 - Easy and pure Lua A\* path finding.
 * [Luafinding](https://github.com/GlorifiedPig/Luafinding) ⭐ 44 | 🐛 1 | 🌐 Lua | 📅 2022-09-23 - Class-based A\* implementation written purely in Lua.
 * [beehive.lua](https://github.com/drhayes/beehive.lua) ⭐ 30 | 🐛 0 | 🌐 Lua | 📅 2022-06-09 - A functional behavior tree implementation.
@@ -135,7 +135,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) ⭐ 785 | 🐛 0 | 🌐 Lua | 📅 2023-03-15 - Entity Component System for Lua that's simple, flexible, and useful.
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) ⭐ 519 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Minimalist functional ECS.
-* [Concord](https://github.com/Keyslam-Group/Concord) ⭐ 322 | 🐛 10 | 🌐 Lua | 📅 2026-07-24 - A feature-complete ECS library.
+* [Concord](https://github.com/Keyslam-Group/Concord) ⭐ 323 | 🐛 10 | 🌐 Lua | 📅 2026-07-24 - A feature-complete ECS library.
 * [ecs-lua](https://github.com/nidorx/ecs-lua) ⭐ 232 | 🐛 9 | 🌐 Lua | 📅 2024-06-24 - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
 * [evolved.lua](https://github.com/BlackMATov/evolved.lua) ⭐ 219 | 🐛 1 | 🌐 Lua | 📅 2026-08-18 - Evolved ECS (Entity-Component-System) for Lua.
 * [nata](https://github.com/tesselode/nata) ⭐ 51 | 🐛 1 | 🌐 Lua | 📅 2021-01-20 - Hybrid OOP/ECS entity management.
@@ -206,8 +206,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [delaunay](https://github.com/Yonaba/delaunay) ⭐ 110 | 🐛 1 | 🌐 Lua | 📅 2017-11-21 - Triangulation library for convex polygons.
 * [MLib](https://github.com/davisdude/mlib) ⭐ 90 | 🐛 2 | 🌐 Lua | 📅 2024-01-04 - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use.
 * [shash](https://github.com/rxi/shash) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2022-06-22 - A simple, lightweight spatial hash for Lua.
+* [brinevector](https://github.com/novemberisms/brinevector) ⭐ 66 | 🐛 2 | 🌐 Lua | 📅 2022-08-21 - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.
 * [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2024-10-05 - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
-* [brinevector](https://github.com/novemberisms/brinevector) ⭐ 65 | 🐛 2 | 🌐 Lua | 📅 2022-08-21 - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.
 * [vector.lua](https://github.com/automattf/vector.lua) ⭐ 63 | 🐛 3 | 🌐 Lua | 📅 2024-12-03 - A simple vector library based on the PVector class from processing.
 * [Vornmath](https://github.com/DUznanski/vornmath) ⭐ 22 | 🐛 13 | 🌐 Lua | 📅 2026-05-23 - The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.
 * [Bresenham](https://github.com/rm-code/Bresenham) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2017-03-23 - Bresenham's line algorithm written in Lua.
