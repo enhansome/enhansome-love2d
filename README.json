@@ -267,7 +267,7 @@
             "last_commit": "2022-01-20T22:22:06Z",
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 987
+            "stars": 988
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-06-25T10:02:20Z",
             "owner": "nhartland",
             "repo": "love-build",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1674,7 +1674,7 @@
             "last_commit": "2026-02-08T07:41:34Z",
             "owner": "speakk",
             "repo": "lighter",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -2118,7 +2118,7 @@
             "last_commit": "2021-12-31T14:37:20Z",
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1073
+            "stars": 1072
           }
         },
         {
@@ -2168,21 +2168,6 @@
         },
         {
           "node_type": "item",
-          "title": "LowerClass",
-          "description": "A MiddleClass Inspired library with extended features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 882870794,
-            "language": "Lua",
-            "last_commit": "2025-01-03T17:05:43Z",
-            "owner": "DevonPalma",
-            "repo": "LowerClass",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "muun",
           "description": "Moonscript compatible class implementation.",
           "children": [],
@@ -2193,6 +2178,21 @@
             "last_commit": "2021-06-02T17:33:40Z",
             "owner": "megagrump",
             "repo": "muun",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LowerClass",
+          "description": "A MiddleClass Inspired library with extended features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 882870794,
+            "language": "Lua",
+            "last_commit": "2025-01-03T17:05:43Z",
+            "owner": "DevonPalma",
+            "repo": "LowerClass",
             "stars": 7
           }
         },
@@ -2358,7 +2358,7 @@
             "archived": false,
             "id": 62519414,
             "language": "C",
-            "last_commit": "2026-08-17T19:08:40Z",
+            "last_commit": "2026-08-20T00:38:42Z",
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2587
@@ -2492,6 +2492,21 @@
         },
         {
           "node_type": "item",
+          "title": "moonblob",
+          "description": "Binary serialization and data parsing library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 155223120,
+            "language": "MoonScript",
+            "last_commit": "2024-03-13T10:44:35Z",
+            "owner": "megagrump",
+            "repo": "moonblob",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
           "title": "trickle",
           "description": "A bitstream library focused on high compression for use in networking.",
           "children": [],
@@ -2517,21 +2532,6 @@
             "last_commit": "2015-08-14T20:13:09Z",
             "owner": "excessive",
             "repo": "cdata",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moonblob",
-          "description": "Binary serialization and data parsing library.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 155223120,
-            "language": "MoonScript",
-            "last_commit": "2024-03-13T10:44:35Z",
-            "owner": "megagrump",
-            "repo": "moonblob",
             "stars": 30
           }
         },
@@ -2649,7 +2649,7 @@
             "last_commit": "2026-07-30T12:47:38Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1628
+            "stars": 1629
           }
         },
         {
@@ -2679,7 +2679,7 @@
             "last_commit": "2026-08-15T09:10:03Z",
             "owner": "lunarmodules",
             "repo": "luassert",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -2826,7 +2826,7 @@
             "last_commit": "2026-07-15T14:28:50Z",
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -2868,7 +2868,7 @@
             "archived": false,
             "id": 123006889,
             "language": "Lua",
-            "last_commit": "2026-08-19T11:18:48Z",
+            "last_commit": "2026-08-19T17:20:40Z",
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
             "stars": 300
@@ -3757,7 +3757,7 @@
                 "last_commit": "2026-08-14T12:53:09Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 748
+                "stars": 749
               }
             },
             {
@@ -4144,7 +4144,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4554
+            "stars": 4555
           }
         },
         {
@@ -4159,7 +4159,7 @@
             "last_commit": "2026-07-28T13:25:56Z",
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3066
+            "stars": 3068
           }
         },
         {
@@ -4182,7 +4182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:03:18.660Z",
+    "last_updated": "2026-08-20T16:04:52.386Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_id": 42526631,
     "original_repository_sha": "fd851a96c81f87964e4c4d6b8906083b5a7a3c36",
