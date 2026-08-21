@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 829
+            "stars": 830
           }
         },
         {
@@ -1659,7 +1659,7 @@
             "last_commit": "2020-07-08T02:18:57Z",
             "owner": "matiasah",
             "repo": "shadows",
-            "stars": 183
+            "stars": 179
           }
         },
         {
@@ -2229,7 +2229,7 @@
             "last_commit": "2026-08-06T13:47:17Z",
             "owner": "pfirsich",
             "repo": "jprof",
-            "stars": 104
+            "stars": 102
           }
         },
         {
@@ -2391,7 +2391,7 @@
             "last_commit": "2026-08-18T03:45:00Z",
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 699
+            "stars": 700
           }
         },
         {
@@ -2826,7 +2826,7 @@
             "last_commit": "2026-07-15T14:28:50Z",
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -3234,7 +3234,7 @@
             "archived": false,
             "id": 145616377,
             "language": "C++",
-            "last_commit": "2026-04-09T06:32:43Z",
+            "last_commit": "2026-08-21T12:24:05Z",
             "owner": "uspgamedev",
             "repo": "luasteam",
             "stars": 238
@@ -3757,7 +3757,7 @@
                 "last_commit": "2026-08-14T12:53:09Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 749
+                "stars": 750
               }
             },
             {
@@ -3772,7 +3772,7 @@
                 "last_commit": "2023-02-28T19:47:22Z",
                 "owner": "rm-code",
                 "repo": "love-IDEA-plugin",
-                "stars": 61
+                "stars": 60
               }
             }
           ]
@@ -3988,7 +3988,7 @@
             "last_commit": "2025-12-15T00:11:35Z",
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -4182,7 +4182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:04:52.386Z",
+    "last_updated": "2026-08-21T16:04:49.253Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_id": 42526631,
     "original_repository_sha": "fd851a96c81f87964e4c4d6b8906083b5a7a3c36",
