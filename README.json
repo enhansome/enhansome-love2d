@@ -981,7 +981,7 @@
             "last_commit": "2023-03-15T01:27:58Z",
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 785
+            "stars": 786
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2023-02-22T10:04:41Z",
             "owner": "HDictus",
             "repo": "hump",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -2310,7 +2310,7 @@
             "last_commit": "2026-04-08T17:54:35Z",
             "owner": "erinmaus",
             "repo": "slick",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -2811,7 +2811,7 @@
             "last_commit": "2023-08-26T22:45:07Z",
             "owner": "vrld",
             "repo": "suit",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -2868,10 +2868,10 @@
             "archived": false,
             "id": 123006889,
             "language": "Lua",
-            "last_commit": "2026-08-19T17:20:40Z",
+            "last_commit": "2026-08-23T10:53:55Z",
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -2906,21 +2906,6 @@
         },
         {
           "node_type": "item",
-          "title": "Helium",
-          "description": "A modern, customizable, high performance retained UI framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 240363458,
-            "language": "Lua",
-            "last_commit": "2025-04-01T13:24:27Z",
-            "owner": "qeffects",
-            "repo": "helium",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Luis",
           "description": "Love UI System - A retained mode UI framework for LÖVE with input processing (mouse, keyboard, touch, gamepad), layer-, grid-, state-, theming-system, UI editor, 16+ widgets (for desktop & mobile).",
           "children": [],
@@ -2931,6 +2916,21 @@
             "last_commit": "2026-06-21T11:10:17Z",
             "owner": "SiENcE",
             "repo": "luis",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helium",
+          "description": "A modern, customizable, high performance retained UI framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240363458,
+            "language": "Lua",
+            "last_commit": "2025-04-01T13:24:27Z",
+            "owner": "qeffects",
+            "repo": "helium",
             "stars": 124
           }
         },
@@ -3021,7 +3021,7 @@
             "last_commit": "2026-08-12T21:01:20Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -3237,7 +3237,7 @@
             "last_commit": "2026-08-22T13:55:39Z",
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -3943,7 +3943,7 @@
             "last_commit": "2026-07-26T18:38:02Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9412
+            "stars": 9414
           }
         },
         {
@@ -4182,7 +4182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:57:33.875Z",
+    "last_updated": "2026-08-23T15:58:06.449Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_id": 42526631,
     "original_repository_sha": "fd851a96c81f87964e4c4d6b8906083b5a7a3c36",
