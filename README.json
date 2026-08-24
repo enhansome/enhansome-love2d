@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 830
+            "stars": 831
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-05-04T05:59:30Z",
             "owner": "josh-perry",
             "repo": "peachy",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2021-07-29T13:38:21Z",
             "owner": "kikito",
             "repo": "gamera",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2020-06-10T00:07:43Z",
             "owner": "davisdude",
             "repo": "Brady",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -826,6 +826,21 @@
             "owner": "hsluv",
             "repo": "hsluv-lua",
             "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lovector",
+          "description": "A pure-lua vector graphics processing and rendering library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177310679,
+            "language": "Lua",
+            "last_commit": "2026-08-06T00:23:21Z",
+            "owner": "nasso",
+            "repo": "lovector",
+            "stars": 49
           }
         },
         {
@@ -2871,7 +2886,7 @@
             "last_commit": "2026-08-23T10:53:55Z",
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -3187,6 +3202,21 @@
             "owner": "KINGTUT10101",
             "repo": "TuxRedux",
             "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "likelihud",
+          "description": "A simple UI library with a declarative QML-like approach of defining UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 904235092,
+            "language": "Lua",
+            "last_commit": "2026-07-23T17:16:46Z",
+            "owner": "LRDPRDX",
+            "repo": "LikeliHUD",
+            "stars": 5
           }
         },
         {
@@ -4182,10 +4212,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:58:06.449Z",
+    "last_updated": "2026-08-24T13:59:57.365Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_id": 42526631,
-    "original_repository_sha": "fd851a96c81f87964e4c4d6b8906083b5a7a3c36",
+    "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
     "enhanced_repository": "enhansome/enhansome-love2d",
     "enhanced_repository_description": null,
     "title": "Awesome Löve with stars"
