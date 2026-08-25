@@ -45,7 +45,7 @@
             "last_commit": "2025-08-26T09:15:20Z",
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 295
+            "stars": 296
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2023-07-22T23:29:56Z",
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 377
+            "stars": 378
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-06T00:23:21Z",
             "owner": "nasso",
             "repo": "lovector",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -1107,7 +1107,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1239
+            "stars": 1240
           }
         },
         {
@@ -1442,21 +1442,6 @@
         },
         {
           "node_type": "item",
-          "title": "GameStateManager",
-          "description": "A lightweight, optimized, and easy-to-implement solution for efficient game state management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 771264620,
-            "language": "Lua",
-            "last_commit": "2025-12-28T23:59:34Z",
-            "owner": "GwyrddGlas",
-            "repo": "GameStateManager",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
           "title": "grove.color",
           "description": "Blend, convert and interpolate colors using 'color objects'.",
           "children": [],
@@ -1483,6 +1468,21 @@
             "owner": "MineGame159",
             "repo": "shard",
             "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GameStateManager",
+          "description": "A lightweight, optimized, and easy-to-implement solution for efficient game state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771264620,
+            "language": "Lua",
+            "last_commit": "2025-12-28T23:59:34Z",
+            "owner": "GwyrddGlas",
+            "repo": "GameStateManager",
+            "stars": 19
           }
         },
         {
@@ -2295,7 +2295,7 @@
             "last_commit": "2023-09-29T16:28:50Z",
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1098
+            "stars": 1099
           }
         },
         {
@@ -2661,7 +2661,7 @@
             "archived": false,
             "id": 5336227,
             "language": "Lua",
-            "last_commit": "2026-07-30T12:47:38Z",
+            "last_commit": "2026-08-24T19:26:19Z",
             "owner": "lunarmodules",
             "repo": "busted",
             "stars": 1629
@@ -2928,10 +2928,10 @@
             "archived": false,
             "id": 862961685,
             "language": "Lua",
-            "last_commit": "2026-06-21T11:10:17Z",
+            "last_commit": "2026-08-24T17:40:29Z",
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -3036,7 +3036,7 @@
             "last_commit": "2026-08-12T21:01:20Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:16:16.963Z",
+    "last_updated": "2026-08-25T06:12:18.830Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_id": 42526631,
     "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
