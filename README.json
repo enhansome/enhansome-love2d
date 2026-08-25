@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T20:29:38Z",
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 831
+            "stars": 832
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2023-09-25T01:10:23Z",
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2026-07-24T20:46:24Z",
             "owner": "Keyslam-Group",
             "repo": "Concord",
-            "stars": 324
+            "stars": 325
           }
         },
         {
@@ -1916,21 +1916,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "lovebpm",
-          "description": "A LÖVE library for syncing events to the BPM of an audio track.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 62452282,
-            "language": "Lua",
-            "last_commit": "2021-08-06T03:57:23Z",
-            "owner": "rxi",
-            "repo": "lovebpm",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
           "title": "wave",
           "description": "A sound manager with audio parsing and rhythm functionalities.",
           "children": [],
@@ -1941,6 +1926,21 @@
             "last_commit": "2018-06-09T22:27:33Z",
             "owner": "Ulydev",
             "repo": "wave",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lovebpm",
+          "description": "A LÖVE library for syncing events to the BPM of an audio track.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62452282,
+            "language": "Lua",
+            "last_commit": "2021-08-06T03:57:23Z",
+            "owner": "rxi",
+            "repo": "lovebpm",
             "stars": 102
           }
         },
@@ -2661,7 +2661,7 @@
             "archived": false,
             "id": 5336227,
             "language": "Lua",
-            "last_commit": "2026-08-24T19:26:19Z",
+            "last_commit": "2026-08-25T14:38:05Z",
             "owner": "lunarmodules",
             "repo": "busted",
             "stars": 1629
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:18.830Z",
+    "last_updated": "2026-08-25T16:18:39.925Z",
     "original_repository": "love2d-community/awesome-love2d",
     "original_repository_id": 42526631,
     "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
