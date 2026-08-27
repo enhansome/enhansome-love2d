@@ -1149,7 +1149,7 @@
             "archived": false,
             "id": 236895355,
             "language": "Lua",
-            "last_commit": "2026-08-19T04:23:05Z",
+            "last_commit": "2026-08-27T05:55:08Z",
             "owner": "1bardesign",
             "repo": "batteries",
             "stars": 435
@@ -2373,10 +2373,10 @@
             "archived": false,
             "id": 62519414,
             "language": "C",
-            "last_commit": "2026-08-21T20:20:08Z",
+            "last_commit": "2026-08-27T06:12:32Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2586
+            "stars": 2587
           }
         },
         {
@@ -2664,7 +2664,7 @@
             "last_commit": "2026-08-25T14:38:05Z",
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1629
+            "stars": 1630
           }
         },
         {
@@ -2883,10 +2883,10 @@
             "archived": false,
             "id": 123006889,
             "language": "Lua",
-            "last_commit": "2026-08-23T10:53:55Z",
+            "last_commit": "2026-08-27T11:10:58Z",
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -3041,6 +3041,21 @@
         },
         {
           "node_type": "item",
+          "title": "LOVELi",
+          "description": "Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1058344189,
+            "language": "Lua",
+            "last_commit": "2026-07-13T02:12:31Z",
+            "owner": "mtanksl",
+            "repo": "LOVELi",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Patchy",
           "description": "9patch library.",
           "children": [],
@@ -3052,21 +3067,6 @@
             "owner": "excessive",
             "repo": "patchy",
             "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LOVELi",
-          "description": "Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1058344189,
-            "language": "Lua",
-            "last_commit": "2026-07-13T02:12:31Z",
-            "owner": "mtanksl",
-            "repo": "LOVELi",
-            "stars": 37
           }
         },
         {
@@ -3213,7 +3213,7 @@
             "archived": false,
             "id": 904235092,
             "language": "Lua",
-            "last_commit": "2026-08-26T16:36:31Z",
+            "last_commit": "2026-08-26T16:51:12Z",
             "owner": "LRDPRDX",
             "repo": "LikeliHUD",
             "stars": 5
@@ -3973,7 +3973,7 @@
             "last_commit": "2026-07-26T18:38:02Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9416
+            "stars": 9415
           }
         },
         {
@@ -4212,9 +4212,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:13.072Z",
-    "original_repository": "love2d-community/awesome-love2d",
-    "original_repository_id": 42526631,
+    "last_updated": "2026-08-27T11:48:26.876Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 42526631,
+      "language": "PowerShell",
+      "last_commit": "2026-08-23T19:12:18Z",
+      "owner": "love2d-community",
+      "repo": "awesome-love2d",
+      "stars": 4480
+    },
     "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
     "enhanced_repository": "enhansome/enhansome-love2d",
     "enhanced_repository_description": null,
