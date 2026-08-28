@@ -297,7 +297,7 @@
             "last_commit": "2026-05-04T05:59:30Z",
             "owner": "josh-perry",
             "repo": "peachy",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-02-17T11:10:18Z",
             "owner": "Nikaoto",
             "repo": "deep",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2025-05-23T08:38:34Z",
             "owner": "Oval-Tutu",
             "repo": "shove",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -815,21 +815,6 @@
         },
         {
           "node_type": "item",
-          "title": "HSLUV",
-          "description": "Lua implementation of HSLuv (a human-friendly alternative to HSL).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 23729551,
-            "language": "Lua",
-            "last_commit": "2023-05-03T02:08:24Z",
-            "owner": "hsluv",
-            "repo": "hsluv-lua",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
           "title": "lovector",
           "description": "A pure-lua vector graphics processing and rendering library.",
           "children": [],
@@ -840,6 +825,21 @@
             "last_commit": "2026-08-06T00:23:21Z",
             "owner": "nasso",
             "repo": "lovector",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HSLUV",
+          "description": "Lua implementation of HSLuv (a human-friendly alternative to HSL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23729551,
+            "language": "Lua",
+            "last_commit": "2023-05-03T02:08:24Z",
+            "owner": "hsluv",
+            "repo": "hsluv-lua",
             "stars": 50
           }
         },
@@ -1041,7 +1041,7 @@
             "last_commit": "2024-06-24T06:34:40Z",
             "owner": "nidorx",
             "repo": "ecs-lua",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -1122,7 +1122,7 @@
             "last_commit": "2024-03-24T11:43:23Z",
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -2598,7 +2598,7 @@
             "last_commit": "2023-12-23T00:39:23Z",
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 725
+            "stars": 726
           }
         },
         {
@@ -3036,7 +3036,7 @@
             "last_commit": "2026-08-12T21:01:20Z",
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -3787,7 +3787,7 @@
                 "last_commit": "2026-08-14T12:53:09Z",
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 751
+                "stars": 752
               }
             },
             {
@@ -3973,7 +3973,7 @@
             "last_commit": "2026-07-26T18:38:02Z",
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9415
+            "stars": 9416
           }
         },
         {
@@ -4048,7 +4048,7 @@
             "last_commit": "2025-05-30T10:19:28Z",
             "owner": "ellraiser",
             "repo": "love-build",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -4174,7 +4174,7 @@
             "last_commit": "2024-08-11T17:32:00Z",
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4556
+            "stars": 4557
           }
         },
         {
@@ -4212,7 +4212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:26.876Z",
+    "last_updated": "2026-08-28T00:36:22.125Z",
     "original_repository_info": {
       "archived": false,
       "id": 42526631,
@@ -4220,7 +4220,7 @@
       "last_commit": "2026-08-23T19:12:18Z",
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4480
+      "stars": 4478
     },
     "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
     "enhanced_repository": "enhansome/enhansome-love2d",
