@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and easy 3D engine for LÖVE.",
+            "homepage": null,
             "id": 172617852,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-03T20:29:38Z",
+            "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 832
+            "stars": 832,
+            "topics": [
+              "g3d",
+              "love2d",
+              "lua",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -26,12 +36,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3DreamEngine is an *awesome* 3d engine for LÖVE.",
+            "homepage": null,
             "id": 178612316,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-05-25T06:09:10Z",
+            "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "2d",
+              "3",
+              "3d",
+              "3dengine",
+              "3dreamengine",
+              "dream",
+              "engine",
+              "love",
+              "love2d"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -42,12 +67,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for 3D rendering with LÖVE.",
+            "homepage": null,
             "id": 282748292,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-08-26T09:15:20Z",
+            "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 297
+            "stars": 297,
+            "topics": [
+              "3d",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -58,12 +92,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3D collision detection library for Lua.",
+            "homepage": null,
             "id": 96963599,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-07-03T19:17:54Z",
+            "open_issues": 0,
             "owner": "oniietzschan",
             "repo": "bump-3dpd",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "love2d"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -74,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of modules to load and render voxels in Love2d",
+            "homepage": null,
             "id": 75201141,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-07-08T12:50:17Z",
+            "open_issues": 0,
             "owner": "Keyslam",
             "repo": "Lovox",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -90,12 +136,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IQM & EXM model format specs, Blender exporter, and LÖVE loader.",
+            "homepage": null,
             "id": 39682670,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2021-06-04T00:38:00Z",
+            "open_issues": 7,
             "owner": "excessive",
             "repo": "iqm-exm",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "blender-addon",
+              "blender-exporter",
+              "iqm",
+              "love2d",
+              "love2d-library",
+              "luajit",
+              "sdk",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -106,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animation library for LÖVE3D",
+            "homepage": null,
             "id": 41474044,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2020-05-07T19:47:28Z",
+            "open_issues": 0,
             "owner": "excessive",
             "repo": "anim9",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -122,12 +187,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple ffi-accelerated vector library for everyone with support for z-axis",
+            "homepage": null,
             "id": 130220440,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2019-09-05T13:23:48Z",
+            "open_issues": 0,
             "owner": "flamendless",
             "repo": "brinevector3D",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "library",
+              "love2d",
+              "lua",
+              "math",
+              "tool",
+              "vector"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -138,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Load an Inter-Quake Export file into Lua",
+            "homepage": null,
             "id": 24841313,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2015-08-27T07:32:46Z",
+            "open_issues": 0,
             "owner": "excessive",
             "repo": "iqe",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -160,12 +242,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, lightweight and easy-to-use pathfinding library for grid-based games",
+            "homepage": "http://yonaba.github.io/Jumper",
             "id": 6157826,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-10-21T09:02:33Z",
+            "open_issues": 39,
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 650
+            "stars": 650,
+            "topics": [
+              "gamedev",
+              "lua",
+              "pathfinding",
+              "pathfinding-algorithms",
+              "pathfinding-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -176,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy A* path finding for Lua",
+            "homepage": null,
             "id": 112820645,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-07-25T21:38:03Z",
+            "open_issues": 0,
             "owner": "wesleywerner",
             "repo": "lua-star",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -192,12 +290,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast & easy-to-use A* module written in Lua",
+            "homepage": null,
             "id": 343318631,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-09-23T15:25:04Z",
+            "open_issues": 1,
             "owner": "GlorifiedPig",
             "repo": "Luafinding",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "love2d",
+              "lua",
+              "pathfinding"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -208,12 +315,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A behavior tree implementation in lua.",
+            "homepage": null,
             "id": 280684210,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-06-09T04:31:50Z",
+            "open_issues": 0,
             "owner": "drhayes",
             "repo": "beehive.lua",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "behavior-tree",
+              "game-ai",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -224,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 934393964,
             "language": "Lua",
+            "license": "MPL-2.0",
             "last_commit": "2025-02-17T18:56:30Z",
+            "open_issues": 0,
             "owner": "Nrosa01",
             "repo": "LOVElyTrees",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -240,12 +361,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A star path finder for Lua",
+            "homepage": null,
             "id": 249422636,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-06-06T07:45:22Z",
+            "open_issues": 1,
             "owner": "xiejiangzhi",
             "repo": "astar",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "astar-algorithm",
+              "lua",
+              "path-finder"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -256,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 571810885,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-06-18T19:40:34Z",
+            "open_issues": 1,
             "owner": "Safebox36",
             "repo": "OdaiHTN",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -278,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An animation library for LÖVE",
+            "homepage": null,
             "id": 3574209,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-01-20T22:22:06Z",
+            "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 988
+            "stars": 988,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -294,12 +434,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text rendering with tag support.",
+            "homepage": null,
             "id": 246699228,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-08-03T19:09:19Z",
+            "open_issues": 0,
             "owner": "sysl-dev",
             "repo": "SYSL-Text",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "draw",
+              "love2d",
+              "sprite-text",
+              "text",
+              "textboxes"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -310,12 +461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser/renderer for Aseprite animations in LÖVE. :peach:",
+            "homepage": null,
             "id": 130282173,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-04T05:59:30Z",
+            "open_issues": 0,
             "owner": "josh-perry",
             "repo": "peachy",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "animation",
+              "game-development",
+              "graphics",
+              "love",
+              "love2d",
+              "love2d-framework"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -326,12 +489,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aseprite file loader for love2d",
+            "homepage": null,
             "id": 372405302,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-07-14T13:48:34Z",
+            "open_issues": 0,
             "owner": "elloramir",
             "repo": "love-ase",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "aseprite",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -342,12 +514,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An animation library for LÖVE. ",
+            "homepage": null,
             "id": 37038062,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-05-21T03:22:00Z",
+            "open_issues": 0,
             "owner": "davisdude",
             "repo": "Walt",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "animation-library",
+              "love2d"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -358,12 +538,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":green_heart: A minimal Love2D animation library",
+            "homepage": null,
             "id": 13721323,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-10-17T09:35:38Z",
+            "open_issues": 0,
             "owner": "patrixr",
             "repo": "love-animation",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "animation",
+              "game-development",
+              "hacktoberfest",
+              "love2d",
+              "love2d-animation-library",
+              "lua",
+              "sprites"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -374,12 +567,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An animation library for Love2D with unique features",
+            "homepage": null,
             "id": 222457916,
             "language": "Lua",
+            "license": null,
             "last_commit": "2021-10-16T14:57:49Z",
+            "open_issues": 4,
             "owner": "besnoi",
             "repo": "animX",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "animation-fsm",
+              "animation-library",
+              "animation-modes",
+              "extracting-animations",
+              "love2d",
+              "love2d-animation-library",
+              "love2d-library",
+              "spritesheet-animation"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -390,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "andross is a Lua library for 2D skeletal/bone animations. ",
+            "homepage": null,
             "id": 83213735,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-01-14T15:14:45Z",
+            "open_issues": 0,
             "owner": "pfirsich",
             "repo": "andross",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -406,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy Spine animations for LÖVE",
+            "homepage": null,
             "id": 44459788,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-03-18T16:43:54Z",
+            "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "chiro",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -422,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A skeletal animation system for LÖVE 2D. https://love2d.org",
+            "homepage": null,
             "id": 10902281,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2019-05-10T00:55:51Z",
+            "open_issues": 1,
             "owner": "pelevesque",
             "repo": "skeletor",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -438,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flump runtime for LÖVE2D.",
+            "homepage": null,
             "id": 62301659,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-07-05T08:08:08Z",
+            "open_issues": 0,
             "owner": "sixFingers",
             "repo": "lump",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -460,12 +687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A camera system for LÖVE",
+            "homepage": null,
             "id": 7152521,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-07-29T13:38:21Z",
+            "open_issues": 0,
             "owner": "kikito",
             "repo": "gamera",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -476,12 +708,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A camera library with parallax scrolling and aspect ratios for LÖVE. ",
+            "homepage": null,
             "id": 33282804,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-06-10T00:07:43Z",
+            "open_issues": 0,
             "owner": "davisdude",
             "repo": "Brady",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "camera",
+              "camera-library",
+              "love2d",
+              "parallax-scrolling"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -492,12 +734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gamera and HUMP compatible scaling grid for LÖVE",
+            "homepage": null,
             "id": 38699419,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-07-30T02:08:04Z",
+            "open_issues": 1,
             "owner": "bakpakin",
             "repo": "Editgrid",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -508,12 +755,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility library for LÖVE that adds parallax scrolling to your camera.",
+            "homepage": "https://idbrii.github.io/love-parallax/demo/",
             "id": 348961593,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-01-11T08:35:16Z",
+            "open_issues": 0,
             "owner": "idbrii",
             "repo": "love-parallax",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "love2d",
+              "parallax",
+              "parallax-scrolling"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -524,12 +780,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Room-based camera with smooth transitions for LÖVE",
+            "homepage": null,
             "id": 1137046282,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-01-18T21:14:12Z",
+            "open_issues": 0,
             "owner": "mshiplet",
             "repo": "roomshift",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "2d",
+              "camera",
+              "game-development",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -546,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-swaps changed Lua files in a running LÖVE project",
+            "homepage": null,
             "id": 17454896,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-07-22T23:29:56Z",
+            "open_issues": 6,
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 378
+            "stars": 378,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -562,12 +834,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The whole LÖVE wiki in a Lua table.",
+            "homepage": "http://love2d-community.github.io/love-api/",
             "id": 32788810,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-05-07T03:07:24Z",
+            "open_issues": 13,
             "owner": "love2d-community",
             "repo": "love-api",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -578,12 +858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser-based debug console for LÖVE",
+            "homepage": null,
             "id": 18712087,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-05-08T07:48:32Z",
+            "open_issues": 6,
             "owner": "rxi",
             "repo": "lovebird",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -594,12 +879,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write LÖVE 2D projects with TypeScript",
+            "homepage": null,
             "id": 148103191,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-31T12:05:24Z",
+            "open_issues": 3,
             "owner": "hazzard993",
             "repo": "love-typescript-definitions",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "love2d",
+              "lua",
+              "typescript",
+              "typescript-declaration",
+              "typescript-definitions",
+              "typescripttolua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -610,12 +907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action for building a LÖVE Project",
+            "homepage": "https://github.com/marketplace/actions/love-build",
             "id": 253291222,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-25T10:02:20Z",
+            "open_issues": 2,
             "owner": "nhartland",
             "repo": "love-build",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -626,12 +928,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI based in-game debugging system for LÖVE",
+            "homepage": null,
             "id": 129567795,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-30T20:35:23Z",
+            "open_issues": 4,
             "owner": "deltadaedalus",
             "repo": "vudu",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "debug",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -642,12 +953,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fixed and updated repo of LOVEDEBUG",
+            "homepage": null,
             "id": 127731569,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-09-04T04:00:43Z",
+            "open_issues": 0,
             "owner": "flamendless",
             "repo": "lovedebug",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "game",
+              "library",
+              "love",
+              "love2d",
+              "lovedebug",
+              "module"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -658,12 +981,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An fps/memory/misc graph utillity for Löve2D",
+            "homepage": null,
             "id": 48611008,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2017-09-17T14:27:58Z",
+            "open_issues": 0,
             "owner": "Mechazawa",
             "repo": "Love-Debug-Graph",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "debugger",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -674,12 +1006,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💚  A Love2D live reloader with Moonscript support",
+            "homepage": null,
             "id": 235018706,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-05-11T01:00:23Z",
+            "open_issues": 2,
             "owner": "patrixr",
             "repo": "lovelier",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "2d-game",
+              "game-development",
+              "hot-reload",
+              "hotreload",
+              "livereload",
+              "love2d",
+              "love2d-framework",
+              "lua",
+              "moonscript",
+              "reload"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -690,12 +1038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small FPS graphing utility for LOVE",
+            "homepage": null,
             "id": 18350634,
             "language": "Lua",
+            "license": null,
             "last_commit": "2014-04-03T01:48:36Z",
+            "open_issues": 0,
             "owner": "icrawler",
             "repo": "FPSGraph",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -706,12 +1059,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SImple profiler for Löve2D framework, outputs data to canvas and/or terminal.",
+            "homepage": "https://www.whoop.ee/post/love-profiler.html",
             "id": 439714648,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-08-15T17:39:32Z",
+            "open_issues": 0,
             "owner": "dknight",
             "repo": "loveprofiler",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "love2d",
+              "profile"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -728,12 +1089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple resolution-handling library for LÖVE",
+            "homepage": null,
             "id": 40838200,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-09-25T01:10:23Z",
+            "open_issues": 16,
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 668
+            "stars": 668,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -744,12 +1110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small LÖVE module to automate the use of SpriteBatches",
+            "homepage": null,
             "id": 63481123,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-10T19:24:48Z",
+            "open_issues": 1,
             "owner": "rxi",
             "repo": "autobatch",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -760,12 +1131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds drawing layers to Love2D (or any Lua framework)",
+            "homepage": null,
             "id": 106171702,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-02-17T11:10:18Z",
+            "open_issues": 1,
             "owner": "Nikaoto",
             "repo": "deep",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -776,12 +1152,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turtle graphics library for LÖVE.",
+            "homepage": null,
             "id": 282023881,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-10-09T11:29:34Z",
+            "open_issues": 0,
             "owner": "arthurealike",
             "repo": "turtle.lua",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "drawing",
+              "lua",
+              "lua-library",
+              "pure-lua",
+              "simple",
+              "turtle",
+              "turtle-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -792,12 +1181,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful resolution-handler and rendering library for LÖVE 📐",
+            "homepage": "https://oval-tutu.com",
             "id": 946790676,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-05-23T08:38:34Z",
+            "open_issues": 3,
             "owner": "Oval-Tutu",
             "repo": "shove",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "aspect-ratio",
+              "game-development",
+              "gamedev",
+              "layers",
+              "love2d",
+              "love2d-framework",
+              "lua",
+              "performance",
+              "pixel-perfect",
+              "rendering",
+              "resolution",
+              "scaling"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -808,12 +1215,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hot Particles is a spicy particle editor for LÖVE.",
+            "homepage": "https://love2d.org/forums/viewtopic.php?f=5&t=88860",
             "id": 268092654,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-03-20T21:03:24Z",
+            "open_issues": 0,
             "owner": "ReFreezed",
             "repo": "HotParticles",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "gloa",
+              "hot-particles",
+              "love2d",
+              "particle-editor",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -824,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library to import and display simple SVGs in LÖVE.",
+            "homepage": null,
             "id": 69262797,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-08T00:57:04Z",
+            "open_issues": 1,
             "owner": "globalcitizen",
             "repo": "svglover",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -840,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A drafting module for LÖVE 2D. https://love2d.org",
+            "homepage": null,
             "id": 10890767,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2019-06-03T21:48:19Z",
+            "open_issues": 0,
             "owner": "pelevesque",
             "repo": "draft",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -856,12 +1284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "low resolution scaler for love2D",
+            "homepage": null,
             "id": 55681049,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-08-02T01:05:01Z",
+            "open_issues": 2,
             "owner": "adekto",
             "repo": "maid64",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -872,12 +1305,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure-lua vector graphics processing and rendering library for LÖVE 2D",
+            "homepage": null,
             "id": 177310679,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-06T00:23:21Z",
+            "open_issues": 1,
             "owner": "nasso",
             "repo": "lovector",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "love",
+              "love2d",
+              "love2d-library",
+              "lua",
+              "svg",
+              "vector-graphics"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -888,12 +1333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua implementation of HSLuv (revision 4)",
+            "homepage": "http://www.hsluv.org",
             "id": 23729551,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-05-03T02:08:24Z",
+            "open_issues": 1,
             "owner": "hsluv",
             "repo": "hsluv-lua",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -904,12 +1354,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A .PSD parsing library for LÖVE",
+            "homepage": null,
             "id": 53083334,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-04-16T12:31:54Z",
+            "open_issues": 0,
             "owner": "EvineDev",
             "repo": "Artal",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "blend-modes",
+              "game-library",
+              "lua",
+              "psd",
+              "psd-parsing-library",
+              "pure-lua",
+              "shaders",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -920,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pixel Art Focused Game Art Scale Module for Love2D.",
+            "homepage": null,
             "id": 83158989,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-06-10T18:08:43Z",
+            "open_issues": 1,
             "owner": "sysl-dev",
             "repo": "Sysl-Pixel",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -936,12 +1405,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Love2D runtime texture atlas; no external tools needed",
+            "homepage": null,
             "id": 416052279,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-13T15:57:05Z",
+            "open_issues": 0,
             "owner": "EngineerSmith",
             "repo": "Runtime-TextureAtlas",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "gamedev",
+              "graphics",
+              "love",
+              "love2d",
+              "lua",
+              "texture-atlas"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -952,12 +1433,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mini graphics libraries for love2d",
+            "homepage": null,
             "id": 241471539,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-06-10T20:11:05Z",
+            "open_issues": 0,
             "owner": "FloatingBanana",
             "repo": "Grove",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "color-conversion",
+              "graphics",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -968,12 +1459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render 2D planets in a realistic style.",
+            "homepage": null,
             "id": 81755666,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-11-19T10:14:33Z",
+            "open_issues": 1,
             "owner": "meric",
             "repo": "renderplanet",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -984,12 +1480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Align content to center with this simple library for LÖVE",
+            "homepage": null,
             "id": 218564867,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-11T10:08:01Z",
+            "open_issues": 0,
             "owner": "swalrus1",
             "repo": "center",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1000,12 +1501,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a fairly simple solar system simulator",
+            "homepage": null,
             "id": 80917083,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2026-01-11T12:52:14Z",
+            "open_issues": 0,
             "owner": "JanWerder",
             "repo": "soelar",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "game-development",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1016,12 +1526,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extends the Runtime-TextureAtlas library and allows it to be exported as file",
+            "homepage": null,
             "id": 431805209,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-13T15:25:58Z",
+            "open_issues": 0,
             "owner": "EngineerSmith",
             "repo": "Export-TextureAtlas",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "love",
+              "texture-atlas"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1032,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another scaling library. Currently in maintenance-only mode.",
+            "homepage": "https://github.com/Vovkiv/resolution_solution",
             "id": 911330671,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2024-10-09T19:47:24Z",
+            "open_issues": 0,
             "owner": "grif-on",
             "repo": "love2d_resolution_solution",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -1054,12 +1577,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECS for Lua ",
+            "homepage": "http://bakpakin.github.io/tiny-ecs/doc/",
             "id": 32625028,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-03-15T01:27:58Z",
+            "open_issues": 0,
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "entity-component",
+              "entity-component-system",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1070,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful micro-modules for Lua.",
+            "homepage": null,
             "id": 38066732,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:10:33Z",
+            "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1086,12 +1624,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A feature-complete ECS library",
+            "homepage": null,
             "id": 118922021,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-24T20:46:24Z",
+            "open_issues": 10,
             "owner": "Keyslam-Group",
             "repo": "Concord",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "ecs",
+              "game-development",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1102,12 +1650,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.",
+            "homepage": null,
             "id": 306048698,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-06-24T06:34:40Z",
+            "open_issues": 9,
             "owner": "nidorx",
             "repo": "ecs-lua",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "lua",
+              "luajit",
+              "roblox",
+              "robloxlua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1118,12 +1676,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evolved ECS (Entity-Component-System) for Lua",
+            "homepage": "https://github.com/BlackMATov/evolved.lua",
             "id": 886198089,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-18T22:09:21Z",
+            "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "ecs",
+              "entity-component",
+              "entity-component-system",
+              "lua",
+              "luajit"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1134,12 +1703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entity management for Lua.",
+            "homepage": "https://tesselode.github.io/nata/",
             "id": 110418621,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-01-20T04:02:02Z",
+            "open_issues": 1,
             "owner": "tesselode",
             "repo": "nata",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1150,12 +1724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE (love2d) entity framework",
+            "homepage": null,
             "id": 74608996,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-02-25T23:06:14Z",
+            "open_issues": 0,
             "owner": "JosephShering",
             "repo": "adorbs",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -1172,12 +1751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua functions geared towards gamedev",
+            "homepage": null,
             "id": 17262930,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-11-19T23:59:15Z",
+            "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1240
+            "stars": 1240,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1188,12 +1772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiled library for LÖVE",
+            "homepage": null,
             "id": 15909222,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-24T11:43:23Z",
+            "open_issues": 32,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1078
+            "stars": 1078,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1204,12 +1793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful micro-modules for Lua.",
+            "homepage": null,
             "id": 38066732,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:10:33Z",
+            "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1220,12 +1814,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reusable dependencies for games made with lua (especially with love)",
+            "homepage": null,
             "id": 236895355,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2026-08-27T05:55:08Z",
+            "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "framework",
+              "helper",
+              "love2d",
+              "lua",
+              "lua-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1236,12 +1841,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A finite state machine lua micro framework",
+            "homepage": null,
             "id": 6743041,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-06-25T16:12:24Z",
+            "open_issues": 6,
             "owner": "kyleconroy",
             "repo": "lua-state-machine",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1252,12 +1862,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roguelike Toolkit in Love. A Love2D/lua port of rot.js",
+            "homepage": "http://paulofmandown.github.io/rotLove/",
             "id": 9403068,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-03T17:17:23Z",
+            "open_issues": 11,
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 291
+            "stars": 291,
+            "topics": [
+              "love2d",
+              "lua",
+              "roguelike"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1268,12 +1887,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and rougelike video games",
+            "homepage": null,
             "id": 15741223,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2026-06-22T17:53:56Z",
+            "open_issues": 0,
             "owner": "SiENcE",
             "repo": "astray",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "crawlers",
+              "dungeon",
+              "dungeon-crawler",
+              "love2d",
+              "lua",
+              "maze",
+              "procedural-generation",
+              "room",
+              "rougelike",
+              "video-game"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1284,12 +1919,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ink language parser and runtime implementation in Lua",
+            "homepage": null,
             "id": 229589446,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-05-09T09:12:43Z",
+            "open_issues": 15,
             "owner": "astrochili",
             "repo": "narrator",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "defold",
+              "ink",
+              "interactive-fiction",
+              "lpeg",
+              "lua",
+              "narrative"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1300,12 +1947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular roguelike engine for LÖVE, licensed under the MIT license.",
+            "homepage": "https://prismrl.github.io/prism/",
             "id": 900067214,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-20T21:21:31Z",
+            "open_issues": 51,
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1316,12 +1968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE Helper Utilities for Massive Progression",
+            "homepage": "http://hump.readthedocs.org",
             "id": 163011622,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-02-22T10:04:41Z",
+            "open_issues": 5,
             "owner": "HDictus",
             "repo": "hump",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1332,12 +1989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dialogue based Game Engine for Love2d with custom scripting language for dialogues",
+            "homepage": null,
             "id": 843714075,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-07-28T15:05:38Z",
+            "open_issues": 3,
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1348,12 +2010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Tiled map loading for LÖVE.",
+            "homepage": "https://tesselode.github.io/cartographer/",
             "id": 112905454,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-11-28T07:49:03Z",
+            "open_issues": 3,
             "owner": "tesselode",
             "repo": "cartographer",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1364,12 +2031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screen effects made simple",
+            "homepage": null,
             "id": 57452845,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-04-30T19:41:00Z",
+            "open_issues": 0,
             "owner": "Ulydev",
             "repo": "shack",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1380,12 +2052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MikuAuahDark's Various Lua Libraries",
+            "homepage": null,
             "id": 200319143,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-05T06:02:55Z",
+            "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1396,12 +2073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vivid is a simple lua library for dealing with simple color math.",
+            "homepage": null,
             "id": 40200877,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-03-25T21:45:47Z",
+            "open_issues": 2,
             "owner": "WetDesertRock",
             "repo": "vivid",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1412,12 +2094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scene management for LÖVE.",
+            "homepage": null,
             "id": 163777105,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-11-11T20:54:45Z",
+            "open_issues": 1,
             "owner": "tesselode",
             "repo": "roomy",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1428,12 +2115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library designed for alignment of text that is shown one character at a time",
+            "homepage": null,
             "id": 206435165,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-05-20T06:54:21Z",
+            "open_issues": 1,
             "owner": "josefnpat",
             "repo": "reflowprint",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1444,12 +2136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dead simple Love2D SceneManager",
+            "homepage": null,
             "id": 487735457,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-01-13T15:30:36Z",
+            "open_issues": 1,
             "owner": "paltze",
             "repo": "scenery",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1460,12 +2157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HSL colors in LÖVE",
+            "homepage": null,
             "id": 57450694,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-07-07T12:17:07Z",
+            "open_issues": 1,
             "owner": "Ulydev",
             "repo": "lue",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1476,12 +2178,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stackable Screen/State Management for the LÖVE framework.",
+            "homepage": "http://rm-code.github.io/screenmanager/",
             "id": 32791029,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2017-11-20T11:07:39Z",
+            "open_issues": 3,
             "owner": "rm-code",
             "repo": "screenmanager",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "love2d",
+              "lua",
+              "screenmanager",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1492,12 +2204,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A helper library for LÖVE which allows to loads huge amount of assets super-easily :punch:",
+            "homepage": null,
             "id": 211109499,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-09-15T00:43:40Z",
+            "open_issues": 1,
             "owner": "besnoi",
             "repo": "clove",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "asset-loader",
+              "helper-library",
+              "love2d",
+              "love2d-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1508,12 +2230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SpriteSheet and Tileset helper library for Love2D (handles Tilemaps as well)",
+            "homepage": null,
             "id": 211100089,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-07-19T09:37:52Z",
+            "open_issues": 2,
             "owner": "besnoi",
             "repo": "iffy",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "individual-sprites",
+              "love2d",
+              "love2d-library",
+              "spritesheet",
+              "tilesets"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1524,12 +2257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lovely-Windows is a simple Window/Screen Manager for Love2D",
+            "homepage": null,
             "id": 93423399,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-02-09T14:39:30Z",
+            "open_issues": 0,
             "owner": "flamendless",
             "repo": "lovely-windows",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1540,12 +2278,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mini graphics libraries for love2d",
+            "homepage": null,
             "id": 241471539,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-06-10T20:11:05Z",
+            "open_issues": 0,
             "owner": "FloatingBanana",
             "repo": "Grove",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "color-conversion",
+              "graphics",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1556,12 +2304,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of useful mini modules for Lua / Love2D",
+            "homepage": "https://github.com/MineGame159/shard",
             "id": 177840098,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-03-29T06:51:23Z",
+            "open_issues": 1,
             "owner": "MineGame159",
             "repo": "shard",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "love-game-engine",
+              "love2d",
+              "love2d-framework",
+              "love2d-library",
+              "lua",
+              "lua-library",
+              "lua-script"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1572,12 +2333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 771264620,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-12-28T23:59:34Z",
+            "open_issues": 1,
             "owner": "GwyrddGlas",
             "repo": "GameStateManager",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1588,12 +2354,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, but powerful scene/gamestate manager that uses a stack",
+            "homepage": null,
             "id": 676345615,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-02T19:06:13Z",
+            "open_issues": 0,
             "owner": "KINGTUT10101",
             "repo": "SceneMan",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "love2d",
+              "lua",
+              "moai",
+              "solar2d",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1604,12 +2381,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "State switcher class for Lua LÖVE Engine",
+            "homepage": null,
             "id": 89810835,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-04-29T20:39:49Z",
+            "open_issues": 0,
             "owner": "nekromoff",
             "repo": "love-state-switcher",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "love-game-engine",
+              "love2d",
+              "love2d-framework",
+              "state-management",
+              "states",
+              "switcher"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -1626,12 +2415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An input library for LÖVE.",
+            "homepage": null,
             "id": 65523511,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-11-18T15:57:22Z",
+            "open_issues": 6,
             "owner": "tesselode",
             "repo": "baton",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1642,12 +2436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple microphone support for LÖVE",
+            "homepage": null,
             "id": 28014754,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2017-12-11T07:06:30Z",
+            "open_issues": 4,
             "owner": "LPGhatguy",
             "repo": "love-microphone",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1658,12 +2457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A straightfoward and flexible input library for LÖVE.",
+            "homepage": null,
             "id": 38013072,
             "language": "Lua",
+            "license": null,
             "last_commit": "2017-10-20T16:56:01Z",
+            "open_issues": 2,
             "owner": "tesselode",
             "repo": "tactile",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1674,12 +2478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guess what a gamepad should look like and provide a default set of art that matches the input gamepad.",
+            "homepage": null,
             "id": 443915187,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-01-11T08:28:30Z",
+            "open_issues": 0,
             "owner": "idbrii",
             "repo": "love-gamepadguesser",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1690,12 +2499,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multitouch gesture and input library.",
+            "homepage": null,
             "id": 575356246,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2022-12-13T14:40:22Z",
+            "open_issues": 0,
             "owner": "MikuAuahDark",
             "repo": "Kazari",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "gamedev",
+              "love2d",
+              "lua",
+              "multitouch",
+              "touchscreen"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1706,12 +2526,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a library to track the current state of key presses in Love2D",
+            "homepage": null,
             "id": 256562545,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-11-09T13:27:53Z",
+            "open_issues": 0,
             "owner": "SpaceCat-Chan",
             "repo": "LoveKeys",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1722,12 +2547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input for Love2D",
+            "homepage": null,
             "id": 325220498,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-01-04T05:58:56Z",
+            "open_issues": 0,
             "owner": "xiejiangzhi",
             "repo": "input",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1738,12 +2568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A radial keyboard implementation for Love2d",
+            "homepage": null,
             "id": 456855059,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-03-28T19:47:58Z",
+            "open_issues": 0,
             "owner": "zombrodo",
             "repo": "swipe",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -1760,12 +2595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lighting model made for love 2d",
+            "homepage": "https://love2d.org/forums/viewtopic.php?f=5&t=78998",
             "id": 25700739,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-04T01:37:35Z",
+            "open_issues": 11,
             "owner": "tanema",
             "repo": "light_world.lua",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1776,12 +2616,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shädows - A Shadows & Lights engine for löve",
+            "homepage": null,
             "id": 61066314,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-07-08T02:18:57Z",
+            "open_issues": 2,
             "owner": "matiasah",
             "repo": "shadows",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "glsl",
+              "lighting-effects",
+              "lights-engine",
+              "love2d",
+              "lua",
+              "luajit",
+              "opengl",
+              "opengl-es",
+              "shadow"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1792,12 +2647,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Löve light/shadow library",
+            "homepage": null,
             "id": 312410005,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-02-08T07:41:34Z",
+            "open_issues": 1,
             "owner": "speakk",
             "repo": "lighter",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "dynamic-lighting",
+              "lighting",
+              "love2d",
+              "love2d-framework"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1808,12 +2673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple raycasting light/shadow library for Love2D.",
+            "homepage": null,
             "id": 117877025,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-03-24T11:11:46Z",
+            "open_issues": 0,
             "owner": "dylhunn",
             "repo": "simple-love-lights",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1824,12 +2694,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple light & shadow library for love2d",
+            "homepage": null,
             "id": 207122499,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-09-17T09:19:59Z",
+            "open_issues": 0,
             "owner": "xiejiangzhi",
             "repo": "light",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "light",
+              "love2d",
+              "lua",
+              "shadow"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1840,12 +2720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "many light 2d shadows library for love framework",
+            "homepage": null,
             "id": 732317320,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-02T17:11:30Z",
+            "open_issues": 0,
             "owner": "a13X-B",
             "repo": "bitumbra",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -1862,12 +2747,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cirno's Perfect Math Library: Just about everything you need for 2D/3D games. Hopefully.",
+            "homepage": "https://excessive.github.io/cpml/",
             "id": 25740057,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-11T00:25:33Z",
+            "open_issues": 17,
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "math"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1878,12 +2770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delaunay triangulation for convex polygon",
+            "homepage": "http://yonaba.github.io/delaunay/",
             "id": 15450201,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-11-21T20:30:22Z",
+            "open_issues": 1,
             "owner": "Yonaba",
             "repo": "delaunay",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1894,12 +2791,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A math and collisions library for Lua.",
+            "homepage": null,
             "id": 16320407,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2024-01-04T04:56:51Z",
+            "open_issues": 2,
             "owner": "davisdude",
             "repo": "mlib",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "intersection",
+              "lua",
+              "math"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1910,12 +2816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, lightweight spatial hash for Lua",
+            "homepage": null,
             "id": 66136254,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-06-22T05:41:03Z",
+            "open_issues": 0,
             "owner": "rxi",
             "repo": "shash",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1926,12 +2837,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple ffi-accelerated vector library for everyone",
+            "homepage": null,
             "id": 121586928,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-21T16:39:01Z",
+            "open_issues": 2,
             "owner": "novemberisms",
             "repo": "brinevector",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1942,12 +2858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MikuAuahDark's Various Lua Libraries",
+            "homepage": null,
             "id": 200319143,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-05T06:02:55Z",
+            "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1958,12 +2879,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple vector library for Lua based on the PVector class from processing",
+            "homepage": null,
             "id": 151206429,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-12-03T16:15:43Z",
+            "open_issues": 3,
             "owner": "automattf",
             "repo": "vector.lua",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "game-development",
+              "love2d",
+              "lua",
+              "vectors"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1974,12 +2905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 737606729,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-23T23:04:20Z",
+            "open_issues": 13,
             "owner": "DUznanski",
             "repo": "vornmath",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1990,12 +2926,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bresenham's line algorithm written in Lua.",
+            "homepage": null,
             "id": 69345110,
             "language": "Lua",
+            "license": null,
             "last_commit": "2017-03-23T10:58:26Z",
+            "open_issues": 0,
             "owner": "rm-code",
             "repo": "bresenham",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "bresenham",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2006,12 +2950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Walker-Vose alias method for efficiently simulating a loaded die, written in lua",
+            "homepage": null,
             "id": 822177139,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2024-06-30T14:54:17Z",
+            "open_issues": 0,
             "owner": "a13X-B",
             "repo": "loaded_dice",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2022,12 +2971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework-agnostic polygon intersection library for Lua",
+            "homepage": null,
             "id": 949143092,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-04-13T01:13:04Z",
+            "open_issues": 0,
             "owner": "dknight",
             "repo": "polysec",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2044,12 +2998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LÖVE sound manager with advanced audio parsing",
+            "homepage": null,
             "id": 58141802,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-06-09T22:27:33Z",
+            "open_issues": 1,
             "owner": "Ulydev",
             "repo": "wave",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2060,12 +3019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LÖVE library for syncing events to the BPM of an audio track",
+            "homepage": null,
             "id": 62452282,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-08-06T03:57:23Z",
+            "open_issues": 1,
             "owner": "rxi",
             "repo": "lovebpm",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2076,12 +3040,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple library to help you play custom waveforms with LÖVE",
+            "homepage": null,
             "id": 29484113,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-05-31T11:39:14Z",
+            "open_issues": 2,
             "owner": "superzazu",
             "repo": "denver.lua",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "audio",
+              "generation",
+              "library",
+              "love2d",
+              "sound",
+              "synthesis",
+              "waveform"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2092,12 +3069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sound manager with tag support for LÖVE.",
+            "homepage": null,
             "id": 72511723,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-03-22T20:04:17Z",
+            "open_issues": 5,
             "owner": "tesselode",
             "repo": "ripple",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2108,12 +3090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "adds support for playing opus files in love2d. Send patches :)",
+            "homepage": null,
             "id": 1144450452,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-01-29T01:03:28Z",
+            "open_issues": 0,
             "owner": "GwyrddGlas",
             "repo": "Lua-Opus",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2130,12 +3117,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐🔥 Network multiplayer and messaging for CoronaSDK, Moai, Gideros, LÖVE & Defold",
+            "homepage": null,
             "id": 5294729,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-06-22T15:19:55Z",
+            "open_issues": 2,
             "owner": "Overtorment",
             "repo": "NoobHub",
-            "stars": 355
+            "stars": 355,
+            "topics": [
+              "corona-sdk",
+              "gideros",
+              "love2d",
+              "lua",
+              "moai",
+              "networking",
+              "nodejs",
+              "pubsub",
+              "wtfpl"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2146,12 +3148,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lua networking library for LÖVE games.",
+            "homepage": "https://camchenry.github.io/sock.lua/",
             "id": 63983597,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-12-31T22:18:48Z",
+            "open_issues": 7,
             "owner": "camchenry",
             "repo": "sock.lua",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "enet",
+              "gamedev",
+              "love2d",
+              "lua",
+              "networking",
+              "online"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2162,12 +3176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just some random libs I have lying around, now with version control!",
+            "homepage": "http://docs.bartbes.com",
             "id": 1316371,
             "language": "Lua",
+            "license": null,
             "last_commit": "2016-11-27T09:40:38Z",
+            "open_issues": 3,
             "owner": "bartbes",
             "repo": "love-misc-libs",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2178,12 +3197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share the LÖVE - A networking library that leverages bitser and enet",
+            "homepage": null,
             "id": 55189851,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2019-03-30T03:34:18Z",
+            "open_issues": 12,
             "owner": "josefnpat",
             "repo": "LoverNet",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2194,12 +3218,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "websocket client pure lua implement for love2d",
+            "homepage": null,
             "id": 338326437,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-11-02T02:06:05Z",
+            "open_issues": 2,
             "owner": "flaribbit",
             "repo": "love2d-lua-websocket",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "client",
+              "love2d",
+              "lua",
+              "luajit",
+              "luasocket",
+              "websocket",
+              "websocket-client"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2210,12 +3247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A löve websocket library",
+            "homepage": null,
             "id": 131909202,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-27T12:28:29Z",
+            "open_issues": 2,
             "owner": "holywyvern",
             "repo": "love-ws",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2226,12 +3268,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Non-blocking love2d HTTPS/HTTP library",
+            "homepage": null,
             "id": 980927186,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-06-19T18:50:48Z",
+            "open_issues": 0,
             "owner": "elloramir",
             "repo": "fetch-lua",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "client",
+              "http",
+              "https",
+              "love2d",
+              "lua",
+              "luajit",
+              "network",
+              "socket"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2248,12 +3304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-orientation for Lua",
+            "homepage": "https://github.com/kikito/middleclass",
             "id": 622403,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-03T12:54:01Z",
+            "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1919
+            "stars": 1919,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2264,12 +3325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny class module for Lua",
+            "homepage": null,
             "id": 17220820,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-12-31T14:37:20Z",
+            "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1072
+            "stars": 1072,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2280,12 +3346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful micro-modules for Lua.",
+            "homepage": null,
             "id": 38066732,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:10:33Z",
+            "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2296,12 +3367,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "30 lines library for object orientation in Lua",
+            "homepage": "http://yonaba.github.io/30log",
             "id": 5544368,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-08T02:47:43Z",
+            "open_issues": 9,
             "owner": "Yonaba",
             "repo": "30log",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "lua",
+              "object-oriented",
+              "oop-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2312,12 +3392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LOVE2D Template For MoonScript",
+            "homepage": null,
             "id": 296538311,
             "language": "MoonScript",
+            "license": "MIT",
             "last_commit": "2025-06-17T06:29:38Z",
+            "open_issues": 2,
             "owner": "novafacing",
             "repo": "selene",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2328,12 +3413,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "moonscript compatible class implementation for Lua",
+            "homepage": null,
             "id": 174710450,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-06-02T17:33:40Z",
+            "open_issues": 0,
             "owner": "megagrump",
             "repo": "muun",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "lua",
+              "moonscript",
+              "oop"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2344,12 +3438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 882870794,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-01-03T17:05:43Z",
+            "open_issues": 0,
             "owner": "DevonPalma",
             "repo": "LowerClass",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2360,12 +3459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Object Library for LOVE2D",
+            "homepage": null,
             "id": 884100819,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-11-16T09:51:17Z",
+            "open_issues": 0,
             "owner": "Virus01Official",
             "repo": "Object-Library",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2382,12 +3486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Profiling library/tool for löve",
+            "homepage": null,
             "id": 110007643,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-06T13:47:17Z",
+            "open_issues": 9,
             "owner": "pfirsich",
             "repo": "jprof",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2398,12 +3507,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Profiling tool for Love2D using Chromium's tracing tool",
+            "homepage": "https://engineersmith.github.io/AppleCake-Docs/",
             "id": 238286321,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-07T16:47:10Z",
+            "open_issues": 1,
             "owner": "EngineerSmith",
             "repo": "AppleCake",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "love2d",
+              "lua",
+              "profiler"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2414,12 +3532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graphical profiler for Love2D 9.2",
+            "homepage": null,
             "id": 45733404,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-08-01T08:43:09Z",
+            "open_issues": 1,
             "owner": "Polynominal",
             "repo": "Piefiller",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2436,12 +3559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collision detection library for Lua",
+            "homepage": null,
             "id": 4465215,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-09-29T16:28:50Z",
+            "open_issues": 13,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1098
+            "stars": 1098,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2452,12 +3580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a physics library wrapper for love2d",
+            "homepage": null,
             "id": 161935578,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-08-12T14:36:54Z",
+            "open_issues": 4,
             "owner": "HDictus",
             "repo": "breezefield",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2468,12 +3601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "slick is a simple to use polygon collision library inspired by bump.lua",
+            "homepage": null,
             "id": 904383718,
             "language": "Lua",
+            "license": "MPL-2.0",
             "last_commit": "2026-04-08T17:54:35Z",
+            "open_issues": 7,
             "owner": "erinmaus",
             "repo": "slick",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2484,12 +3622,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D Collision Detection for Lua using the Separating-Axis Theorem",
+            "homepage": null,
             "id": 354097558,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-09-15T12:49:39Z",
+            "open_issues": 2,
             "owner": "Aweptimum",
             "repo": "Strike",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "2d-game-framework",
+              "collision-detection",
+              "love2d",
+              "lua-library",
+              "separating-axis-theorem"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2500,12 +3649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "softbody library for the love2d game framework",
+            "homepage": null,
             "id": 230091788,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-10-21T05:28:07Z",
+            "open_issues": 0,
             "owner": "zhangf911",
             "repo": "loveblobs",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2522,12 +3676,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua Virtual Reality Framework",
+            "homepage": "https://lovr.org",
             "id": 62519414,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:36:13Z",
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2586
+            "stars": 2586,
+            "topics": [
+              "game-engine",
+              "gamedev",
+              "lovr",
+              "lua",
+              "oculus",
+              "oculus-quest",
+              "openvr",
+              "openxr",
+              "virtual-reality",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2538,12 +3708,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A framework for making 2D DOS games in Lua",
+            "homepage": null,
             "id": 20815377,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2017-05-06T08:32:40Z",
+            "open_issues": 8,
             "owner": "rxi",
             "repo": "lovedos",
-            "stars": 706
+            "stars": 706,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2554,12 +3729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE for Nintendo Homebrew",
+            "homepage": "https://lovebrew.org",
             "id": 43768227,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T03:45:00Z",
+            "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 701
+            "stars": 701,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2570,12 +3750,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A small and simple LOVE2D wrapper for OneLua, lpp-vita, and Lua Player PS3",
+            "homepage": null,
             "id": 148873021,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-07-19T05:25:52Z",
+            "open_issues": 0,
             "owner": "LukeZGD",
             "repo": "LOVE-WrapLua",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2592,12 +3777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful micro-modules for Lua.",
+            "homepage": null,
             "id": 38066732,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:10:33Z",
+            "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2608,12 +3798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable Lua Serializer",
+            "homepage": null,
             "id": 40440952,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-03-02T17:41:15Z",
+            "open_issues": 3,
             "owner": "bakpakin",
             "repo": "binser",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2624,12 +3819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serializes and deserializes Lua values with LuaJIT",
+            "homepage": null,
             "id": 51673036,
             "language": "Lua",
+            "license": "ISC",
             "last_commit": "2025-01-31T16:06:30Z",
+            "open_issues": 5,
             "owner": "gvx",
             "repo": "bitser",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2640,12 +3840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, robust, richly-featured table serialisation library for Lua",
+            "homepage": null,
             "id": 14088487,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-05-19T23:03:02Z",
+            "open_issues": 0,
             "owner": "gvx",
             "repo": "Ser",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2656,12 +3861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Saving and loading LÖVE savegames, based on Ser",
+            "homepage": null,
             "id": 23522940,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-02-16T02:07:41Z",
+            "open_issues": 0,
             "owner": "gvx",
             "repo": "Lady",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2672,12 +3882,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Binary serialization for moonscript + LuaJIT",
+            "homepage": null,
             "id": 155223120,
             "language": "MoonScript",
+            "license": "MIT",
             "last_commit": "2024-03-13T10:44:35Z",
+            "open_issues": 4,
             "owner": "megagrump",
             "repo": "moonblob",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "blob",
+              "lua",
+              "luajit",
+              "moonscript",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2688,12 +3909,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lua bitstream",
+            "homepage": null,
             "id": 47238217,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-01-15T22:30:59Z",
+            "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "trickle",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2704,12 +3930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serialize Lua tables to C structs and strings.",
+            "homepage": null,
             "id": 29714504,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2015-08-14T20:13:09Z",
+            "open_issues": 0,
             "owner": "excessive",
             "repo": "cdata",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2720,12 +3951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, robust, secure, richly-featured table serialisation library for Lua",
+            "homepage": null,
             "id": 23739343,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2016-02-16T02:07:50Z",
+            "open_issues": 0,
             "owner": "gvx",
             "repo": "Smallfolk",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2736,12 +3972,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library-companion to register custom data types that can be encoded and decoded for json.lua",
+            "homepage": null,
             "id": 265145484,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-05-21T06:18:19Z",
+            "open_issues": 0,
             "owner": "flamendless",
             "repo": "arson.lua",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gamedev",
+              "library",
+              "love2d",
+              "lua",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2758,12 +4005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Postprocessing effect repository for LÖVE",
+            "homepage": null,
             "id": 29105401,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-12-23T00:39:23Z",
+            "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 726
+            "stars": 726,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2774,12 +4026,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shadertoy :arrow_right: LÖVE GLSL || Converter",
+            "homepage": "https://www.shadertoy.com/",
             "id": 45569701,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2016-06-25T19:25:16Z",
+            "open_issues": 2,
             "owner": "tsteinholz",
             "repo": "LoveShaderConverter",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "demo",
+              "glsl",
+              "love2d",
+              "lua",
+              "shaders",
+              "shadertoy"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2790,12 +4054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MikuAuahDark's Various Lua Libraries",
+            "homepage": null,
             "id": 200319143,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-05T06:02:55Z",
+            "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2806,12 +4075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "better iteration with shaders in love2d",
+            "homepage": null,
             "id": 529986890,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-09-08T15:18:49Z",
+            "open_issues": 1,
             "owner": "idbrii",
             "repo": "love-shaderscan",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2828,12 +4102,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant Lua unit testing.",
+            "homepage": "https://lunarmodules.github.io/busted/",
             "id": 5336227,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:38:05Z",
+            "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1630
+            "stars": 1630,
+            "topics": [
+              "lua",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2844,12 +4126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful micro-modules for Lua.",
+            "homepage": null,
             "id": 38066732,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:10:33Z",
+            "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2860,12 +4147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assertion library for Lua",
+            "homepage": null,
             "id": 5502005,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-15T09:10:03Z",
+            "open_issues": 11,
             "owner": "lunarmodules",
             "repo": "luassert",
-            "stars": 250
+            "stars": 250,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2876,12 +4168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Lua test framework",
+            "homepage": null,
             "id": 28700502,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-17T04:40:12Z",
+            "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "lust",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2892,12 +4189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "xUnit-style + randomized unit testing framework for Lua (and C projects using Lua, etc.)",
+            "homepage": null,
             "id": 550201,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-05-07T00:16:08Z",
+            "open_issues": 9,
             "owner": "silentbicycle",
             "repo": "lunatest",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -2914,12 +4216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tweening/Easing/Interpolating functions for lua. Inspired on jQuery's animate method.",
+            "homepage": null,
             "id": 1662036,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-02T00:13:15Z",
+            "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 664
+            "stars": 664,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2930,12 +4237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful micro-modules for Lua.",
+            "homepage": null,
             "id": 38066732,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-17T16:10:33Z",
+            "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2946,12 +4258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, lightweight tweening library for Lua",
+            "homepage": null,
             "id": 19047468,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-12-16T13:21:47Z",
+            "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 486
+            "stars": 486,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2962,12 +4279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua module for delaying function calls",
+            "homepage": null,
             "id": 29880419,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2015-03-11T20:46:36Z",
+            "open_issues": 0,
             "owner": "rxi",
             "repo": "tick",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -2978,12 +4300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MikuAuahDark's Various Lua Libraries",
+            "homepage": null,
             "id": 200319143,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-05T06:02:55Z",
+            "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -3000,12 +4327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Immediate Mode GUI library for LÖVE",
+            "homepage": null,
             "id": 3381635,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-26T22:45:07Z",
+            "open_issues": 18,
             "owner": "vrld",
             "repo": "suit",
-            "stars": 542
+            "stars": 542,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3016,12 +4348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An immediate mode GUI for the Love2D framework.",
+            "homepage": null,
             "id": 170941266,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-15T14:28:50Z",
+            "open_issues": 26,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "gamedev",
+              "imgui",
+              "love2d",
+              "lua",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3032,12 +4375,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight immediate mode GUI for LÖVE games",
+            "homepage": null,
             "id": 73750356,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-02-14T21:55:38Z",
+            "open_issues": 6,
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "gui",
+              "imgui",
+              "immediate-gui",
+              "love2d",
+              "nuklear",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3048,12 +4403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "imgui module for the LÖVE game engine",
+            "homepage": null,
             "id": 63331069,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-12-03T04:30:39Z",
+            "open_issues": 27,
             "owner": "slages",
             "repo": "love-imgui",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3064,12 +4424,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LuaJIT ffi binding for imgui, backends and extension widgets",
+            "homepage": null,
             "id": 123006889,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-27T11:10:58Z",
+            "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "imgui",
+              "luajit",
+              "luajit-ffi"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3080,12 +4449,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE GUI Library",
+            "homepage": null,
             "id": 40621685,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-09-06T16:51:39Z",
+            "open_issues": 5,
             "owner": "gustavostuff",
             "repo": "gooi",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "gamedev",
+              "gui",
+              "library",
+              "love2d"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3096,12 +4475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GUI library for LÖVE 11.x",
+            "homepage": null,
             "id": 73325319,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2025-10-22T11:40:19Z",
+            "open_issues": 8,
             "owner": "linux-man",
             "repo": "LoveFrames",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3112,12 +4496,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LUIS (Love2D UI System) is a flexible graphical user interface (GUI) framework built on top of the Löve2D game framework. LUIS provides developers with the tools to create dynamic, grid-centric, layered user interfaces for games and applications.",
+            "homepage": null,
             "id": 862961685,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:40:29Z",
+            "open_issues": 2,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "framework",
+              "gamepad-support",
+              "grid-layout",
+              "gui",
+              "love2d",
+              "love2d-framework",
+              "love2d-gui",
+              "love2d-gui-library",
+              "responsive-layout",
+              "retained-mode-gui",
+              "theme-ui",
+              "touch-support",
+              "ui-framework",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3128,12 +4532,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 240363458,
             "language": "Lua",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-04-01T13:24:27Z",
+            "open_issues": 19,
             "owner": "qeffects",
             "repo": "helium",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "gui",
+              "helium",
+              "love2d",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3144,12 +4558,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very light-weight GUI library for the Löve2D",
+            "homepage": "https://github.com/wilhantian/catui",
             "id": 58032060,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-06-02T00:34:06Z",
+            "open_issues": 4,
             "owner": "wilhantian",
             "repo": "catui",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "gui-library",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3160,12 +4583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GUI Framework for LÖVE",
+            "homepage": null,
             "id": 579709444,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-12-20T06:47:24Z",
+            "open_issues": 4,
             "owner": "Keyslam",
             "repo": "Inky",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3176,12 +4604,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An immediate mode GUI library for LÖVR and  LÖVE",
+            "homepage": null,
             "id": 705169844,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-21T15:26:02Z",
+            "open_issues": 0,
             "owner": "immortalx74",
             "repo": "lovr-ui2d",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "gui",
+              "imgui",
+              "immediate-mode",
+              "love",
+              "love2d",
+              "lovr",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3192,12 +4633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MikuAuahDark's Various Lua Libraries",
+            "homepage": null,
             "id": 200319143,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-10-05T06:02:55Z",
+            "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3208,12 +4654,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌕 Simple and fun UI syntax for Löve2D",
+            "homepage": null,
             "id": 784060435,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-10-04T15:01:24Z",
+            "open_issues": 0,
             "owner": "Nabeel20",
             "repo": "Badr",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "gamedev",
+              "gui",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3224,12 +4680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Löve Gui based on Flexbox",
+            "homepage": null,
             "id": 1055803883,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-12T21:01:20Z",
+            "open_issues": 0,
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3240,12 +4701,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.",
+            "homepage": null,
             "id": 1058344189,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-13T02:12:31Z",
+            "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "grid",
+              "gui",
+              "layout",
+              "love2d",
+              "lua",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3256,12 +4729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple 9patch library for LÖVE",
+            "homepage": null,
             "id": 33174860,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-03-27T04:02:10Z",
+            "open_issues": 1,
             "owner": "excessive",
             "repo": "patchy",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3272,12 +4750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A super simple layout helper, designed for use with Love2d",
+            "homepage": null,
             "id": 335215830,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-03-02T23:23:59Z",
+            "open_issues": 0,
             "owner": "zombrodo",
             "repo": "plan",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3288,12 +4771,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple grid layout library for LÖVE engine (Love2D).",
+            "homepage": null,
             "id": 691217061,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2024-04-22T12:39:54Z",
+            "open_issues": 1,
             "owner": "nekromoff",
             "repo": "layouter",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "buttons",
+              "design",
+              "interface",
+              "layout",
+              "love2d",
+              "love2d-framework",
+              "love2d-game",
+              "lua",
+              "menu",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3304,12 +4803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "9-slice library for Love2D",
+            "homepage": null,
             "id": 497745883,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-30T02:08:28Z",
+            "open_issues": 0,
             "owner": "wqferr",
             "repo": "slicy",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3320,12 +4824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LOVE2D - Dynamic ListBox",
+            "homepage": null,
             "id": 84180052,
             "language": "Lua",
+            "license": null,
             "last_commit": "2017-03-08T19:57:58Z",
+            "open_issues": 0,
             "owner": "darkmetalic",
             "repo": "ListBox",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3336,12 +4845,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A UI library for the LÖVE Framework. (Work in progress)",
+            "homepage": null,
             "id": 715233305,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-16T01:17:59Z",
+            "open_issues": 0,
             "owner": "frank-f-trafton",
             "repo": "prod_ui_wip",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3352,12 +4866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple 9-patch library for LÖVE",
+            "homepage": null,
             "id": 660600443,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-08-15T15:14:06Z",
+            "open_issues": 0,
             "owner": "notcl4y14",
             "repo": "lovepatch",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3368,12 +4887,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible library that enables you to create your own GUI controls based on provided core modules in Löve2D.",
+            "homepage": "https://moongamelab.github.io/MeowUI/",
             "id": 353636607,
             "language": "MoonScript",
+            "license": null,
             "last_commit": "2024-10-13T21:07:25Z",
+            "open_issues": 0,
             "owner": "MoonGameLab",
             "repo": "MeowUI",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "core",
+              "core-features",
+              "gui",
+              "lightweight",
+              "love2d-gui",
+              "love2d-gui-library",
+              "minimalist"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3384,12 +4916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another Löve2d GUI",
+            "homepage": null,
             "id": 259329003,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-08-25T21:58:53Z",
+            "open_issues": 2,
             "owner": "Sasszem",
             "repo": "yalg",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3400,12 +4937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An immediate-mode UI system for LOVE2D inspired by SUIT.",
+            "homepage": null,
             "id": 817061117,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-06-10T01:26:09Z",
+            "open_issues": 0,
             "owner": "KINGTUT10101",
             "repo": "TuxRedux",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3416,12 +4958,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple ui library for the LOVE2D framework",
+            "homepage": "https://lrdprdx.github.io/LikeliHUD/",
             "id": 904235092,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-26T16:51:12Z",
+            "open_issues": 4,
             "owner": "LRDPRDX",
             "repo": "LikeliHUD",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "game-development",
+              "gui",
+              "hud",
+              "love2d",
+              "love2d-library",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3432,12 +4986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overscan detection library for LÖVE",
+            "homepage": null,
             "id": 27358173,
             "language": "Lua",
+            "license": null,
             "last_commit": "2015-09-18T11:57:22Z",
+            "open_issues": 0,
             "owner": "josefnpat",
             "repo": "safeword",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -3454,12 +5013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny logging module for Lua",
+            "homepage": null,
             "id": 21475308,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-08-23T03:10:40Z",
+            "open_issues": 6,
             "owner": "rxi",
             "repo": "log.lua",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3470,12 +5034,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bindings to connect lua with Steam API",
+            "homepage": "https://luasteam.readthedocs.io/en/stable/",
             "id": 145616377,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:55:39Z",
+            "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "game-development",
+              "love2d",
+              "lua",
+              "steam-api"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3486,12 +5060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE asset manager",
+            "homepage": null,
             "id": 42832823,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2020-02-02T02:10:04Z",
+            "open_issues": 2,
             "owner": "bjornbytes",
             "repo": "cargo",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3502,12 +5081,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threaded resource loading for LÖVE",
+            "homepage": "http://love2d.org",
             "id": 3294425,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-03-25T13:54:01Z",
+            "open_issues": 7,
             "owner": "kikito",
             "repo": "love-loader",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3518,12 +5104,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE Async Asset Loader",
+            "homepage": null,
             "id": 114961511,
             "language": "Lua",
+            "license": "Zlib",
             "last_commit": "2022-06-13T03:44:37Z",
+            "open_issues": 0,
             "owner": "MikuAuahDark",
             "repo": "lily",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "async",
+              "event",
+              "love",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3534,12 +5131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fixed timestep library for LÖVE",
+            "homepage": null,
             "id": 31001187,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-02-17T00:18:11Z",
+            "open_issues": 2,
             "owner": "bjornbytes",
             "repo": "tick",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3550,12 +5152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Event Library for Lua",
+            "homepage": null,
             "id": 12187790,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2015-06-30T10:34:54Z",
+            "open_issues": 2,
             "owner": "ejmr",
             "repo": "Luvent",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3566,12 +5173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nativeFS for love2d (clone rehost as it was deleted)",
+            "homepage": null,
             "id": 449859190,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-05-02T19:30:07Z",
+            "open_issues": 1,
             "owner": "EngineerSmith",
             "repo": "nativefs",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3582,12 +5194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple module for saving gifs from LOVE 0.11.x.",
+            "homepage": null,
             "id": 61999967,
             "language": "C",
+            "license": null,
             "last_commit": "2022-10-29T04:19:01Z",
+            "open_issues": 1,
             "owner": "WetDesertRock",
             "repo": "GifCat",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3598,12 +5215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE Splash Screen Library",
+            "homepage": null,
             "id": 29438687,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-04T00:48:51Z",
+            "open_issues": 5,
             "owner": "videah",
             "repo": "splashy",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3614,12 +5236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assets Loader for Löve2D Framework",
+            "homepage": "http://yonaba.github.com/love2d-assets-loader",
             "id": 5669614,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-05-29T15:58:52Z",
+            "open_issues": 3,
             "owner": "Yonaba",
             "repo": "love2d-assets-loader",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3630,12 +5257,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very complete internationalization library for Lua with LÖVE support 🌕💕",
+            "homepage": null,
             "id": 915483447,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-12-15T15:19:41Z",
+            "open_issues": 3,
             "owner": "Oval-Tutu",
             "repo": "smiti18n",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "i18n",
+              "l10n",
+              "love2d",
+              "lua",
+              "luajit"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3646,12 +5284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internationalization functions for LÖVE.",
+            "homepage": null,
             "id": 41580699,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2015-08-29T04:34:37Z",
+            "open_issues": 1,
             "owner": "excessive",
             "repo": "i18n",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3662,12 +5305,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool made in LÖVE for changing LÖVE icon itself !",
+            "homepage": null,
             "id": 132867091,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-05-16T19:33:07Z",
+            "open_issues": 1,
             "owner": "Rami-Sabbagh",
             "repo": "love-pe",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3678,12 +5326,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny, neat C library that portably invokes native file open and save dialogs.",
+            "homepage": null,
             "id": 60312422,
             "language": "Makefile",
+            "license": "Zlib",
             "last_commit": "2024-12-27T20:04:16Z",
+            "open_issues": 2,
             "owner": "Alloyed",
             "repo": "nativefiledialog",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "lua-binding"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3694,12 +5349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".ini parser in Lua",
+            "homepage": null,
             "id": 136644257,
             "language": "Lua",
+            "license": "CC0-1.0",
             "last_commit": "2022-11-20T18:06:05Z",
+            "open_issues": 0,
             "owner": "nobytesgiven",
             "repo": "ini_parser",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3710,12 +5370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Particle system playground for LÖVE 11",
+            "homepage": null,
             "id": 111886533,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-10-03T11:18:52Z",
+            "open_issues": 0,
             "owner": "santoslove",
             "repo": "particle-system-playground",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3726,12 +5391,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic version selector for LÖVE",
+            "homepage": null,
             "id": 48623942,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-15T04:41:04Z",
+            "open_issues": 1,
             "owner": "Alloyed",
             "repo": "flirt",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "love-game-engine"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3742,12 +5414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest way to get started with Love2d!",
+            "homepage": null,
             "id": 388489472,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-07-30T14:58:19Z",
+            "open_issues": 0,
             "owner": "vinnyhorgan",
             "repo": "lovely-engine",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3758,12 +5435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "extends require with some methods",
+            "homepage": null,
             "id": 428811690,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-11-16T21:23:09Z",
+            "open_issues": 0,
             "owner": "premek",
             "repo": "require.lua",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3774,12 +5456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A single function to convert HEX to RGB in LOVE2D",
+            "homepage": null,
             "id": 220284918,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-11-07T16:58:33Z",
+            "open_issues": 0,
             "owner": "swalrus1",
             "repo": "hex2color",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3790,12 +5477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple asset database and loader",
+            "homepage": null,
             "id": 832135262,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-07-22T12:55:46Z",
+            "open_issues": 0,
             "owner": "itzKiwiSky",
             "repo": "Andromeda",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3806,12 +5498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 881574325,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-11-02T00:29:17Z",
+            "open_issues": 0,
             "owner": "YellowButShort",
             "repo": "servelove",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3822,12 +5519,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shake Detector in Lua",
+            "homepage": null,
             "id": 172047796,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-04-16T11:28:34Z",
+            "open_issues": 0,
             "owner": "azoyan",
             "repo": "ShakeDetectorLua",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "accelerometer",
+              "gamedev",
+              "lua",
+              "mit"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3838,12 +5545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE library for selecting colors",
+            "homepage": null,
             "id": 103968921,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-03-21T16:08:29Z",
+            "open_issues": 0,
             "owner": "santoslove",
             "repo": "colorchanger",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3854,12 +5566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 830197557,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-17T19:42:37Z",
+            "open_issues": 1,
             "owner": "Nawias",
             "repo": "love-qrcode",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3870,12 +5587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An editor of particle for LÖVE",
+            "homepage": null,
             "id": 118155367,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-01-19T17:20:43Z",
+            "open_issues": 0,
             "owner": "MusouCrow",
             "repo": "ParticleEditor",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3886,12 +5608,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Barcode rendering library for LÖVE",
+            "homepage": "https://github.com/Nawias/bar128-love",
             "id": 793648088,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-04-30T19:07:51Z",
+            "open_issues": 0,
             "owner": "Nawias",
             "repo": "bar128-love",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "barcode-generator",
+              "code128",
+              "love2d",
+              "love2d-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3902,12 +5634,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lua module that lets you require files with input parameters and multiple output values.",
+            "homepage": null,
             "id": 660390562,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-12-23T19:30:05Z",
+            "open_issues": 0,
             "owner": "KINGTUT10101",
             "repo": "LuaRequireExtended",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "lua",
+              "lua-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3918,12 +5658,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A special data structure where items can be found by their position or key. Written in pure Lua.",
+            "homepage": null,
             "id": 710075379,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-11-12T23:08:35Z",
+            "open_issues": 0,
             "owner": "KINGTUT10101",
             "repo": "KeyedArray",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "lua",
+              "lua-library"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3934,12 +5682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lua library for parsing and extracting SNG package files.",
+            "homepage": null,
             "id": 1137805710,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-01-29T01:03:51Z",
+            "open_issues": 0,
             "owner": "GwyrddGlas",
             "repo": "LUA-SNG-Parser",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -3961,12 +5714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugins for langauges supported by CodeMirror but not by brackets",
+                "homepage": null,
                 "id": 15313779,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-18T14:22:26Z",
+                "open_issues": 1,
                 "owner": "ForbesLindesay",
                 "repo": "brackets-language-extensions",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             },
@@ -3977,12 +5735,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brackets extension to launch LÖVE projects from the editor",
+                "homepage": null,
                 "id": 83051698,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-06-03T15:02:02Z",
+                "open_issues": 1,
                 "owner": "instilledbee",
                 "repo": "run-love2d",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "brackets-extension",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "javascript",
+                  "love2d",
+                  "node"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4000,12 +5770,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get Syntax Highlighting for LOVE API in ZeroBrane Studio",
+                "homepage": null,
                 "id": 120320724,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2019-01-21T12:42:26Z",
+                "open_issues": 0,
                 "owner": "flamendless",
                 "repo": "LOVE-API-Extractor-for-ZeroBraneStudio",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "api",
+                  "editor",
+                  "ide",
+                  "love2d",
+                  "lua",
+                  "wiki",
+                  "zerobrane-studio"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4023,12 +5806,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua IDE/Debugger Plugin for VSCode",
+                "homepage": null,
                 "id": 126278608,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-14T12:53:09Z",
+                "open_issues": 40,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 752
+                "stars": 752,
+                "topics": [
+                  "emmylua"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             },
@@ -4039,12 +5829,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A LÖVE-Plugin for IntelliJ IDEA and PHPStorm. (Looking for new maintainer!)",
+                "homepage": null,
                 "id": 32866484,
                 "language": "Lua",
+                "license": "Unlicense",
                 "last_commit": "2023-02-28T19:47:22Z",
+                "open_issues": 0,
                 "owner": "rm-code",
                 "repo": "love-IDEA-plugin",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "intellij",
+                  "intellij-plugin",
+                  "love2d",
+                  "lua",
+                  "phpstorm",
+                  "phpstorm-plugin"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4062,12 +5864,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin for LÖVE syntax highlighting and help file",
+                "homepage": "http://www.vim.org/scripts/script.php?script_id=5298",
                 "id": 48947298,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2020-08-07T14:21:14Z",
+                "open_issues": 1,
                 "owner": "davisdude",
                 "repo": "vim-love-docs",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "love2d",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4085,12 +5895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LÖVE API autocomplete file for Notepad++",
+                "homepage": null,
                 "id": 72675967,
                 "language": "Lua",
+                "license": "GPL-2.0",
                 "last_commit": "2016-11-21T17:37:00Z",
+                "open_issues": 1,
                 "owner": "dail8859",
                 "repo": "love-api-npp",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4108,12 +5923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua language support in Atom",
+                "homepage": "https://atom.io/packages/language-lua",
                 "id": 17337402,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-07-08T11:00:18Z",
+                "open_issues": 12,
                 "owner": "FireZenk",
                 "repo": "language-lua",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             },
@@ -4124,12 +5944,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for programming LÖVE games in Atom.",
+                "homepage": "https://atom.io/packages/love-ide",
                 "id": 41512066,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-22T20:34:12Z",
+                "open_issues": 19,
                 "owner": "rameshvarun",
                 "repo": "love-ide",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "atom",
+                  "atom-package",
+                  "love2d"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             },
@@ -4140,12 +5969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensible autocomplete+ provider for Lua",
+                "homepage": null,
                 "id": 70507565,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-11-17T12:08:34Z",
+                "open_issues": 11,
                 "owner": "dapetcu21",
                 "repo": "atom-autocomplete-lua",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             },
@@ -4156,12 +5990,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Auto-complete and snippets for LÖVE.",
+                "homepage": "https://atom.io/packages/autocomplete-love",
                 "id": 46342288,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-22T18:58:51Z",
+                "open_issues": 2,
                 "owner": "rameshvarun",
                 "repo": "autocomplete-love",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "atom-package",
+                  "love2d"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4179,12 +6021,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Definitions for the LÖVE 2D game framework",
+                "homepage": null,
                 "id": 591567418,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-07-20T15:15:28Z",
+                "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "lua-language-server",
+                  "luacats"
+                ]
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             },
@@ -4195,12 +6045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The love api for the Zed Editor",
+                "homepage": null,
                 "id": 868592523,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-02-07T05:52:11Z",
+                "open_issues": 1,
                 "owner": "alejandro-alzate",
                 "repo": "love2z",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
             }
@@ -4219,12 +6074,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+            "homepage": "http://appimage.org",
             "id": 9435153,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-26T18:38:02Z",
+            "open_issues": 237,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9417
+            "stars": 9417,
+            "topics": [
+              "appimage",
+              "applications",
+              "deployment",
+              "linux",
+              "linux-app",
+              "packaging"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4235,12 +6102,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":love_letter: Lua script that makes LÖVE game release easier",
+            "homepage": null,
             "id": 14150021,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-07-10T11:51:46Z",
+            "open_issues": 11,
             "owner": "MisterDA",
             "repo": "love-release",
-            "stars": 480
+            "stars": 480,
+            "topics": [
+              "love",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4251,12 +6127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A build tool for löve games",
+            "homepage": null,
             "id": 238782715,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-01T06:14:55Z",
+            "open_issues": 27,
             "owner": "pfirsich",
             "repo": "makelove",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4267,12 +6148,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LÖVE Game Development & Automated Build System ⚡",
+            "homepage": null,
             "id": 907020907,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-12-15T00:11:35Z",
+            "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "android",
+              "apk",
+              "appimage",
+              "ci",
+              "github-action",
+              "github-actions",
+              "html5",
+              "ide",
+              "ios",
+              "linux",
+              "love2d",
+              "love2d-framework",
+              "lua",
+              "macos",
+              "sfx-archive",
+              "template",
+              "vscode",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4283,12 +6188,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform build tool for LÖVE",
+            "homepage": null,
             "id": 132614949,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-02T15:39:55Z",
+            "open_issues": 5,
             "owner": "camchenry",
             "repo": "boon",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "build-tool",
+              "love2d",
+              "lua",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4299,12 +6214,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "zero-dependency cross-platform builder for LÖVE to export games to Windows, MacOS, and Linux",
+            "homepage": "https://love2d.org",
             "id": 731758681,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-05-30T10:19:28Z",
+            "open_issues": 3,
             "owner": "ellraiser",
             "repo": "love-build",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "build-tools",
+              "love",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4315,12 +6240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export games made in LOVE2D to Windows, Mac, and Linux",
+            "homepage": null,
             "id": 198888924,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-25T16:38:35Z",
+            "open_issues": 0,
             "owner": "dmoa",
             "repo": "love-export",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4331,12 +6261,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line cross platform builder and runner for Love2D projects",
+            "homepage": null,
             "id": 869155719,
             "language": "Rust",
+            "license": "LGPL-2.1",
             "last_commit": "2026-07-25T15:25:26Z",
+            "open_issues": 2,
             "owner": "Wolfyxon",
             "repo": "lover",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "build-system",
+              "build-tool",
+              "cross-platform",
+              "cross-platform-development",
+              "love",
+              "love2d",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4347,12 +6290,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publish LÖVE games in the snap store",
+            "homepage": null,
             "id": 81138909,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-02-10T00:18:29Z",
+            "open_issues": 2,
             "owner": "popey",
             "repo": "love-snap-template",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "love2d",
+              "snappy"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4363,12 +6314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packages LÖVE Games using GitHub Actions",
+            "homepage": null,
             "id": 391667846,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-07-08T07:12:41Z",
+            "open_issues": 3,
             "owner": "MikuAuahDark",
             "repo": "love-fuser",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4379,12 +6335,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI to package your LÖVE projects",
+            "homepage": "https://www.npmjs.com/package/love-packager",
             "id": 511323486,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-09-16T12:09:38Z",
+            "open_issues": 1,
             "owner": "simplifylabs",
             "repo": "love-packager",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "cli",
+              "love",
+              "packager"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4395,12 +6360,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy way to export and deploy LÖVE projects to itch.io",
+            "homepage": null,
             "id": 385123219,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2024-04-07T20:08:04Z",
+            "open_issues": 0,
             "owner": "tducasse",
             "repo": "love-deploy",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "build",
+              "deploy",
+              "gamedev",
+              "itchio",
+              "love2d",
+              "makefile"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4411,12 +6388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pack LÖVE games into a single exe for Windows",
+            "homepage": null,
             "id": 829868411,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-07-29T07:06:22Z",
+            "open_issues": 2,
             "owner": "tpimh",
             "repo": "lovesfx",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -4433,12 +6415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of quality Lua packages and resources.",
+            "homepage": null,
             "id": 23039606,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
+            "open_issues": 48,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4559
+            "stars": 4559,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4449,12 +6436,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome PICO-8 resources, carts, tools and more",
+            "homepage": "https://pico-8.github.io/awesome-PICO-8/",
             "id": 44119302,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-28T13:25:56Z",
+            "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3070
+            "stars": 3070,
+            "topics": [
+              "8-bit-computer",
+              "8bit",
+              "awesome",
+              "awesome-list",
+              "cartridge",
+              "fantasy-console",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "list",
+              "lua",
+              "pico-8",
+              "pico8"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4465,12 +6471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of shaders designed for LÖVE",
+            "homepage": null,
             "id": 44209147,
             "language": "GLSL",
+            "license": null,
             "last_commit": "2015-10-13T22:58:56Z",
+            "open_issues": 3,
             "owner": "karai17",
             "repo": "awesome-love-shaders",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         }
@@ -4479,15 +6490,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:07:46.551Z",
+    "last_updated": "2026-08-29T04:16:59.793Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
+      "homepage": null,
       "id": 42526631,
       "language": "PowerShell",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-23T19:12:18Z",
+      "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4478
+      "stars": 4478,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-development",
+        "love2d",
+        "lua"
+      ]
     },
     "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
     "enhanced_repository": "enhansome/enhansome-love2d",
