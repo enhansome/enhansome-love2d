@@ -843,7 +843,7 @@
             "open_issues": 13,
             "owner": "love2d-community",
             "repo": "love-api",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "love2d",
               "lua"
@@ -1190,7 +1190,7 @@
             "open_issues": 3,
             "owner": "Oval-Tutu",
             "repo": "shove",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "aspect-ratio",
               "game-development",
@@ -1781,7 +1781,7 @@
             "open_issues": 32,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1079,
+            "stars": 1081,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1956,7 +1956,7 @@
             "open_issues": 51,
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2846,7 +2846,7 @@
             "open_issues": 2,
             "owner": "novemberisms",
             "repo": "brinevector",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1919,
+            "stars": 1920,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3376,7 +3376,7 @@
             "open_issues": 9,
             "owner": "Yonaba",
             "repo": "30log",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "lua",
               "object-oriented",
@@ -4111,7 +4111,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1632,
+            "stars": 1633,
             "topics": [
               "lua",
               "testing"
@@ -4429,11 +4429,11 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-27T11:10:58Z",
+            "last_commit": "2026-08-31T11:15:04Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "imgui",
               "luajit",
@@ -5043,7 +5043,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "game-development",
               "love2d",
@@ -6083,7 +6083,7 @@
             "open_issues": 237,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9418,
+            "stars": 9420,
             "topics": [
               "appimage",
               "applications",
@@ -6266,7 +6266,7 @@
             "id": 869155719,
             "language": "Rust",
             "license": "LGPL-2.1",
-            "last_commit": "2026-07-25T15:25:26Z",
+            "last_commit": "2026-08-31T16:21:44Z",
             "open_issues": 2,
             "owner": "Wolfyxon",
             "repo": "lover",
@@ -6424,7 +6424,7 @@
             "open_issues": 48,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4561,
+            "stars": 4563,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6490,7 +6490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:48:37.808Z",
+    "last_updated": "2026-08-31T21:05:42.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6502,7 +6502,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4481,
+      "stars": 4482,
       "topics": [
         "awesome",
         "awesome-list",
