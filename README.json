@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "2d",
               "3",
@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 989,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -498,7 +498,7 @@
             "open_issues": 0,
             "owner": "elloramir",
             "repo": "love-ase",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "aseprite",
               "love2d",
@@ -867,7 +867,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "lovebird",
-            "stars": 329,
+            "stars": 328,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1047,7 +1047,7 @@
             "open_issues": 0,
             "owner": "icrawler",
             "repo": "FPSGraph",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1612,7 +1612,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1633,7 +1633,7 @@
             "open_issues": 10,
             "owner": "Keyslam-Group",
             "repo": "Concord",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "ecs",
               "game-development",
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 219,
+            "stars": 221,
             "topics": [
               "ecs",
               "entity-component",
@@ -1781,7 +1781,7 @@
             "open_issues": 32,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1081,
+            "stars": 1080,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1802,7 +1802,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1820,7 +1820,7 @@
             "language": "Lua",
             "license": "Zlib",
             "last_commit": "2026-08-27T05:55:08Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "1bardesign",
             "repo": "batteries",
             "stars": 436,
@@ -2756,7 +2756,7 @@
             "open_issues": 17,
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "math"
             ]
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1920,
+            "stars": 1921,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3355,7 +3355,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3568,7 +3568,7 @@
             "open_issues": 14,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1100,
+            "stars": 1099,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,11 +3681,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-01T09:23:15Z",
+            "last_commit": "2026-09-02T17:22:09Z",
             "open_issues": 24,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3786,7 +3786,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4111,7 +4111,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1634,
+            "stars": 1635,
             "topics": [
               "lua",
               "testing"
@@ -4135,7 +4135,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4225,7 +4225,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 664,
+            "stars": 665,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4246,7 +4246,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4433,7 +4433,7 @@
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 305,
+            "stars": 307,
             "topics": [
               "imgui",
               "luajit",
@@ -4771,12 +4771,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Simple grid layout library for LÖVE engine (Love2D).",
+            "description": "Simple grid layout library for LÖVE engine (Love2D). Lua positive.",
             "homepage": null,
             "id": 691217061,
             "language": "Lua",
             "license": "LGPL-3.0",
-            "last_commit": "2024-04-22T12:39:54Z",
+            "last_commit": "2026-09-01T21:33:08Z",
             "open_issues": 1,
             "owner": "nekromoff",
             "repo": "layouter",
@@ -4784,6 +4784,7 @@
             "topics": [
               "buttons",
               "design",
+              "elements",
               "interface",
               "layout",
               "love2d",
@@ -4791,7 +4792,8 @@
               "love2d-game",
               "lua",
               "menu",
-              "ui"
+              "ui",
+              "ux"
             ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5812,7 +5814,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-08-14T12:53:09Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 752,
@@ -6051,7 +6053,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-02-07T05:52:11Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "alejandro-alzate",
                 "repo": "love2z",
                 "stars": 9,
@@ -6083,7 +6085,7 @@
             "open_issues": 237,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9418,
+            "stars": 9417,
             "topics": [
               "appimage",
               "applications",
@@ -6157,7 +6159,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "android",
               "apk",
@@ -6424,7 +6426,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4564,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6490,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:51:14.737Z",
+    "last_updated": "2026-09-02T18:57:16.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6502,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4485,
+      "stars": 4487,
       "topics": [
         "awesome",
         "awesome-list",
