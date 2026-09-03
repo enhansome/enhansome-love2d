@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "g3d",
               "love2d",
@@ -547,7 +547,7 @@
             "open_issues": 0,
             "owner": "patrixr",
             "repo": "love-animation",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "animation",
               "game-development",
@@ -808,6 +808,30 @@
       "items": [
         {
           "node_type": "item",
+          "title": "LÖVE API",
+          "description": "The complete API documentation of LÖVE in a Lua table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The whole LÖVE wiki in a Lua table.",
+            "homepage": "http://love2d-community.github.io/love-api/",
+            "id": 32788810,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-05-07T03:07:24Z",
+            "open_issues": 13,
+            "owner": "love2d-community",
+            "repo": "love-api",
+            "stars": 378,
+            "topics": [
+              "love2d",
+              "lua"
+            ]
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
           "title": "lurker",
           "description": "Auto-swaps changed Lua files in a running game.",
           "children": [],
@@ -824,30 +848,6 @@
             "repo": "lurker",
             "stars": 378,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LÖVE API",
-          "description": "The complete API documentation of LÖVE in a Lua table.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The whole LÖVE wiki in a Lua table.",
-            "homepage": "http://love2d-community.github.io/love-api/",
-            "id": 32788810,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-05-07T03:07:24Z",
-            "open_issues": 13,
-            "owner": "love2d-community",
-            "repo": "love-api",
-            "stars": 377,
-            "topics": [
-              "love2d",
-              "lua"
-            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1098,7 +1098,7 @@
             "open_issues": 16,
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "ecs",
               "entity-component",
@@ -1760,7 +1760,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1240,
+            "stars": 1241,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2424,7 +2424,7 @@
             "open_issues": 6,
             "owner": "tesselode",
             "repo": "baton",
-            "stars": 264,
+            "stars": 265,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2867,7 +2867,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,11 +3681,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-02T17:22:09Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-03T06:33:25Z",
+            "open_issues": 26,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2587,
+            "stars": 2588,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3698,27 +3698,6 @@
               "virtual-reality",
               "vr"
             ]
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LoveDos",
-          "description": "A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A framework for making 2D DOS games in Lua",
-            "homepage": null,
-            "id": 20815377,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2017-05-06T08:32:40Z",
-            "open_issues": 8,
-            "owner": "rxi",
-            "repo": "lovedos",
-            "stars": 706,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3738,6 +3717,27 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
+            "stars": 705,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LoveDos",
+          "description": "A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "A framework for making 2D DOS games in Lua",
+            "homepage": null,
+            "id": 20815377,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2017-05-06T08:32:40Z",
+            "open_issues": 8,
+            "owner": "rxi",
+            "repo": "lovedos",
             "stars": 705,
             "topics": []
           },
@@ -4063,7 +4063,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4309,7 +4309,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4642,7 +4642,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6085,7 +6085,7 @@
             "open_issues": 237,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9417,
+            "stars": 9419,
             "topics": [
               "appimage",
               "applications",
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:57:16.524Z",
+    "last_updated": "2026-09-03T18:52:37.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4487,
+      "stars": 4488,
       "topics": [
         "awesome",
         "awesome-list",
