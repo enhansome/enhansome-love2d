@@ -324,7 +324,7 @@
             "open_issues": 0,
             "owner": "drhayes",
             "repo": "beehive.lua",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "behavior-tree",
               "game-ai",
@@ -370,7 +370,7 @@
             "open_issues": 1,
             "owner": "xiejiangzhi",
             "repo": "astar",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "astar-algorithm",
               "lua",
@@ -1760,7 +1760,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1241,
+            "stars": 1242,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1956,7 +1956,7 @@
             "open_issues": 51,
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1977,7 +1977,7 @@
             "open_issues": 5,
             "owner": "HDictus",
             "repo": "hump",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1921,
+            "stars": 1922,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3516,7 +3516,7 @@
             "open_issues": 1,
             "owner": "EngineerSmith",
             "repo": "AppleCake",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "love2d",
               "lua",
@@ -3682,10 +3682,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-03T06:33:25Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2588,
+            "stars": 2589,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4152,8 +4152,8 @@
             "id": 5502005,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-15T09:10:03Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-04T07:45:47Z",
+            "open_issues": 12,
             "owner": "lunarmodules",
             "repo": "luassert",
             "stars": 250,
@@ -5814,7 +5814,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-08-14T12:53:09Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 752,
@@ -6085,7 +6085,7 @@
             "open_issues": 237,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9419,
+            "stars": 9420,
             "topics": [
               "appimage",
               "applications",
@@ -6426,7 +6426,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4565,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:52:37.285Z",
+    "last_updated": "2026-09-04T18:33:34.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",

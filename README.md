@@ -56,9 +56,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Jumper](https://github.com/Yonaba/Jumper) ⭐ 650 | 🐛 39 | 🌐 Lua | 📅 2022-10-21 - Grid-based pathfinding library.
 * [Lua-star](https://github.com/wesleywerner/lua-star) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2021-07-25 - Easy and pure Lua A\* path finding.
 * [Luafinding](https://github.com/GlorifiedPig/Luafinding) ⭐ 44 | 🐛 1 | 🌐 Lua | 📅 2022-09-23 - Class-based A\* implementation written purely in Lua.
-* [beehive.lua](https://github.com/drhayes/beehive.lua) ⭐ 30 | 🐛 0 | 🌐 Lua | 📅 2022-06-09 - A functional behavior tree implementation.
+* [beehive.lua](https://github.com/drhayes/beehive.lua) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2022-06-09 - A functional behavior tree implementation.
 * [LÖVElyTrees](https://github.com/Nrosa01/LOVElyTrees) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2025-02-17 - Fully featured behaviour tree implementation with tree rendering.
-* [astar](https://github.com/xiejiangzhi/astar) ⭐ 17 | 🐛 1 | 🌐 Lua | 📅 2025-06-06 - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
+* [astar](https://github.com/xiejiangzhi/astar) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2025-06-06 - An other A\* library. Any map (grid, point, mesh or infinite map) and support path cost.
 * [FluadHTN](https://github.com/Safebox36/OdaiHTN) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2026-06-18 - A powerful hierarchical task network for AI planning.
 * [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 
@@ -146,7 +146,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Game specific Library bundles, that provide reuseable functions*
 
-* [lume](https://github.com/rxi/lume/) ⭐ 1,241 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Collection of functions for Lua, geared towards game development.
+* [lume](https://github.com/rxi/lume/) ⭐ 1,242 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Collection of functions for Lua, geared towards game development.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) ⭐ 1,080 | 🐛 32 | 🌐 Lua | 📅 2024-03-24 - Tiled map loader and renderer.
 * [knife](https://github.com/airstruck/knife) ⭐ 521 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
 * [batteries](https://github.com/1bardesign/batteries/) ⭐ 436 | 🐛 4 | 🌐 Lua | 📅 2026-08-27 - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
@@ -154,8 +154,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [rotLove](https://github.com/paulofmandown/rotLove) ⭐ 291 | 🐛 11 | 🌐 Lua | 📅 2022-04-03 - Roguelike Toolkit in LÖVE. A LÖVE/lua port of rot.js.
 * [astray](https://github.com/SiENcE/astray) ⭐ 181 | 🐛 0 | 🌐 Lua | 📅 2026-06-22 - A Lua-based maze, room and dungeon generation library for dungeon crawlers and roguelike video games.
 * [narrator](https://github.com/astrochili/narrator) ⭐ 167 | 🐛 15 | 🌐 Lua | 📅 2024-05-09 - An Ink narrative scripting language parser and runtime implementation.
-* [prism](https://github.com/PrismRL/prism) ⭐ 122 | 🐛 51 | 🌐 Lua | 📅 2026-07-20 - A comprehensive traditional roguelike engine.
-* [hump](https://github.com/HDictus/hump) ⭐ 102 | 🐛 5 | 🌐 Lua | 📅 2023-02-22 - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
+* [prism](https://github.com/PrismRL/prism) ⭐ 123 | 🐛 51 | 🌐 Lua | 📅 2026-07-20 - A comprehensive traditional roguelike engine.
+* [hump](https://github.com/HDictus/hump) ⭐ 103 | 🐛 5 | 🌐 Lua | 📅 2023-02-22 - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 * [Love dialogue](https://github.com/Miisan-png/Love-Dialogue) ⭐ 85 | 🐛 3 | 🌐 Lua | 📅 2026-07-28 - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .
 * [cartographer](https://github.com/tesselode/cartographer) ⭐ 78 | 🐛 3 | 🌐 Lua | 📅 2020-11-28 - Small Tiled map loader and drawer.
 * [shack](https://github.com/Ulydev/shack) ⭐ 69 | 🐛 0 | 🌐 Lua | 📅 2016-04-30 - A LÖVE library that lets you easily add screen effects such as shake and rotation.
@@ -242,7 +242,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons) ⭐ 58 | 🐛 2 | 📅 2018-01-13*
 
-* [middleclass](https://github.com/kikito/middleclass) ⭐ 1,921 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
+* [middleclass](https://github.com/kikito/middleclass) ⭐ 1,922 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [classic](https://github.com/rxi/classic/) ⭐ 1,072 | 🐛 19 | 🌐 Lua | 📅 2021-12-31 - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) ⭐ 521 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Extremely minimal base class providing single inheritance and constructors.
 * [30log](https://github.com/Yonaba/30log) ⭐ 485 | 🐛 9 | 🌐 Lua | 📅 2021-05-08 - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins.
@@ -257,7 +257,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Performance measurement tools*
 
 * [jprof](https://github.com/pfirsich/jprof) ⭐ 102 | 🐛 9 | 🌐 Lua | 📅 2026-08-06 - Profiling library/tool for LÖVE.
-* [AppleCake](https://github.com/EngineerSmith/AppleCake) ⭐ 31 | 🐛 1 | 🌐 Lua | 📅 2026-05-07 - Profiling library for LÖVE, with detailed profiling and thread support.
+* [AppleCake](https://github.com/EngineerSmith/AppleCake) ⭐ 32 | 🐛 1 | 🌐 Lua | 📅 2026-05-07 - Profiling library for LÖVE, with detailed profiling and thread support.
 * [Piefiller](https://github.com/Polynominal/Piefiller) ⭐ 25 | 🐛 1 | 🌐 Lua | 📅 2017-08-01 - Graphical profiler for LÖVE.
 
 ## Physics
@@ -275,7 +275,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Ports for Platforms other than the ones officially supported by LÖVE*
 
-* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,588 | 🐛 26 | 🌐 C | 📅 2026-09-03 - LÖVE for virtual reality devices.
+* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,589 | 🐛 25 | 🌐 C | 📅 2026-09-03 - LÖVE for virtual reality devices.
 * [LÖVE Potion](https://github.com/lovebrew/lovepotion) ⭐ 705 | 🐛 8 | 🌐 C++ | 📅 2026-08-18 - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LoveDos](https://github.com/rxi/lovedos) ⚠️ Archived - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) ⚠️ Archived - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
@@ -313,7 +313,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [busted](https://github.com/lunarmodules/busted) ⭐ 1,635 | 🐛 64 | 🌐 Lua | 📅 2026-08-25 - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) ⭐ 521 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Fixture-free test framework.
-* [Luassert](https://github.com/lunarmodules/luassert) ⭐ 250 | 🐛 11 | 🌐 Lua | 📅 2026-08-15 - Extends `assert()` with additional, customizable tests.
+* [Luassert](https://github.com/lunarmodules/luassert) ⭐ 250 | 🐛 12 | 🌐 Lua | 📅 2026-09-04 - Extends `assert()` with additional, customizable tests.
 * [lust](https://github.com/bjornbytes/lust) ⭐ 135 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Minimal test framework.
 * [Lunatest](https://github.com/silentbicycle/lunatest) ⭐ 84 | 🐛 9 | 🌐 Lua | 📅 2022-05-07 - xUnit-style randomized unit testing framework.
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool.
@@ -431,7 +431,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - A lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support.
   * [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2019-01-21 - Script to add LOVE API syntax highlighting to ZBS.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE.
-  * [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) ⭐ 752 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-14 - Lua IDE/Debugger Plugin for VSCode.
+  * [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) ⭐ 752 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-14 - Lua IDE/Debugger Plugin for VSCode.
   * [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) ⚠️ Archived - Snippets and code completion for IntelliJ-IDEA.
 * [Vim](https://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.
   * [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) ⭐ 58 | 🐛 1 | 🌐 Lua | 📅 2020-08-07 - Syntax highlighting for Vim.
@@ -461,7 +461,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Tools and templates for distributing LÖVE games*
 
-* [AppImageKit](https://github.com/AppImage/AppImageKit) ⭐ 9,419 | 🐛 237 | 📅 2026-07-26 - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
+* [AppImageKit](https://github.com/AppImage/AppImageKit) ⭐ 9,420 | 🐛 237 | 📅 2026-07-26 - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
 * [love-release](https://github.com/MisterDA/love-release) ⚠️ Archived - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [makelove](https://github.com/pfirsich/makelove) ⭐ 212 | 🐛 27 | 🌐 Python | 📅 2026-06-01 - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 * [LÖVE Game Development & Automated Build System](https://github.com/Oval-Tutu/bootstrap-love2d-project) ⭐ 184 | 🐛 14 | 🌐 Lua | 📅 2025-12-15 - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
@@ -478,12 +478,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Related
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,565 | 🐛 49 | 📅 2024-08-11 - A list like this one, but more general and encompassing all of Lua's uses.
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,566 | 🐛 49 | 📅 2024-08-11 - A list like this one, but more general and encompassing all of Lua's uses.
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) ⭐ 3,070 | 🐛 0 | 📅 2026-07-28 - A curated list of PICO-8 resources, tutorials, tools and more.
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) ⭐ 95 | 🐛 3 | 🌐 GLSL | 📅 2015-10-13 - A collection of shaders designed to work in LÖVE.
 
-Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,645 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,651 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
