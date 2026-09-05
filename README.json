@@ -443,7 +443,7 @@
             "open_issues": 0,
             "owner": "sysl-dev",
             "repo": "SYSL-Text",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "draw",
               "love2d",
@@ -470,7 +470,7 @@
             "open_issues": 0,
             "owner": "josh-perry",
             "repo": "peachy",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "animation",
               "game-development",
@@ -1760,7 +1760,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1242,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2779,7 +2779,7 @@
             "open_issues": 1,
             "owner": "Yonaba",
             "repo": "delaunay",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1922,
+            "stars": 1923,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3568,7 +3568,7 @@
             "open_issues": 14,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1099,
+            "stars": 1100,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3717,7 +3717,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 705,
+            "stars": 706,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4686,7 +4686,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-08-12T21:01:20Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "mikefreno",
             "repo": "FlexLove",
             "stars": 44,
@@ -6032,7 +6032,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 79,
+                "stars": 81,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6082,7 +6082,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-07-26T18:38:02Z",
-            "open_issues": 237,
+            "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
             "stars": 9420,
@@ -6159,7 +6159,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "android",
               "apk",
@@ -6423,7 +6423,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
             "stars": 4566,
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:33:34.333Z",
+    "last_updated": "2026-09-05T17:40:04.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4488,
+      "stars": 4490,
       "topics": [
         "awesome",
         "awesome-list",
