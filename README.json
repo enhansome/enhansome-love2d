@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "g3d",
               "love2d",
@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "2d",
               "3",
@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 988,
+            "stars": 989,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -627,7 +627,7 @@
             "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "chiro",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1629,7 +1629,7 @@
             "id": 118922021,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-07-24T20:46:24Z",
+            "last_commit": "2026-09-07T03:30:06Z",
             "open_issues": 10,
             "owner": "Keyslam-Group",
             "repo": "Concord",
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "ecs",
               "entity-component",
@@ -3681,11 +3681,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-05T23:05:59Z",
+            "last_commit": "2026-09-06T21:59:59Z",
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2589,
+            "stars": 2590,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3717,7 +3717,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 706,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4014,7 +4014,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 727,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4288,7 +4288,7 @@
             "open_issues": 0,
             "owner": "rxi",
             "repo": "tick",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4505,7 +4505,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "framework",
               "gamepad-support",
@@ -6056,7 +6056,7 @@
                 "open_issues": 1,
                 "owner": "alejandro-alzate",
                 "repo": "love2z",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9421,
+            "stars": 9423,
             "topics": [
               "appimage",
               "applications",
@@ -6138,7 +6138,7 @@
             "open_issues": 27,
             "owner": "pfirsich",
             "repo": "makelove",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6199,7 +6199,7 @@
             "open_issues": 5,
             "owner": "camchenry",
             "repo": "boon",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "build-tool",
               "love2d",
@@ -6447,7 +6447,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3071,
+            "stars": 3072,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:42:32.051Z",
+    "last_updated": "2026-09-07T19:23:20.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4490,
+      "stars": 4491,
       "topics": [
         "awesome",
         "awesome-list",
