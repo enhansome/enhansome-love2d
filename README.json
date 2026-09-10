@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "2d",
               "3",
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1923,
+            "stars": 1924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3713,7 +3713,7 @@
             "id": 43768227,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-18T03:45:00Z",
+            "last_commit": "2026-09-09T21:36:22Z",
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
@@ -4014,7 +4014,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 728,
+            "stars": 729,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4225,7 +4225,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 665,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4541,7 +4541,7 @@
             "open_issues": 19,
             "owner": "qeffects",
             "repo": "helium",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "gui",
               "helium",
@@ -5814,7 +5814,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-08-14T12:53:09Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 752,
@@ -6225,7 +6225,7 @@
             "open_issues": 3,
             "owner": "ellraiser",
             "repo": "love-build",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "build-tools",
               "love",
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4567,
+            "stars": 4568,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:51:53.490Z",
+    "last_updated": "2026-09-10T18:41:01.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4491,
+      "stars": 4492,
       "topics": [
         "awesome",
         "awesome-list",
