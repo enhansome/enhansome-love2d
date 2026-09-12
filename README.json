@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "g3d",
               "love2d",
@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "3d",
               "love2d",
@@ -1781,7 +1781,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1082,
+            "stars": 1083,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2019,7 +2019,7 @@
             "open_issues": 3,
             "owner": "tesselode",
             "repo": "cartographer",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,11 +3681,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-08T21:27:18Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-12T16:39:17Z",
+            "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2594,
+            "stars": 2595,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3717,7 +3717,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 709,
+            "stars": 710,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4111,7 +4111,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1635,
+            "stars": 1636,
             "topics": [
               "lua",
               "testing"
@@ -4354,10 +4354,10 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-07-15T14:28:50Z",
-            "open_issues": 26,
+            "open_issues": 28,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "gamedev",
               "imgui",
@@ -4433,7 +4433,7 @@
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "imgui",
               "luajit",
@@ -4567,7 +4567,7 @@
             "open_issues": 4,
             "owner": "wilhantian",
             "repo": "catui",
-            "stars": 116,
+            "stars": 115,
             "topics": [
               "gui-library",
               "love2d",
@@ -4814,7 +4814,7 @@
             "open_issues": 0,
             "owner": "wqferr",
             "repo": "slicy",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5817,7 +5817,7 @@
                 "open_issues": 46,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "emmylua"
                 ]
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4569,
+            "stars": 4570,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:44:40.002Z",
+    "last_updated": "2026-09-12T17:50:10.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4495,
+      "stars": 4496,
       "topics": [
         "awesome",
         "awesome-list",
