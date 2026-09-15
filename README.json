@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "g3d",
               "love2d",
@@ -1586,7 +1586,7 @@
             "open_issues": 0,
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "entity-component",
               "entity-component-system",
@@ -3126,7 +3126,7 @@
             "open_issues": 2,
             "owner": "Overtorment",
             "repo": "NoobHub",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "corona-sdk",
               "gideros",
@@ -3185,7 +3185,7 @@
             "open_issues": 3,
             "owner": "bartbes",
             "repo": "love-misc-libs",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3568,7 +3568,7 @@
             "open_issues": 14,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1101,
+            "stars": 1100,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3685,7 +3685,7 @@
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2595,
+            "stars": 2596,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4267,7 +4267,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 486,
+            "stars": 485,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4354,10 +4354,10 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-07-15T14:28:50Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "gamedev",
               "imgui",
@@ -4481,7 +4481,7 @@
             "language": "Lua",
             "license": "Zlib",
             "last_commit": "2025-10-22T11:40:19Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "linux-man",
             "repo": "LoveFrames",
             "stars": 156,
@@ -6135,7 +6135,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-01T06:14:55Z",
-            "open_issues": 27,
+            "open_issues": 29,
             "owner": "pfirsich",
             "repo": "makelove",
             "stars": 213,
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:56:37.461Z",
+    "last_updated": "2026-09-15T19:13:24.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4495,
+      "stars": 4494,
       "topics": [
         "awesome",
         "awesome-list",
