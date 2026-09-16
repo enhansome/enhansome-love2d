@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "2d",
               "3",
@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 992,
+            "stars": 993,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1681,7 +1681,7 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-18T22:09:21Z",
+            "last_commit": "2026-09-16T08:46:15Z",
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
@@ -1777,7 +1777,7 @@
             "id": 15909222,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2024-03-24T11:43:23Z",
+            "last_commit": "2026-09-16T03:28:45Z",
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
@@ -1956,7 +1956,7 @@
             "open_issues": 51,
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1924,
+            "stars": 1925,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5045,7 +5045,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 243,
+            "stars": 242,
             "topics": [
               "game-development",
               "love2d",
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4570,
+            "stars": 4572,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6447,7 +6447,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3073,
+            "stars": 3074,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:13:24.554Z",
+    "last_updated": "2026-09-16T19:05:58.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4494,
+      "stars": 4495,
       "topics": [
         "awesome",
         "awesome-list",
