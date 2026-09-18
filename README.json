@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 993,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3185,7 +3185,7 @@
             "open_issues": 3,
             "owner": "bartbes",
             "repo": "love-misc-libs",
-            "stars": 116,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,11 +3681,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-13T16:20:05Z",
+            "last_commit": "2026-09-18T06:01:01Z",
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2598,
+            "stars": 2597,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4111,7 +4111,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1637,
+            "stars": 1638,
             "topics": [
               "lua",
               "testing"
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9422,
+            "stars": 9423,
             "topics": [
               "appimage",
               "applications",
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:16:59.119Z",
+    "last_updated": "2026-09-18T18:38:46.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4496,
+      "stars": 4498,
       "topics": [
         "awesome",
         "awesome-list",
