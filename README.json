@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 840,
+            "stars": 841,
             "topics": [
               "g3d",
               "love2d",
@@ -822,7 +822,7 @@
             "open_issues": 13,
             "owner": "love2d-community",
             "repo": "love-api",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "love2d",
               "lua"
@@ -1631,7 +1631,7 @@
             "license": "MIT",
             "last_commit": "2026-09-07T03:30:06Z",
             "open_issues": 10,
-            "owner": "Keyslam-Group",
+            "owner": "Concord-Studio",
             "repo": "Concord",
             "stars": 327,
             "topics": [
@@ -3685,7 +3685,7 @@
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2597,
+            "stars": 2599,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4111,7 +4111,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1638,
+            "stars": 1637,
             "topics": [
               "lua",
               "testing"
@@ -4484,7 +4484,7 @@
             "open_issues": 9,
             "owner": "linux-man",
             "repo": "LoveFrames",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5045,7 +5045,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "game-development",
               "love2d",
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9423,
+            "stars": 9425,
             "topics": [
               "appimage",
               "applications",
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4572,
+            "stars": 4573,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:38:46.718Z",
+    "last_updated": "2026-09-19T18:12:42.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4498,
+      "stars": 4500,
       "topics": [
         "awesome",
         "awesome-list",
