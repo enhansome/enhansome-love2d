@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 994,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3313,7 +3313,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1925,
+            "stars": 1926,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3682,7 +3682,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-18T06:01:01Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2599,
@@ -4267,7 +4267,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 485,
+            "stars": 486,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4710,7 +4710,7 @@
             "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "grid",
               "gui",
@@ -5045,7 +5045,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "game-development",
               "love2d",
@@ -6032,7 +6032,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9425,
+            "stars": 9427,
             "topics": [
               "appimage",
               "applications",
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4573,
+            "stars": 4574,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6447,7 +6447,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3074,
+            "stars": 3079,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:12:42.801Z",
+    "last_updated": "2026-09-20T18:18:11.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4500,
+      "stars": 4502,
       "topics": [
         "awesome",
         "awesome-list",
