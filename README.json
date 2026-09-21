@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 995,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -467,7 +467,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-05-04T05:59:30Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "josh-perry",
             "repo": "peachy",
             "stars": 116,
@@ -846,7 +846,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 378,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 16,
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 670,
+            "stars": 671,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1083,
+            "stars": 1084,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3334,7 +3334,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1075,
+            "stars": 1076,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,11 +3681,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-18T06:01:01Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-20T20:04:38Z",
+            "open_issues": 26,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4430,7 +4430,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-14T10:46:54Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
             "stars": 309,
@@ -5337,7 +5337,7 @@
             "open_issues": 2,
             "owner": "Alloyed",
             "repo": "nativefiledialog",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "lua-binding"
             ]
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9427,
+            "stars": 9429,
             "topics": [
               "appimage",
               "applications",
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4574,
+            "stars": 4575,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:18:11.948Z",
+    "last_updated": "2026-09-21T20:07:39.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4502,
+      "stars": 4504,
       "topics": [
         "awesome",
         "awesome-list",
