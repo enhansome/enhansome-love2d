@@ -466,8 +466,8 @@
             "id": 130282173,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-05-04T05:59:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-23T13:45:59Z",
+            "open_issues": 0,
             "owner": "josh-perry",
             "repo": "peachy",
             "stars": 116,
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "ecs",
               "entity-component",
@@ -1781,7 +1781,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1085,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1998,7 +1998,7 @@
             "open_issues": 3,
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,7 +3681,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-22T16:47:55Z",
+            "last_commit": "2026-09-22T20:19:08Z",
             "open_issues": 26,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -4429,7 +4429,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-14T10:46:54Z",
+            "last_commit": "2026-09-23T10:56:08Z",
             "open_issues": 10,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9429,
+            "stars": 9428,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3079,
+            "stars": 3080,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:12:00.146Z",
+    "last_updated": "2026-09-23T19:14:20.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6504,7 +6504,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4504,
+      "stars": 4505,
       "topics": [
         "awesome",
         "awesome-list",
