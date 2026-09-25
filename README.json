@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 996,
+            "stars": 998,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1760,7 +1760,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1086,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3681,8 +3681,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-22T20:19:08Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-25T06:50:43Z",
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2601,
@@ -3717,7 +3717,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 712,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5875,7 +5875,7 @@
                 "open_issues": 1,
                 "owner": "davisdude",
                 "repo": "vim-love-docs",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "love2d",
                   "vim"
@@ -6085,7 +6085,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9429,
+            "stars": 9430,
             "topics": [
               "appimage",
               "applications",
@@ -6426,7 +6426,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4575,
+            "stars": 4576,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6492,7 +6492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:30:14.388Z",
+    "last_updated": "2026-09-25T19:34:11.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6501,7 +6501,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-08-23T19:12:18Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
       "stars": 4508,
