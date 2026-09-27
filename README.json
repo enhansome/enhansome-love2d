@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "g3d",
               "love2d",
@@ -1342,7 +1342,7 @@
             "open_issues": 1,
             "owner": "hsluv",
             "repo": "hsluv-lua",
-            "stars": 50,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1493,6 +1493,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sunscreen",
+          "description": "A small, dependency-free virtual-resolution helper for LÖVE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Love2D screen-scaling library, single Lua file",
+            "homepage": null,
+            "id": 1017646464,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2026-08-04T22:10:50Z",
+            "open_issues": 0,
+            "owner": "challacade",
+            "repo": "sunscreen",
+            "stars": 15,
+            "topics": []
+          },
+          "first_seen": "2026-09-27T19:17:22.597Z"
         },
         {
           "node_type": "item",
@@ -1995,7 +2016,7 @@
             "language": "Lua",
             "license": null,
             "last_commit": "2026-07-28T15:05:38Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Miisan-png",
             "repo": "Love-Dialogue",
             "stars": 87,
@@ -3681,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:50:43Z",
+            "last_commit": "2026-09-27T18:54:54Z",
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2601,
+            "stars": 2600,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4111,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1637,
+            "stars": 1638,
             "topics": [
               "lua",
               "testing"
@@ -6085,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9430,
+            "stars": 9429,
             "topics": [
               "appimage",
               "applications",
@@ -6225,7 +6246,7 @@
             "open_issues": 3,
             "owner": "ellraiser",
             "repo": "love-build",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "build-tools",
               "love",
@@ -6492,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:43:26.018Z",
+    "last_updated": "2026-09-27T19:17:22.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6500,8 +6521,8 @@
       "id": 42526631,
       "language": "PowerShell",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-23T19:12:18Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-26T21:02:34Z",
+      "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
       "stars": 4507,
@@ -6513,7 +6534,7 @@
         "lua"
       ]
     },
-    "original_repository_sha": "da8d5aa5f26bbe78589066c9fe76778c9a17a4a6",
+    "original_repository_sha": "8477dcd8d4bb07e20868dd44251cbe241708a64f",
     "enhanced_repository": "enhansome/enhansome-love2d",
     "enhanced_repository_description": null,
     "title": "Awesome Löve with stars"
