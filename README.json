@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "3d",
               "love2d",
@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 999,
+            "stars": 1000,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -547,7 +547,7 @@
             "open_issues": 0,
             "owner": "patrixr",
             "repo": "love-animation",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "animation",
               "game-development",
@@ -1098,7 +1098,7 @@
             "open_issues": 16,
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1190,7 +1190,7 @@
             "open_issues": 3,
             "owner": "Oval-Tutu",
             "repo": "shove",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "aspect-ratio",
               "game-development",
@@ -1781,7 +1781,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1245,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3631,7 +3631,7 @@
             "open_issues": 7,
             "owner": "erinmaus",
             "repo": "slick",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-27T18:54:54Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-28T01:31:08Z",
+            "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2600,
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1638,
+            "stars": 1639,
             "topics": [
               "lua",
               "testing"
@@ -6447,7 +6447,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4576,
+            "stars": 4577,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3080,
+            "stars": 3079,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:17:22.597Z",
+    "last_updated": "2026-09-28T21:23:08.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",

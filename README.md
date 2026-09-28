@@ -40,7 +40,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [g3d](https://github.com/groverburger/g3d) ⭐ 842 | 🐛 3 | 🌐 Lua | 📅 2026-05-03 - Simple and easy 3D engine for LÖVE.
 * [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) ⭐ 505 | 🐛 14 | 🌐 Lua | 📅 2023-05-25 - An awesome 3D engine for LÖVE.
-* [Menori](https://github.com/rozenmad/Menori) ⭐ 300 | 🐛 6 | 🌐 Lua | 📅 2025-08-26 - Library for 3D rendering with LÖVE.
+* [Menori](https://github.com/rozenmad/Menori) ⭐ 301 | 🐛 6 | 🌐 Lua | 📅 2025-08-26 - Library for 3D rendering with LÖVE.
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) ⭐ 77 | 🐛 0 | 🌐 Lua | 📅 2020-07-03 - A 3D collision detection library for Lua.
 * [Lovox](https://github.com/Keyslam/Lovox) ⭐ 51 | 🐛 0 | 🌐 Lua | 📅 2018-07-08 - Pseudo-3D library for working with voxels.
 * [IQM](https://github.com/excessive/iqm-exm) ⭐ 42 | 🐛 7 | 🌐 Python | 📅 2021-06-04 - Inter-Quake Model loader (binary).
@@ -66,12 +66,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Animation & Frame-Managing Libraries*
 
-* [anim8](https://github.com/kikito/anim8) ⭐ 999 | 🐛 7 | 🌐 Lua | 📅 2022-01-20 - Animation library.
+* [anim8](https://github.com/kikito/anim8) ⭐ 1,000 | 🐛 7 | 🌐 Lua | 📅 2022-01-20 - Animation library.
 * [SYSL-Text](https://github.com/sysl-dev/SYSL-Text) ⭐ 120 | 🐛 0 | 🌐 Lua | 📅 2024-08-03 - Text animation and automatic wrapping library based on tags.
 * [Peachy](https://github.com/josh-perry/peachy) ⭐ 116 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - A parser/renderer for Aseprite animations in LÖVE.
 * [Aseprite loader](https://github.com/elloramir/love-ase) ⭐ 66 | 🐛 0 | 🌐 Lua | 📅 2023-07-14 - Complete ase/aseprite file loader (no json).
 * [Walt](https://github.com/davisdude/Walt) ⭐ 65 | 🐛 0 | 🌐 Lua | 📅 2022-05-21 - Animation library.
-* [lovanim](https://github.com/patrixr/love-animation) ⭐ 41 | 🐛 0 | 🌐 Lua | 📅 2019-10-17 - A minimal stateful animation library.
+* [lovanim](https://github.com/patrixr/love-animation) ⭐ 42 | 🐛 0 | 🌐 Lua | 📅 2019-10-17 - A minimal stateful animation library.
 * [animx](https://github.com/besnoi/animX) ⭐ 34 | 🐛 4 | 🌐 Lua | 📅 2021-10-16 - A featureful Animation library for loading animations from XML files!.
 * [andross](https://github.com/pfirsich/andross) ⚠️ Archived - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [chiro](https://github.com/bjornbytes/chiro) ⭐ 29 | 🐛 0 | 🌐 Lua | 📅 2018-03-18 - Convenience wrapper around [Spine](http://esotericsoftware.com).
@@ -109,11 +109,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Drawing specific Libraries, that simplify the Drawing process*
 
-* [Push](https://github.com/Ulydev/push) ⭐ 672 | 🐛 16 | 🌐 Lua | 📅 2023-09-25 - A simple resolution-handling library for LÖVE.
+* [Push](https://github.com/Ulydev/push) ⭐ 673 | 🐛 16 | 🌐 Lua | 📅 2023-09-25 - A simple resolution-handling library for LÖVE.
 * [Autobatch](https://github.com/rxi/autobatch) ⭐ 123 | 🐛 1 | 🌐 Lua | 📅 2018-09-10 - Small LÖVE module to automate the use of SpriteBatches.
 * [deep](https://github.com/Nikaoto/deep) ⭐ 109 | 🐛 1 | 🌐 Lua | 📅 2026-02-17 - Adds Z axis; allows you to queue actions and draw calls.
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) ⭐ 105 | 🐛 0 | 🌐 Lua | 📅 2020-10-09 - Turtle graphics library for LÖVE.
-* [Shöve](https://github.com/Oval-Tutu/shove) ⭐ 100 | 🐛 3 | 🌐 Lua | 📅 2025-05-23 - A powerful resolution-handler and rendering library for LÖVE.
+* [Shöve](https://github.com/Oval-Tutu/shove) ⭐ 101 | 🐛 3 | 🌐 Lua | 📅 2025-05-23 - A powerful resolution-handler and rendering library for LÖVE.
 * [Hot particles](https://github.com/ReFreezed/HotParticles) ⭐ 71 | 🐛 0 | 🌐 Lua | 📅 2022-03-20 - "Hot Particles is a particle editor for the LÖVE game framework."
 * [svglover](https://github.com/globalcitizen/svglover) ⭐ 60 | 🐛 1 | 🌐 Lua | 📅 2020-02-08 - Library to import and display simple SVGs in LÖVE.
 * [draft](https://github.com/pelevesque/draft) ⭐ 58 | 🐛 0 | 🌐 Lua | 📅 2019-06-03 - A module for drawing complex shapes.
@@ -147,7 +147,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Game specific Library bundles, that provide reuseable functions*
 
-* [lume](https://github.com/rxi/lume/) ⭐ 1,245 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Collection of functions for Lua, geared towards game development.
+* [lume](https://github.com/rxi/lume/) ⭐ 1,246 | 🐛 22 | 🌐 Lua | 📅 2023-11-19 - Collection of functions for Lua, geared towards game development.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) ⭐ 1,087 | 🐛 31 | 🌐 Lua | 📅 2026-09-16 - Tiled map loader and renderer.
 * [knife](https://github.com/airstruck/knife) ⭐ 522 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
 * [batteries](https://github.com/1bardesign/batteries/) ⭐ 437 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
@@ -267,7 +267,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Bump](https://github.com/kikito/bump.lua) ⭐ 1,100 | 🐛 14 | 🌐 Lua | 📅 2023-09-29 - Collision detection library for Lua.
 * [breezefield](https://github.com/HDictus/breezefield) ⭐ 121 | 🐛 4 | 🌐 Lua | 📅 2024-08-12 - A lightweight and easy love.physics wrapper (windfield alternative).
-* [slick](https://github.com/erinmaus/slick/) ⭐ 82 | 🐛 7 | 🌐 Lua | 📅 2026-04-08 - A simple to use polygon collision library inspired by bump.lua.
+* [slick](https://github.com/erinmaus/slick/) ⭐ 83 | 🐛 7 | 🌐 Lua | 📅 2026-04-08 - A simple to use polygon collision library inspired by bump.lua.
 * [Strike](https://github.com/Aweptimum/Strike) ⭐ 33 | 🐛 2 | 🌐 Lua | 📅 2023-09-15 - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
 * [loveblobs](https://github.com/zhangf911/loveblobs) ⭐ 3 | 🐛 0 | 📅 2018-10-21 - A softbody library with support for both dynamic and static arbitrary softbodies.
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects.
@@ -276,7 +276,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Ports for Platforms other than the ones officially supported by LÖVE*
 
-* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,600 | 🐛 27 | 🌐 C | 📅 2026-09-27 - LÖVE for virtual reality devices.
+* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,600 | 🐛 28 | 🌐 C | 📅 2026-09-28 - LÖVE for virtual reality devices.
 * [LÖVE Potion](https://github.com/lovebrew/lovepotion) ⭐ 713 | 🐛 8 | 🌐 C++ | 📅 2026-09-11 - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LoveDos](https://github.com/rxi/lovedos) ⚠️ Archived - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) ⚠️ Archived - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
@@ -312,7 +312,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Libraries and Tools for Unit Testing*
 
-* [busted](https://github.com/lunarmodules/busted) ⭐ 1,638 | 🐛 64 | 🌐 Lua | 📅 2026-08-25 - Simple unit-testing framework with customizable assertions.
+* [busted](https://github.com/lunarmodules/busted) ⭐ 1,639 | 🐛 64 | 🌐 Lua | 📅 2026-08-25 - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) ⭐ 522 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Fixture-free test framework.
 * [Luassert](https://github.com/lunarmodules/luassert) ⭐ 250 | 🐛 12 | 🌐 Lua | 📅 2026-09-04 - Extends `assert()` with additional, customizable tests.
 * [lust](https://github.com/bjornbytes/lust) ⭐ 135 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Minimal test framework.
@@ -479,12 +479,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Related
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,576 | 🐛 50 | 📅 2024-08-11 - A list like this one, but more general and encompassing all of Lua's uses.
-* [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) ⭐ 3,080 | 🐛 0 | 📅 2026-07-28 - A curated list of PICO-8 resources, tutorials, tools and more.
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,577 | 🐛 50 | 📅 2024-08-11 - A list like this one, but more general and encompassing all of Lua's uses.
+* [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) ⭐ 3,079 | 🐛 0 | 📅 2026-07-28 - A curated list of PICO-8 resources, tutorials, tools and more.
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) ⭐ 96 | 🐛 3 | 🌐 GLSL | 📅 2015-10-13 - A collection of shaders designed to work in LÖVE.
 
-Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,691 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
