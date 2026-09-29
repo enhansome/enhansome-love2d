@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "2d",
               "3",
@@ -1161,7 +1161,7 @@
             "open_issues": 0,
             "owner": "arthurealike",
             "repo": "turtle.lua",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "drawing",
               "lua",
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1076,
+            "stars": 1077,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1639,
+            "stars": 1641,
             "topics": [
               "lua",
               "testing"
@@ -4731,7 +4731,7 @@
             "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "grid",
               "gui",
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9429,
+            "stars": 9431,
             "topics": [
               "appimage",
               "applications",
@@ -6159,7 +6159,7 @@
             "open_issues": 29,
             "owner": "pfirsich",
             "repo": "makelove",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6447,7 +6447,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4577,
+            "stars": 4578,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:23:08.227Z",
+    "last_updated": "2026-09-29T20:14:27.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4507,
+      "stars": 4509,
       "topics": [
         "awesome",
         "awesome-list",
