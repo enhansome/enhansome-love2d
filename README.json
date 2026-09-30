@@ -1844,7 +1844,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "framework",
               "helper",
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-28T01:31:08Z",
+            "last_commit": "2026-09-30T06:10:20Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2600,
+            "stars": 2601,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4965,7 +4965,7 @@
             "id": 904235092,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-26T16:51:12Z",
+            "last_commit": "2026-09-30T17:30:57Z",
             "open_issues": 4,
             "owner": "LRDPRDX",
             "repo": "LikeliHUD",
@@ -5163,7 +5163,7 @@
             "open_issues": 2,
             "owner": "bjornbytes",
             "repo": "tick",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5838,7 +5838,7 @@
                 "open_issues": 46,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 753,
+                "stars": 754,
                 "topics": [
                   "emmylua"
                 ]
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9431,
+            "stars": 9435,
             "topics": [
               "appimage",
               "applications",
@@ -6246,7 +6246,7 @@
             "open_issues": 3,
             "owner": "ellraiser",
             "repo": "love-build",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "build-tools",
               "love",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:14:27.849Z",
+    "last_updated": "2026-09-30T20:18:53.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4509,
+      "stars": 4510,
       "topics": [
         "awesome",
         "awesome-list",
