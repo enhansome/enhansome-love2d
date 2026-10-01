@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "2d",
               "3",
@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 1000,
+            "stars": 999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1246,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1998,7 +1998,7 @@
             "open_issues": 5,
             "owner": "HDictus",
             "repo": "hump",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2040,7 +2040,7 @@
             "open_issues": 3,
             "owner": "tesselode",
             "repo": "cartographer",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1077,
+            "stars": 1076,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3589,7 +3589,7 @@
             "open_issues": 14,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1100,
+            "stars": 1099,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-30T06:10:20Z",
+            "last_commit": "2026-09-30T22:48:58Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "lua",
               "testing"
@@ -4919,7 +4919,7 @@
             "open_issues": 0,
             "owner": "MoonGameLab",
             "repo": "MeowUI",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "core",
               "core-features",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:18:53.656Z",
+    "last_updated": "2026-10-01T20:31:39.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4510,
+      "stars": 4512,
       "topics": [
         "awesome",
         "awesome-list",
