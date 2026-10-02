@@ -467,7 +467,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-23T13:45:59Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "josh-perry",
             "repo": "peachy",
             "stars": 116,
@@ -696,7 +696,7 @@
             "open_issues": 0,
             "owner": "kikito",
             "repo": "gamera",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1702,7 +1702,7 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-16T08:46:15Z",
+            "last_commit": "2026-10-02T00:50:58Z",
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
@@ -1781,7 +1781,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1245,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1892,7 +1892,7 @@
             "open_issues": 11,
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "love2d",
               "lua",
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1076,
+            "stars": 1077,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3589,7 +3589,7 @@
             "open_issues": 14,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1099,
+            "stars": 1100,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3631,7 +3631,7 @@
             "open_issues": 7,
             "owner": "erinmaus",
             "repo": "slick",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-30T22:48:58Z",
+            "last_commit": "2026-10-01T20:49:26Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1642,
+            "stars": 1641,
             "topics": [
               "lua",
               "testing"
@@ -4309,7 +4309,7 @@
             "open_issues": 0,
             "owner": "rxi",
             "repo": "tick",
-            "stars": 208,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4526,7 +4526,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "framework",
               "gamepad-support",
@@ -5838,7 +5838,7 @@
                 "open_issues": 46,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 754,
+                "stars": 755,
                 "topics": [
                   "emmylua"
                 ]
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9435,
+            "stars": 9434,
             "topics": [
               "appimage",
               "applications",
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3079,
+            "stars": 3081,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:31:39.403Z",
+    "last_updated": "2026-10-02T20:07:52.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
