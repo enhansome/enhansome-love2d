@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "g3d",
               "love2d",
@@ -251,7 +251,7 @@
             "open_issues": 39,
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "gamedev",
               "lua",
@@ -466,8 +466,8 @@
             "id": 130282173,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-23T13:45:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-04T09:33:39Z",
+            "open_issues": 0,
             "owner": "josh-perry",
             "repo": "peachy",
             "stars": 116,
@@ -3706,7 +3706,7 @@
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2601,
+            "stars": 2603,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 730,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4288,7 +4288,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 486,
+            "stars": 487,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4706,8 +4706,8 @@
             "id": 1055803883,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-08-12T21:01:20Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-04T18:43:18Z",
+            "open_issues": 2,
             "owner": "mikefreno",
             "repo": "FlexLove",
             "stars": 44,
@@ -5066,7 +5066,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 245,
+            "stars": 244,
             "topics": [
               "game-development",
               "love2d",
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9434,
+            "stars": 9436,
             "topics": [
               "appimage",
               "applications",
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3081,
+            "stars": 3083,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:49:53.002Z",
+    "last_updated": "2026-10-04T18:48:05.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4512,
+      "stars": 4513,
       "topics": [
         "awesome",
         "awesome-list",
