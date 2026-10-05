@@ -1702,7 +1702,7 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:26:54Z",
+            "last_commit": "2026-10-05T00:47:13Z",
             "open_issues": 2,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
@@ -1844,7 +1844,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "framework",
               "helper",
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:49:26Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-05T20:45:35Z",
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2603,
@@ -3738,7 +3738,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 713,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4378,7 +4378,7 @@
             "open_issues": 26,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "gamedev",
               "imgui",
@@ -4707,7 +4707,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-10-04T18:43:18Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "mikefreno",
             "repo": "FlexLove",
             "stars": 44,
@@ -6242,8 +6242,8 @@
             "id": 731758681,
             "language": "Lua",
             "license": null,
-            "last_commit": "2025-05-30T10:19:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-05T15:18:33Z",
+            "open_issues": 2,
             "owner": "ellraiser",
             "repo": "love-build",
             "stars": 106,
@@ -6447,7 +6447,7 @@
             "open_issues": 50,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4578,
+            "stars": 4579,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:48:05.738Z",
+    "last_updated": "2026-10-05T22:11:43.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
