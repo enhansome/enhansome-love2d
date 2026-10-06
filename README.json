@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "g3d",
               "love2d",
@@ -1607,7 +1607,7 @@
             "open_issues": 0,
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 789,
+            "stars": 788,
             "topics": [
               "entity-component",
               "entity-component-system",
@@ -1654,7 +1654,7 @@
             "open_issues": 10,
             "owner": "Concord-Studio",
             "repo": "Concord",
-            "stars": 327,
+            "stars": 326,
             "topics": [
               "ecs",
               "game-development",
@@ -1754,7 +1754,7 @@
             "open_issues": 0,
             "owner": "joescodeshack",
             "repo": "adorbs",
-            "stars": 35,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1844,7 +1844,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 439,
+            "stars": 438,
             "topics": [
               "framework",
               "helper",
@@ -2234,7 +2234,7 @@
             "open_issues": 1,
             "owner": "besnoi",
             "repo": "clove",
-            "stars": 30,
+            "stars": 29,
             "topics": [
               "asset-loader",
               "helper-library",
@@ -2445,7 +2445,7 @@
             "open_issues": 6,
             "owner": "tesselode",
             "repo": "baton",
-            "stars": 265,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3120,7 +3120,7 @@
             "open_issues": 0,
             "owner": "GwyrddGlas",
             "repo": "Lua-Opus",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2603,
+            "stars": 2602,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 731,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4357,7 +4357,7 @@
             "open_issues": 18,
             "owner": "vrld",
             "repo": "suit",
-            "stars": 542,
+            "stars": 541,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5163,7 +5163,7 @@
             "open_issues": 2,
             "owner": "bjornbytes",
             "repo": "tick",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:19.022Z",
+    "last_updated": "2026-10-06T20:34:06.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4513,
+      "stars": 4512,
       "topics": [
         "awesome",
         "awesome-list",
