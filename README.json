@@ -547,7 +547,7 @@
             "open_issues": 0,
             "owner": "patrixr",
             "repo": "love-animation",
-            "stars": 42,
+            "stars": 39,
             "topics": [
               "animation",
               "game-development",
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-07T18:17:48Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-08T20:41:00Z",
+            "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2602,
@@ -4433,7 +4433,7 @@
             "open_issues": 27,
             "owner": "slages",
             "repo": "love-imgui",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4454,7 +4454,7 @@
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "imgui",
               "luajit",
@@ -5835,7 +5835,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-08-14T12:53:09Z",
-                "open_issues": 46,
+                "open_issues": 45,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 755,
@@ -6180,7 +6180,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "android",
               "apk",
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3083,
+            "stars": 3084,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:47:04.694Z",
+    "last_updated": "2026-10-08T20:49:54.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4512,
+      "stars": 4513,
       "topics": [
         "awesome",
         "awesome-list",
