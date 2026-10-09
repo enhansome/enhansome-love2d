@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "2d",
               "3",
@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 302,
+            "stars": 301,
             "topics": [
               "3d",
               "love2d",
@@ -916,7 +916,7 @@
             "open_issues": 2,
             "owner": "nhartland",
             "repo": "love-build",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2082,7 +2082,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2853,27 +2853,6 @@
         },
         {
           "node_type": "item",
-          "title": "brinevector",
-          "description": "Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple ffi-accelerated vector library for everyone",
-            "homepage": null,
-            "id": 121586928,
-            "language": "Lua",
-            "license": "NOASSERTION",
-            "last_commit": "2022-08-21T16:39:01Z",
-            "open_issues": 2,
-            "owner": "novemberisms",
-            "repo": "brinevector",
-            "stars": 67,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
           "title": "nvec",
           "description": "Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.",
           "children": [],
@@ -2888,6 +2867,27 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
+            "stars": 68,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
+          "title": "brinevector",
+          "description": "Standalone lightweight luajit ffi-accelerated 2D vector library for great performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple ffi-accelerated vector library for everyone",
+            "homepage": null,
+            "id": 121586928,
+            "language": "Lua",
+            "license": "NOASSERTION",
+            "last_commit": "2022-08-21T16:39:01Z",
+            "open_issues": 2,
+            "owner": "novemberisms",
+            "repo": "brinevector",
             "stars": 67,
             "topics": []
           },
@@ -3703,10 +3703,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-08T20:41:00Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2602,
+            "stars": 2603,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3734,7 +3734,7 @@
             "id": 43768227,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T18:38:42Z",
+            "last_commit": "2026-10-09T00:23:59Z",
             "open_issues": 9,
             "owner": "lovebrew",
             "repo": "lovepotion",
@@ -4084,7 +4084,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4105,7 +4105,7 @@
             "open_issues": 1,
             "owner": "idbrii",
             "repo": "love-shaderscan",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4330,7 +4330,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4663,7 +4663,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5136,7 +5136,7 @@
             "open_issues": 0,
             "owner": "MikuAuahDark",
             "repo": "lily",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "async",
               "event",
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9437,
+            "stars": 9438,
             "topics": [
               "appimage",
               "applications",
@@ -6444,10 +6444,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4583,
+            "stars": 4585,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:49:54.505Z",
+    "last_updated": "2026-10-09T20:20:05.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
