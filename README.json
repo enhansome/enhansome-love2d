@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 999,
+            "stars": 1001,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -822,7 +822,7 @@
             "open_issues": 13,
             "owner": "love2d-community",
             "repo": "love-api",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "love2d",
               "lua"
@@ -2777,7 +2777,7 @@
             "open_issues": 17,
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "math"
             ]
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1927,
+            "stars": 1929,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-08T20:41:00Z",
+            "last_commit": "2026-10-10T18:32:30Z",
             "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -4177,7 +4177,7 @@
             "open_issues": 12,
             "owner": "lunarmodules",
             "repo": "luassert",
-            "stars": 250,
+            "stars": 251,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4198,7 +4198,7 @@
             "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "lust",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5509,7 +5509,7 @@
             "open_issues": 0,
             "owner": "itzKiwiSky",
             "repo": "Andromeda",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6077,7 +6077,7 @@
                 "open_issues": 1,
                 "owner": "alejandro-alzate",
                 "repo": "love2z",
-                "stars": 10,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9438,
+            "stars": 9439,
             "topics": [
               "appimage",
               "applications",
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3084,
+            "stars": 3085,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:20:05.141Z",
+    "last_updated": "2026-10-10T19:32:36.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
