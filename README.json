@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "3d",
               "love2d",
@@ -1633,7 +1633,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1702,8 +1702,8 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-06T22:39:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-11T03:10:53Z",
+            "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
             "stars": 224,
@@ -1781,7 +1781,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1246,
+            "stars": 1247,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1823,7 +1823,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1929,
+            "stars": 1928,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3376,7 +3376,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3628,7 +3628,7 @@
             "language": "Lua",
             "license": "MPL-2.0",
             "last_commit": "2026-04-08T17:54:35Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "erinmaus",
             "repo": "slick",
             "stars": 84,
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-10T18:32:30Z",
+            "last_commit": "2026-10-11T03:39:13Z",
             "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2603,
+            "stars": 2604,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3807,7 +3807,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4156,7 +4156,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4198,7 +4198,7 @@
             "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "lust",
-            "stars": 136,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4267,7 +4267,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4501,8 +4501,8 @@
             "id": 73325319,
             "language": "Lua",
             "license": "Zlib",
-            "last_commit": "2025-10-22T11:40:19Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-11T17:01:58Z",
+            "open_issues": 3,
             "owner": "linux-man",
             "repo": "LoveFrames",
             "stars": 157,
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9439,
+            "stars": 9441,
             "topics": [
               "appimage",
               "applications",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:32:36.310Z",
+    "last_updated": "2026-10-11T19:43:36.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4513,
+      "stars": 4516,
       "topics": [
         "awesome",
         "awesome-list",
