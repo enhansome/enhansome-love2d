@@ -251,7 +251,7 @@
             "open_issues": 39,
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 652,
+            "stars": 651,
             "topics": [
               "gamedev",
               "lua",
@@ -1161,7 +1161,7 @@
             "open_issues": 0,
             "owner": "arthurealike",
             "repo": "turtle.lua",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "drawing",
               "lua",
@@ -1607,7 +1607,7 @@
             "open_issues": 0,
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "entity-component",
               "entity-component-system",
@@ -1781,7 +1781,7 @@
             "open_issues": 22,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1247,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2800,7 +2800,7 @@
             "open_issues": 1,
             "owner": "Yonaba",
             "repo": "delaunay",
-            "stars": 111,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3116,7 +3116,7 @@
             "id": 1144450452,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-01-29T01:03:28Z",
+            "last_commit": "2026-10-12T13:22:44Z",
             "open_issues": 0,
             "owner": "GwyrddGlas",
             "repo": "Lua-Opus",
@@ -3533,7 +3533,7 @@
             "id": 238286321,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-05-07T16:47:10Z",
+            "last_commit": "2026-10-12T19:10:57Z",
             "open_issues": 1,
             "owner": "EngineerSmith",
             "repo": "AppleCake",
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-11T03:39:13Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-12T22:12:25Z",
+            "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2604,
@@ -3828,7 +3828,7 @@
             "open_issues": 3,
             "owner": "bakpakin",
             "repo": "binser",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3849,7 +3849,7 @@
             "open_issues": 5,
             "owner": "gvx",
             "repo": "bitser",
-            "stars": 181,
+            "stars": 180,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3898,33 +3898,6 @@
         },
         {
           "node_type": "item",
-          "title": "moonblob",
-          "description": "Binary serialization and data parsing library.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Binary serialization for moonscript + LuaJIT",
-            "homepage": null,
-            "id": 155223120,
-            "language": "MoonScript",
-            "license": "MIT",
-            "last_commit": "2024-03-13T10:44:35Z",
-            "open_issues": 4,
-            "owner": "megagrump",
-            "repo": "moonblob",
-            "stars": 31,
-            "topics": [
-              "blob",
-              "lua",
-              "luajit",
-              "moonscript",
-              "serialization"
-            ]
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
           "title": "trickle",
           "description": "A bitstream library focused on high compression for use in networking.",
           "children": [],
@@ -3962,6 +3935,33 @@
             "repo": "cdata",
             "stars": 30,
             "topics": []
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
+          "title": "moonblob",
+          "description": "Binary serialization and data parsing library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Binary serialization for moonscript + LuaJIT",
+            "homepage": null,
+            "id": 155223120,
+            "language": "MoonScript",
+            "license": "MIT",
+            "last_commit": "2024-03-13T10:44:35Z",
+            "open_issues": 4,
+            "owner": "megagrump",
+            "repo": "moonblob",
+            "stars": 30,
+            "topics": [
+              "blob",
+              "lua",
+              "luajit",
+              "moonscript",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "lua",
               "testing"
@@ -6447,7 +6447,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4585,
+            "stars": 4586,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3085,
+            "stars": 3084,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:43:36.161Z",
+    "last_updated": "2026-10-12T22:36:10.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
