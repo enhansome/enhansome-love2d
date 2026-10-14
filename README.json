@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 1001,
+            "stars": 1002,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -498,7 +498,7 @@
             "open_issues": 0,
             "owner": "elloramir",
             "repo": "love-ase",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "aseprite",
               "love2d",
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1077,
+            "stars": 1076,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2606,
+            "stars": 2607,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4450,11 +4450,11 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-13T08:58:34Z",
+            "last_commit": "2026-10-14T11:12:30Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "imgui",
               "luajit",
@@ -5289,7 +5289,7 @@
             "open_issues": 3,
             "owner": "Oval-Tutu",
             "repo": "smiti18n",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "i18n",
               "l10n",
@@ -6180,7 +6180,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "android",
               "apk",
@@ -6447,7 +6447,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4584,
+            "stars": 4583,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:49:27.022Z",
+    "last_updated": "2026-10-14T19:42:13.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
