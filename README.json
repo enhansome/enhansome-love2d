@@ -2361,7 +2361,7 @@
             "license": "MIT",
             "last_commit": "2025-12-28T23:59:34Z",
             "open_issues": 1,
-            "owner": "GwyrddGlas",
+            "owner": "AryaBlue",
             "repo": "GameStateManager",
             "stars": 19,
             "topics": []
@@ -3118,7 +3118,7 @@
             "license": "MIT",
             "last_commit": "2026-10-12T13:22:44Z",
             "open_issues": 0,
-            "owner": "GwyrddGlas",
+            "owner": "AryaBlue",
             "repo": "Lua-Opus",
             "stars": 8,
             "topics": []
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-13T20:00:15Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-15T03:57:42Z",
+            "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2607,
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1642,
+            "stars": 1641,
             "topics": [
               "lua",
               "testing"
@@ -4454,7 +4454,7 @@
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "imgui",
               "luajit",
@@ -5066,7 +5066,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "game-development",
               "love2d",
@@ -5712,7 +5712,7 @@
             "license": "MIT",
             "last_commit": "2026-01-29T01:03:51Z",
             "open_issues": 0,
-            "owner": "GwyrddGlas",
+            "owner": "AryaBlue",
             "repo": "LUA-SNG-Parser",
             "stars": 0,
             "topics": []
@@ -5835,7 +5835,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-08-14T12:53:09Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
                 "stars": 755,
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9443,
+            "stars": 9444,
             "topics": [
               "appimage",
               "applications",
@@ -6180,7 +6180,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "android",
               "apk",
@@ -6447,7 +6447,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4583,
+            "stars": 4582,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:42:13.033Z",
+    "last_updated": "2026-10-15T19:23:14.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
