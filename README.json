@@ -1892,7 +1892,7 @@
             "open_issues": 11,
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "love2d",
               "lua",
@@ -3116,7 +3116,7 @@
             "id": 1144450452,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:22:44Z",
+            "last_commit": "2026-10-15T23:04:33Z",
             "open_issues": 0,
             "owner": "AryaBlue",
             "repo": "Lua-Opus",
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-15T03:57:42Z",
+            "last_commit": "2026-10-16T15:18:50Z",
             "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2607,
+            "stars": 2608,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4174,7 +4174,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-04T07:45:47Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "lunarmodules",
             "repo": "luassert",
             "stars": 251,
@@ -4405,7 +4405,7 @@
             "open_issues": 6,
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "gui",
               "imgui",
@@ -4450,11 +4450,11 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:12:30Z",
+            "last_commit": "2026-10-16T10:58:50Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "imgui",
               "luajit",
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9444,
+            "stars": 9446,
             "topics": [
               "appimage",
               "applications",
@@ -6220,7 +6220,7 @@
             "open_issues": 5,
             "owner": "camchenry",
             "repo": "boon",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "build-tool",
               "love2d",
@@ -6447,7 +6447,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4582,
+            "stars": 4583,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:23:14.115Z",
+    "last_updated": "2026-10-16T19:01:56.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4518,
+      "stars": 4519,
       "topics": [
         "awesome",
         "awesome-list",
