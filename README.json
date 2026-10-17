@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "3d",
               "love2d",
@@ -1607,7 +1607,7 @@
             "open_issues": 0,
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "entity-component",
               "entity-component-system",
@@ -1702,7 +1702,7 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-11T03:10:53Z",
+            "last_commit": "2026-10-16T21:40:25Z",
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
@@ -2320,6 +2320,27 @@
         },
         {
           "node_type": "item",
+          "title": "GameStateManager",
+          "description": "A lightweight, optimized, and easy-to-implement solution for efficient game state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 771264620,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2025-12-28T23:59:34Z",
+            "open_issues": 1,
+            "owner": "AryaBlue",
+            "repo": "GameStateManager",
+            "stars": 20,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
           "title": "shard",
           "description": "Collection of useful mini modules.",
           "children": [],
@@ -2344,27 +2365,6 @@
               "lua-library",
               "lua-script"
             ]
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GameStateManager",
-          "description": "A lightweight, optimized, and easy-to-implement solution for efficient game state management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 771264620,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2025-12-28T23:59:34Z",
-            "open_issues": 1,
-            "owner": "AryaBlue",
-            "repo": "GameStateManager",
-            "stars": 19,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -3589,7 +3589,7 @@
             "open_issues": 14,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1102,
+            "stars": 1103,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2608,
+            "stars": 2609,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1641,
+            "stars": 1642,
             "topics": [
               "lua",
               "testing"
@@ -4526,7 +4526,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "framework",
               "gamepad-support",
@@ -4965,7 +4965,7 @@
             "id": 904235092,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-07T04:42:33Z",
+            "last_commit": "2026-10-17T15:24:47Z",
             "open_issues": 4,
             "owner": "LRDPRDX",
             "repo": "LikeliHUD",
@@ -6106,7 +6106,7 @@
             "open_issues": 236,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9446,
+            "stars": 9447,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 49,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4583,
+            "stars": 4586,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3084,
+            "stars": 3083,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:01:56.251Z",
+    "last_updated": "2026-10-17T17:56:02.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4519,
+      "stars": 4522,
       "topics": [
         "awesome",
         "awesome-list",
