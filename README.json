@@ -498,7 +498,7 @@
             "open_issues": 0,
             "owner": "elloramir",
             "repo": "love-ase",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "aseprite",
               "love2d",
@@ -1702,7 +1702,7 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-19T19:53:24Z",
+            "last_commit": "2026-10-19T21:49:17Z",
             "open_issues": 3,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
@@ -1778,7 +1778,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2023-11-19T23:59:15Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
             "stars": 1245,
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1087,
+            "stars": 1088,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1871,7 +1871,7 @@
             "open_issues": 6,
             "owner": "kyleconroy",
             "repo": "lua-state-machine",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3586,7 +3586,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2023-09-29T16:28:50Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
             "stars": 1103,
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-18T05:23:15Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-20T18:49:32Z",
+            "open_issues": 31,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2611,
+            "stars": 2612,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3734,11 +3734,11 @@
             "id": 43768227,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T02:39:50Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-20T15:14:07Z",
+            "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 716,
+            "stars": 717,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6103,7 +6103,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-07-26T18:38:02Z",
-            "open_issues": 236,
+            "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
             "stars": 9450,
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:43:22.837Z",
+    "last_updated": "2026-10-20T19:36:05.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
