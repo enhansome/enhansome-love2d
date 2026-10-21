@@ -1702,8 +1702,8 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:49:17Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-21T12:58:56Z",
+            "open_issues": 4,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
             "stars": 224,
@@ -3537,7 +3537,7 @@
             "open_issues": 1,
             "owner": "EngineerSmith",
             "repo": "AppleCake",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "love2d",
               "lua",
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:49:32Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-21T19:17:25Z",
+            "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2612,
@@ -3759,7 +3759,7 @@
             "open_issues": 8,
             "owner": "rxi",
             "repo": "lovedos",
-            "stars": 705,
+            "stars": 704,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4129,7 +4129,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-08-25T14:38:05Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "lunarmodules",
             "repo": "busted",
             "stars": 1642,
@@ -4378,7 +4378,7 @@
             "open_issues": 26,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "gamedev",
               "imgui",
@@ -4433,7 +4433,7 @@
             "open_issues": 27,
             "owner": "slages",
             "repo": "love-imgui",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4450,11 +4450,11 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-19T08:20:28Z",
+            "last_commit": "2026-10-21T15:16:25Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "imgui",
               "luajit",
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3083,
+            "stars": 3085,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:36:05.435Z",
+    "last_updated": "2026-10-21T19:38:47.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4524,
+      "stars": 4527,
       "topics": [
         "awesome",
         "awesome-list",
