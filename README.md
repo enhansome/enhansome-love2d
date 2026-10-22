@@ -147,8 +147,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Game specific Library bundles, that provide reuseable functions*
 
-* [lume](https://github.com/rxi/lume/) ⭐ 1,245 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - Collection of functions for Lua, geared towards game development.
-* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) ⭐ 1,088 | 🐛 31 | 🌐 Lua | 📅 2026-09-16 - Tiled map loader and renderer.
+* [lume](https://github.com/rxi/lume/) ⭐ 1,246 | 🐛 23 | 🌐 Lua | 📅 2023-11-19 - Collection of functions for Lua, geared towards game development.
+* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) ⭐ 1,089 | 🐛 31 | 🌐 Lua | 📅 2026-09-16 - Tiled map loader and renderer.
 * [knife](https://github.com/airstruck/knife) ⭐ 525 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
 * [batteries](https://github.com/1bardesign/batteries/) ⭐ 438 | 🐛 3 | 🌐 Lua | 📅 2026-09-17 - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) ⭐ 404 | 🐛 6 | 🌐 Lua | 📅 2025-06-25 - Lua Finite State Machine.
@@ -276,8 +276,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Ports for Platforms other than the ones officially supported by LÖVE*
 
-* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,612 | 🐛 30 | 🌐 C | 📅 2026-10-21 - LÖVE for virtual reality devices.
-* [LÖVE Potion](https://github.com/lovebrew/lovepotion) ⭐ 717 | 🐛 8 | 🌐 C++ | 📅 2026-10-20 - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
+* [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,613 | 🐛 28 | 🌐 C | 📅 2026-10-22 - LÖVE for virtual reality devices.
+* [LÖVE Potion](https://github.com/lovebrew/lovepotion) ⭐ 717 | 🐛 8 | 🌐 C++ | 📅 2026-10-22 - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LoveDos](https://github.com/rxi/lovedos) ⚠️ Archived - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) ⚠️ Archived - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
 * [lovejs-player](https://codeberg.org/alexjgriffith/lovejs-player) - LÖVE ported to the web using Emscripten.
@@ -312,7 +312,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Libraries and Tools for Unit Testing*
 
-* [busted](https://github.com/lunarmodules/busted) ⭐ 1,642 | 🐛 65 | 🌐 Lua | 📅 2026-08-25 - Simple unit-testing framework with customizable assertions.
+* [busted](https://github.com/lunarmodules/busted) ⭐ 1,642 | 🐛 64 | 🌐 Lua | 📅 2026-08-25 - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) ⭐ 525 | 🐛 2 | 🌐 Lua | 📅 2018-09-17 - Fixture-free test framework.
 * [Luassert](https://github.com/lunarmodules/luassert) ⭐ 251 | 🐛 13 | 🌐 Lua | 📅 2026-09-04 - Extends `assert()` with additional, customizable tests.
 * [lust](https://github.com/bjornbytes/lust) ⭐ 137 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Minimal test framework.
@@ -349,7 +349,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lovr-ui2d](https://github.com/immortalx74/lovr-ui2d) ⭐ 81 | 🐛 0 | 🌐 Lua | 📅 2025-11-21 - An immediate mode GUI library for LÖVR and LÖVE.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) ⭐ 68 | 🐛 1 | 🌐 Lua | 📅 2026-09-26 - Flexible layouting library.
 * [Badar 🌕](https://github.com/Nabeel20/Badr) ⭐ 47 | 🐛 0 | 🌐 Lua | 📅 2024-10-04 - Simple custom UI syntax for easy components compositions.
-* [FlexLöve](https://github.com/mikefreno/FlexLove) ⭐ 44 | 🐛 0 | 🌐 Lua | 📅 2026-10-04 - A fully featured GUI library, supporting flexbox/grid/absolute layouts, both immediate and retained mode, 9patch theming and advanced event support.
+* [FlexLöve](https://github.com/mikefreno/FlexLove) ⭐ 45 | 🐛 0 | 🌐 Lua | 📅 2026-10-04 - A fully featured GUI library, supporting flexbox/grid/absolute layouts, both immediate and retained mode, 9patch theming and advanced event support.
 * [LOVELi](https://github.com/mtanksl/LOVELi) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2026-07-13 - Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.
 * [Patchy](https://github.com/excessive/patchy) ⭐ 38 | 🐛 1 | 🌐 Lua | 📅 2019-03-27 - 9patch library.
 * [Plan](https://github.com/zombrodo/plan) ⭐ 29 | 🐛 0 | 🌐 Lua | 📅 2026-03-02 - A super simple Rule-based layout library.
@@ -360,7 +360,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lovepatch](https://github.com/notcl4y14/lovepatch) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2025-08-15 - A simple 9-patch library for LÖVE.
 * [MeowUI](https://github.com/MoonGameLab/MeowUI) ⭐ 12 | 🐛 0 | 🌐 MoonScript | 📅 2024-10-13 - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
 * [YALG](https://github.com/sasszem/yalg) ⭐ 10 | 🐛 2 | 🌐 Lua | 📅 2020-08-25 - A very simple, cross-platform, reactive UI for last minute UIs.
-* [likelihud](https://github.com/LRDPRDX/LikeliHUD) ⭐ 7 | 🐛 4 | 🌐 Lua | 📅 2026-10-17 - A simple UI library with a declarative QML-like approach of defining UI.
+* [likelihud](https://github.com/LRDPRDX/LikeliHUD) ⭐ 8 | 🐛 4 | 🌐 Lua | 📅 2026-10-17 - A simple UI library with a declarative QML-like approach of defining UI.
 * [TuxRedux](https://github.com/KINGTUT10101/TuxRedux) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-06-10 - An immediate-mode UI system for LOVE2D inspired by SUIT.
 * [SafeWord](https://github.com/josefnpat/safeword) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2015-09-18 - An overscan detection library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
@@ -462,7 +462,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 *Tools and templates for distributing LÖVE games*
 
-* [AppImageKit](https://github.com/AppImage/AppImageKit) ⭐ 9,450 | 🐛 238 | 📅 2026-07-26 - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
+* [AppImageKit](https://github.com/AppImage/AppImageKit) ⭐ 9,451 | 🐛 238 | 📅 2026-07-26 - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
 * [love-release](https://github.com/MisterDA/love-release) ⚠️ Archived - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [makelove](https://github.com/pfirsich/makelove) ⭐ 214 | 🐛 29 | 🌐 Python | 📅 2026-06-01 - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 * [LÖVE Game Development & Automated Build System](https://github.com/Oval-Tutu/bootstrap-love2d-project) ⭐ 183 | 🐛 14 | 🌐 Lua | 📅 2025-12-15 - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
@@ -483,8 +483,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) ⭐ 3,085 | 🐛 0 | 📅 2026-07-28 - A curated list of PICO-8 resources, tutorials, tools and more.
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) ⭐ 96 | 🐛 3 | 🌐 GLSL | 📅 2015-10-13 - A collection of shaders designed to work in LÖVE.
 
-Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,738 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,742 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
