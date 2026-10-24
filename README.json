@@ -1314,7 +1314,7 @@
             "open_issues": 1,
             "owner": "nasso",
             "repo": "lovector",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "love",
               "love2d",
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1089,
+            "stars": 1090,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2445,7 +2445,7 @@
             "open_issues": 6,
             "owner": "tesselode",
             "repo": "baton",
-            "stars": 265,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1078,
+            "stars": 1080,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-23T17:47:35Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-24T01:32:59Z",
+            "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3738,7 +3738,7 @@
             "open_issues": 9,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 717,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 730,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1643,
+            "stars": 1644,
             "topics": [
               "lua",
               "testing"
@@ -4246,7 +4246,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 666,
+            "stars": 665,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9451,
+            "stars": 9452,
             "topics": [
               "appimage",
               "applications",
@@ -6180,7 +6180,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "android",
               "apk",
@@ -6447,7 +6447,7 @@
             "open_issues": 51,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4588,
+            "stars": 4589,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3085,
+            "stars": 3086,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:32:59.633Z",
+    "last_updated": "2026-10-24T18:21:38.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4531,
+      "stars": 4532,
       "topics": [
         "awesome",
         "awesome-list",
