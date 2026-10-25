@@ -1646,11 +1646,11 @@
           "repo_info": {
             "archived": false,
             "description": "A feature-complete ECS library",
-            "homepage": null,
+            "homepage": "concord.studio",
             "id": 118922021,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-07T03:30:06Z",
+            "last_commit": "2026-10-24T21:24:24Z",
             "open_issues": 10,
             "owner": "Concord-Studio",
             "repo": "Concord",
@@ -1702,11 +1702,11 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-23T00:12:26Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-25T18:08:38Z",
+            "open_issues": 5,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "ecs",
               "entity-component",
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1090,
+            "stars": 1091,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3116,7 +3116,7 @@
             "id": 1144450452,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-15T23:04:33Z",
+            "last_commit": "2026-10-25T00:37:59Z",
             "open_issues": 0,
             "owner": "AryaBlue",
             "repo": "Lua-Opus",
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1104,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-24T01:32:59Z",
+            "last_commit": "2026-10-24T20:03:50Z",
             "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2614,
+            "stars": 2615,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3734,11 +3734,11 @@
             "id": 43768227,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T14:04:08Z",
+            "last_commit": "2026-10-25T14:42:46Z",
             "open_issues": 9,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 718,
+            "stars": 719,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1644,
+            "stars": 1643,
             "topics": [
               "lua",
               "testing"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:21:38.583Z",
+    "last_updated": "2026-10-25T18:33:22.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4532,
+      "stars": 4535,
       "topics": [
         "awesome",
         "awesome-list",
