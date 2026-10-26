@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 844,
+            "stars": 845,
             "topics": [
               "g3d",
               "love2d",
@@ -1650,7 +1650,7 @@
             "id": 118922021,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:24:24Z",
+            "last_commit": "2026-10-26T18:58:03Z",
             "open_issues": 10,
             "owner": "Concord-Studio",
             "repo": "Concord",
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-24T20:03:50Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-26T20:19:48Z",
+            "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2615,
@@ -3738,7 +3738,7 @@
             "open_issues": 9,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 719,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 731,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 64,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1643,
+            "stars": 1645,
             "topics": [
               "lua",
               "testing"
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-21T15:16:25Z",
+            "last_commit": "2026-10-26T08:21:04Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -5092,7 +5092,7 @@
             "open_issues": 2,
             "owner": "bjornbytes",
             "repo": "cargo",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9452,
+            "stars": 9453,
             "topics": [
               "appimage",
               "applications",
@@ -6289,11 +6289,11 @@
             "id": 869155719,
             "language": "Rust",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-31T16:21:44Z",
+            "last_commit": "2026-10-26T13:28:47Z",
             "open_issues": 2,
             "owner": "Wolfyxon",
             "repo": "lover",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "build-system",
               "build-tool",
@@ -6468,7 +6468,7 @@
             "open_issues": 0,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3086,
+            "stars": 3088,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:33:22.470Z",
+    "last_updated": "2026-10-26T20:45:18.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 0,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4535,
+      "stars": 4537,
       "topics": [
         "awesome",
         "awesome-list",
