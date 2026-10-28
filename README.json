@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 1004,
+            "stars": 1005,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1680,7 +1680,7 @@
             "open_issues": 9,
             "owner": "nidorx",
             "repo": "ecs-lua",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "lua",
               "luajit",
@@ -1702,8 +1702,8 @@
             "id": 886198089,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-27T01:17:41Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-28T15:29:50Z",
+            "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
             "stars": 225,
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1091,
+            "stars": 1090,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1844,7 +1844,7 @@
             "open_issues": 3,
             "owner": "1bardesign",
             "repo": "batteries",
-            "stars": 438,
+            "stars": 437,
             "topics": [
               "framework",
               "helper",
@@ -2646,7 +2646,7 @@
             "open_issues": 2,
             "owner": "matiasah",
             "repo": "shadows",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "glsl",
               "lighting-effects",
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1105,
+            "stars": 1104,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-27T18:49:58Z",
+            "last_commit": "2026-10-28T18:46:45Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -3734,8 +3734,8 @@
             "id": 43768227,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T14:42:46Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-27T22:03:52Z",
+            "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
             "stars": 720,
@@ -4288,7 +4288,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 487,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-26T08:21:04Z",
+            "last_commit": "2026-10-28T16:33:28Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -4526,7 +4526,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "framework",
               "gamepad-support",
@@ -4710,7 +4710,7 @@
             "open_issues": 0,
             "owner": "mikefreno",
             "repo": "FlexLove",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4731,7 +4731,7 @@
             "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "grid",
               "gui",
@@ -5530,7 +5530,7 @@
             "open_issues": 0,
             "owner": "YellowButShort",
             "repo": "servelove",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5838,7 +5838,7 @@
                 "open_issues": 44,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 755,
+                "stars": 756,
                 "topics": [
                   "emmylua"
                 ]
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9453,
+            "stars": 9452,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 51,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4591,
+            "stars": 4592,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:14:58.249Z",
+    "last_updated": "2026-10-28T20:34:27.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4538,
+      "stars": 4539,
       "topics": [
         "awesome",
         "awesome-list",
