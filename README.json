@@ -2777,7 +2777,7 @@
             "open_issues": 17,
             "owner": "excessive",
             "repo": "cpml",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "math"
             ]
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-28T18:46:45Z",
+            "last_commit": "2026-10-29T00:54:28Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2615,
+            "stars": 2616,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3828,7 +3828,7 @@
             "open_issues": 3,
             "owner": "bakpakin",
             "repo": "binser",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-28T16:33:28Z",
+            "last_commit": "2026-10-29T15:29:45Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9452,
+            "stars": 9455,
             "topics": [
               "appimage",
               "applications",
@@ -6444,10 +6444,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-11T17:32:00Z",
-            "open_issues": 51,
+            "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4592,
+            "stars": 4593,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:34:27.968Z",
+    "last_updated": "2026-10-29T20:37:04.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4539,
+      "stars": 4540,
       "topics": [
         "awesome",
         "awesome-list",
