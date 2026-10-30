@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "excessive",
             "repo": "iqm-exm",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "blender-addon",
               "blender-exporter",
@@ -846,7 +846,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 378,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3703,10 +3703,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-29T00:54:28Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2616,
+            "stars": 2617,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-29T15:29:45Z",
+            "last_commit": "2026-10-30T15:32:28Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9455,
+            "stars": 9457,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4593,
+            "stars": 4594,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6465,7 +6465,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-28T13:25:56Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
             "stars": 3088,
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:37:04.142Z",
+    "last_updated": "2026-10-30T20:08:45.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4540,
+      "stars": 4541,
       "topics": [
         "awesome",
         "awesome-list",
