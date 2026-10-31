@@ -1414,7 +1414,7 @@
             "open_issues": 0,
             "owner": "EngineerSmith",
             "repo": "Runtime-TextureAtlas",
-            "stars": 28,
+            "stars": 27,
             "topics": [
               "gamedev",
               "graphics",
@@ -1892,7 +1892,7 @@
             "open_issues": 11,
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "love2d",
               "lua",
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-29T00:54:28Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-31T18:18:18Z",
+            "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2617,
+            "stars": 2618,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4357,7 +4357,7 @@
             "open_issues": 18,
             "owner": "vrld",
             "repo": "suit",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4378,7 +4378,7 @@
             "open_issues": 26,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "gamedev",
               "imgui",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9457,
+            "stars": 9460,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4594,
+            "stars": 4595,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:08:45.592Z",
+    "last_updated": "2026-10-31T19:32:48.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4541,
+      "stars": 4543,
       "topics": [
         "awesome",
         "awesome-list",
