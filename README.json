@@ -1251,7 +1251,7 @@
             "open_issues": 1,
             "owner": "globalcitizen",
             "repo": "svglover",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2445,7 +2445,7 @@
             "open_issues": 6,
             "owner": "tesselode",
             "repo": "baton",
-            "stars": 266,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-31T18:18:18Z",
+            "last_commit": "2026-11-01T01:36:28Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -3738,7 +3738,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 720,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 732,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:32:28Z",
+            "last_commit": "2026-11-01T11:53:52Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -6180,7 +6180,7 @@
             "open_issues": 14,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "android",
               "apk",
@@ -6289,7 +6289,7 @@
             "id": 869155719,
             "language": "Rust",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-26T13:28:47Z",
+            "last_commit": "2026-11-01T12:15:00Z",
             "open_issues": 2,
             "owner": "Wolfyxon",
             "repo": "lover",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:32:48.977Z",
+    "last_updated": "2026-11-01T19:53:58.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4543,
+      "stars": 4545,
       "topics": [
         "awesome",
         "awesome-list",
