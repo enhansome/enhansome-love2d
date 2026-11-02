@@ -696,7 +696,7 @@
             "open_issues": 0,
             "owner": "kikito",
             "repo": "gamera",
-            "stars": 304,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "ecs",
               "entity-component",
@@ -1781,7 +1781,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1247,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2646,7 +2646,7 @@
             "open_issues": 2,
             "owner": "matiasah",
             "repo": "shadows",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "glsl",
               "lighting-effects",
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1080,
+            "stars": 1079,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1104,
+            "stars": 1103,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-01T01:36:28Z",
+            "last_commit": "2026-11-02T05:21:33Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -4288,7 +4288,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 488,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4309,7 +4309,7 @@
             "open_issues": 0,
             "owner": "rxi",
             "repo": "tick",
-            "stars": 210,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4526,7 +4526,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "framework",
               "gamepad-support",
@@ -5233,6 +5233,33 @@
         },
         {
           "node_type": "item",
+          "title": "smiti18n",
+          "description": "A very complete internationalization library for Lua with LÖVE support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A very complete internationalization library for Lua with LÖVE support 🌕💕",
+            "homepage": null,
+            "id": 915483447,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2025-12-15T15:19:41Z",
+            "open_issues": 3,
+            "owner": "Oval-Tutu",
+            "repo": "smiti18n",
+            "stars": 42,
+            "topics": [
+              "i18n",
+              "l10n",
+              "love2d",
+              "lua",
+              "luajit"
+            ]
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
           "title": "splashy",
           "description": "Splash Screen Library.",
           "children": [],
@@ -5270,33 +5297,6 @@
             "repo": "love2d-assets-loader",
             "stars": 41,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
-          "title": "smiti18n",
-          "description": "A very complete internationalization library for Lua with LÖVE support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A very complete internationalization library for Lua with LÖVE support 🌕💕",
-            "homepage": null,
-            "id": 915483447,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2025-12-15T15:19:41Z",
-            "open_issues": 3,
-            "owner": "Oval-Tutu",
-            "repo": "smiti18n",
-            "stars": 41,
-            "topics": [
-              "i18n",
-              "l10n",
-              "love2d",
-              "lua",
-              "luajit"
-            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -6053,7 +6053,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9460,
+            "stars": 9462,
             "topics": [
               "appimage",
               "applications",
@@ -6468,7 +6468,7 @@
             "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3088,
+            "stars": 3090,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:53:58.012Z",
+    "last_updated": "2026-11-02T23:13:09.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4545,
+      "stars": 4548,
       "topics": [
         "awesome",
         "awesome-list",
