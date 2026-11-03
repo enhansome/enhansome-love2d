@@ -124,7 +124,7 @@
             "open_issues": 0,
             "owner": "Keyslam",
             "repo": "Lovox",
-            "stars": 51,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 16,
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 673,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 1,
             "owner": "rxi",
             "repo": "autobatch",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1680,7 +1680,7 @@
             "open_issues": 9,
             "owner": "nidorx",
             "repo": "ecs-lua",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "lua",
               "luajit",
@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 226,
+            "stars": 225,
             "topics": [
               "ecs",
               "entity-component",
@@ -1781,7 +1781,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1246,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1949,7 +1949,7 @@
             "open_issues": 15,
             "owner": "astrochili",
             "repo": "narrator",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "defold",
               "ink",
@@ -3870,7 +3870,7 @@
             "open_issues": 0,
             "owner": "gvx",
             "repo": "Ser",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4357,7 +4357,7 @@
             "open_issues": 18,
             "owner": "vrld",
             "repo": "suit",
-            "stars": 542,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4479,7 +4479,7 @@
             "open_issues": 5,
             "owner": "gustavostuff",
             "repo": "gooi",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "gamedev",
               "gui",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9462,
+            "stars": 9460,
             "topics": [
               "appimage",
               "applications",
@@ -6468,7 +6468,7 @@
             "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3090,
+            "stars": 3091,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:13:09.498Z",
+    "last_updated": "2026-11-03T21:15:59.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
