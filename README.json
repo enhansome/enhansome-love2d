@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "g3d",
               "love2d",
@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "2d",
               "3",
@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "ecs",
               "entity-component",
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1090,
+            "stars": 1091,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4454,7 +4454,7 @@
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "imgui",
               "luajit",
@@ -4526,7 +4526,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "framework",
               "gamepad-support",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4595,
+            "stars": 4593,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3091,
+            "stars": 3088,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:15:59.817Z",
+    "last_updated": "2026-11-04T21:30:25.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
