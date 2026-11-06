@@ -422,7 +422,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 1005,
+            "stars": 1006,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1091,
+            "stars": 1092,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1977,7 +1977,7 @@
             "open_issues": 51,
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 126,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1929,
+            "stars": 1924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-02T05:21:33Z",
+            "last_commit": "2026-11-06T18:32:09Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2618,
+            "stars": 2616,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4288,7 +4288,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 489,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4588,7 +4588,7 @@
             "open_issues": 4,
             "owner": "wilhantian",
             "repo": "catui",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "gui-library",
               "love2d",
@@ -5066,7 +5066,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "game-development",
               "love2d",
@@ -5163,7 +5163,7 @@
             "open_issues": 2,
             "owner": "bjornbytes",
             "repo": "tick",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6176,11 +6176,11 @@
             "id": 907020907,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2025-12-15T00:11:35Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-06T18:09:47Z",
+            "open_issues": 11,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "android",
               "apk",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4594,
+            "stars": 4595,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:34:20.896Z",
+    "last_updated": "2026-11-06T21:04:56.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
