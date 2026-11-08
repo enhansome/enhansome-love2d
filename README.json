@@ -45,7 +45,7 @@
             "open_issues": 14,
             "owner": "3dreamengine",
             "repo": "3DreamEngine",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "2d",
               "3",
@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "3d",
               "love2d",
@@ -1258,27 +1258,6 @@
         },
         {
           "node_type": "item",
-          "title": "draft",
-          "description": "A module for drawing complex shapes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A drafting module for LÖVE 2D. https://love2d.org",
-            "homepage": null,
-            "id": 10890767,
-            "language": "Lua",
-            "license": "NOASSERTION",
-            "last_commit": "2019-06-03T21:48:19Z",
-            "open_issues": 0,
-            "owner": "pelevesque",
-            "repo": "draft",
-            "stars": 58,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
           "title": "Maid64",
           "description": "Low resolution scaler for LÖVE.",
           "children": [],
@@ -1293,6 +1272,27 @@
             "open_issues": 2,
             "owner": "adekto",
             "repo": "maid64",
+            "stars": 59,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
+          "title": "draft",
+          "description": "A module for drawing complex shapes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A drafting module for LÖVE 2D. https://love2d.org",
+            "homepage": null,
+            "id": 10890767,
+            "language": "Lua",
+            "license": "NOASSERTION",
+            "last_commit": "2019-06-03T21:48:19Z",
+            "open_issues": 0,
+            "owner": "pelevesque",
+            "repo": "draft",
             "stars": 58,
             "topics": []
           },
@@ -1633,7 +1633,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1246,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1823,7 +1823,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1949,7 +1949,7 @@
             "open_issues": 15,
             "owner": "astrochili",
             "repo": "narrator",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "defold",
               "ink",
@@ -2642,8 +2642,8 @@
             "id": 61066314,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2020-07-08T02:18:57Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-08T19:20:23Z",
+            "open_issues": 1,
             "owner": "matiasah",
             "repo": "shadows",
             "stars": 181,
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1924,
+            "stars": 1923,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3376,7 +3376,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2620,
+            "stars": 2621,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3807,7 +3807,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 733,
+            "stars": 734,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4156,7 +4156,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4246,7 +4246,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 665,
+            "stars": 663,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4267,7 +4267,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4288,7 +4288,7 @@
             "open_issues": 10,
             "owner": "rxi",
             "repo": "flux",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4357,7 +4357,7 @@
             "open_issues": 18,
             "owner": "vrld",
             "repo": "suit",
-            "stars": 543,
+            "stars": 544,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-01T11:53:52Z",
+            "last_commit": "2026-11-08T11:48:26Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -5243,8 +5243,8 @@
             "id": 915483447,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2025-12-15T15:19:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-08T16:22:35Z",
+            "open_issues": 1,
             "owner": "Oval-Tutu",
             "repo": "smiti18n",
             "stars": 42,
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9460,
+            "stars": 9459,
             "topics": [
               "appimage",
               "applications",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:37:51.737Z",
+    "last_updated": "2026-11-08T19:58:17.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4548,
+      "stars": 4551,
       "topics": [
         "awesome",
         "awesome-list",
