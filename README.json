@@ -251,7 +251,7 @@
             "open_issues": 39,
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "gamedev",
               "lua",
@@ -1607,7 +1607,7 @@
             "open_issues": 0,
             "owner": "bakpakin",
             "repo": "tiny-ecs",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "entity-component",
               "entity-component-system",
@@ -1781,7 +1781,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1245,
+            "stars": 1246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1949,7 +1949,7 @@
             "open_issues": 15,
             "owner": "astrochili",
             "repo": "narrator",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "defold",
               "ink",
@@ -2642,7 +2642,7 @@
             "id": 61066314,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-08T19:20:23Z",
+            "last_commit": "2026-11-09T03:43:43Z",
             "open_issues": 1,
             "owner": "matiasah",
             "repo": "shadows",
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-07T18:03:00Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-09T22:22:23Z",
+            "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2621,
+            "stars": 2622,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4450,7 +4450,7 @@
             "id": 123006889,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:48:26Z",
+            "last_commit": "2026-11-09T09:18:51Z",
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
@@ -5243,7 +5243,7 @@
             "id": 915483447,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-08T16:22:35Z",
+            "last_commit": "2026-11-09T15:52:05Z",
             "open_issues": 1,
             "owner": "Oval-Tutu",
             "repo": "smiti18n",
@@ -6053,7 +6053,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 86,
+                "stars": 85,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9459,
+            "stars": 9461,
             "topics": [
               "appimage",
               "applications",
@@ -6176,7 +6176,7 @@
             "id": 907020907,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:09:47Z",
+            "last_commit": "2026-11-09T01:01:21Z",
             "open_issues": 11,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4595,
+            "stars": 4596,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:58:17.796Z",
+    "last_updated": "2026-11-09T23:51:23.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4551,
+      "stars": 4554,
       "topics": [
         "awesome",
         "awesome-list",
