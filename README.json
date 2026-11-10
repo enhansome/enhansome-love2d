@@ -76,7 +76,7 @@
             "open_issues": 6,
             "owner": "rozenmad",
             "repo": "Menori",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "3d",
               "love2d",
@@ -867,7 +867,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "lovebird",
-            "stars": 329,
+            "stars": 328,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 16,
             "owner": "Ulydev",
             "repo": "push",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "ecs",
               "entity-component",
@@ -1892,7 +1892,7 @@
             "open_issues": 11,
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 294,
+            "stars": 293,
             "topics": [
               "love2d",
               "lua",
@@ -1973,8 +1973,8 @@
             "id": 900067214,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-07-20T21:21:31Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-10T07:28:28Z",
+            "open_issues": 58,
             "owner": "PrismRL",
             "repo": "prism",
             "stars": 125,
@@ -3702,8 +3702,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-09T22:22:23Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-10T20:44:17Z",
+            "open_issues": 24,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2622,
@@ -3738,7 +3738,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 722,
+            "stars": 724,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4129,7 +4129,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-08-25T14:38:05Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "lunarmodules",
             "repo": "busted",
             "stars": 1647,
@@ -4246,7 +4246,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 663,
+            "stars": 664,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4405,7 +4405,7 @@
             "open_issues": 6,
             "owner": "keharriso",
             "repo": "love-nuklear",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "gui",
               "imgui",
@@ -4731,7 +4731,7 @@
             "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "grid",
               "gui",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9461,
+            "stars": 9463,
             "topics": [
               "appimage",
               "applications",
@@ -6134,7 +6134,7 @@
             "open_issues": 11,
             "owner": "MisterDA",
             "repo": "love-release",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "love",
               "love2d",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4596,
+            "stars": 4595,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:51:23.825Z",
+    "last_updated": "2026-11-10T21:25:53.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4554,
+      "stars": 4555,
       "topics": [
         "awesome",
         "awesome-list",
