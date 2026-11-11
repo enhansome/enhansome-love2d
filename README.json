@@ -1119,7 +1119,7 @@
             "open_issues": 1,
             "owner": "rxi",
             "repo": "autobatch",
-            "stars": 124,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1633,7 +1633,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1823,7 +1823,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1973,11 +1973,11 @@
             "id": 900067214,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-10T07:28:28Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-11T01:02:52Z",
+            "open_issues": 51,
             "owner": "PrismRL",
             "repo": "prism",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2932,7 +2932,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-05-23T23:04:20Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "DUznanski",
             "repo": "vornmath",
             "stars": 22,
@@ -3014,6 +3014,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "lovebpm",
+          "description": "A LÖVE library for syncing events to the BPM of an audio track.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A LÖVE library for syncing events to the BPM of an audio track",
+            "homepage": null,
+            "id": 62452282,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2021-08-06T03:57:23Z",
+            "open_issues": 1,
+            "owner": "rxi",
+            "repo": "lovebpm",
+            "stars": 103,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
           "title": "wave",
           "description": "A sound manager with audio parsing and rhythm functionalities.",
           "children": [],
@@ -3029,27 +3050,6 @@
             "owner": "Ulydev",
             "repo": "wave",
             "stars": 103,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lovebpm",
-          "description": "A LÖVE library for syncing events to the BPM of an audio track.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A LÖVE library for syncing events to the BPM of an audio track",
-            "homepage": null,
-            "id": 62452282,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2021-08-06T03:57:23Z",
-            "open_issues": 1,
-            "owner": "rxi",
-            "repo": "lovebpm",
-            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3376,7 +3376,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3703,7 +3703,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-10T20:44:17Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2622,
@@ -3807,7 +3807,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4156,7 +4156,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4267,7 +4267,7 @@
             "open_issues": 2,
             "owner": "airstruck",
             "repo": "knife",
-            "stars": 526,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4454,7 +4454,7 @@
             "open_issues": 9,
             "owner": "sonoro1234",
             "repo": "LuaJIT-ImGui",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "imgui",
               "luajit",
@@ -5838,7 +5838,7 @@
                 "open_issues": 44,
                 "owner": "EmmyLua",
                 "repo": "VSCode-EmmyLua",
-                "stars": 755,
+                "stars": 756,
                 "topics": [
                   "emmylua"
                 ]
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9463,
+            "stars": 9465,
             "topics": [
               "appimage",
               "applications",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:25:53.439Z",
+    "last_updated": "2026-11-11T22:16:52.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4555,
+      "stars": 4557,
       "topics": [
         "awesome",
         "awesome-list",
