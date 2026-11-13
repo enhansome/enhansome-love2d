@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "g3d",
               "love2d",
@@ -419,7 +419,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2022-01-20T22:22:06Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "kikito",
             "repo": "anim8",
             "stars": 1006,
@@ -443,7 +443,7 @@
             "open_issues": 0,
             "owner": "sysl-dev",
             "repo": "SYSL-Text",
-            "stars": 120,
+            "stars": 119,
             "topics": [
               "draw",
               "love2d",
@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 227,
+            "stars": 226,
             "topics": [
               "ecs",
               "entity-component",
@@ -2082,7 +2082,7 @@
             "open_issues": 0,
             "owner": "Ulydev",
             "repo": "shack",
-            "stars": 69,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2642,7 +2642,7 @@
             "id": 61066314,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-09T03:43:43Z",
+            "last_commit": "2026-11-13T14:24:09Z",
             "open_issues": 1,
             "owner": "matiasah",
             "repo": "shadows",
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-10T20:44:17Z",
+            "last_commit": "2026-11-13T21:34:45Z",
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -5045,7 +5045,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "log.lua",
-            "stars": 361,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -5066,7 +5066,7 @@
             "open_issues": 2,
             "owner": "uspgamedev",
             "repo": "luasteam",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "game-development",
               "love2d",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9466,
+            "stars": 9468,
             "topics": [
               "appimage",
               "applications",
@@ -6468,7 +6468,7 @@
             "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3089,
+            "stars": 3090,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:55:23.343Z",
+    "last_updated": "2026-11-13T21:38:58.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4558,
+      "stars": 4559,
       "topics": [
         "awesome",
         "awesome-list",
