@@ -422,7 +422,7 @@
             "open_issues": 8,
             "owner": "kikito",
             "repo": "anim8",
-            "stars": 1006,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -846,7 +846,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 379,
+            "stars": 380,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1923,
+            "stars": 1924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2623,
+            "stars": 2625,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3738,7 +3738,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 724,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4246,7 +4246,7 @@
             "open_issues": 7,
             "owner": "kikito",
             "repo": "tween.lua",
-            "stars": 664,
+            "stars": 665,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9468,
+            "stars": 9469,
             "topics": [
               "appimage",
               "applications",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:38:58.655Z",
+    "last_updated": "2026-11-14T20:05:29.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4559,
+      "stars": 4560,
       "topics": [
         "awesome",
         "awesome-list",
