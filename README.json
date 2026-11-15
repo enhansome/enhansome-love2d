@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "g3d",
               "love2d",
@@ -1892,7 +1892,7 @@
             "open_issues": 11,
             "owner": "paulofmandown",
             "repo": "rotLove",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "love2d",
               "lua",
@@ -1973,8 +1973,8 @@
             "id": 900067214,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-11T01:02:52Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-15T16:00:42Z",
+            "open_issues": 52,
             "owner": "PrismRL",
             "repo": "prism",
             "stars": 126,
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1103,
+            "stars": 1104,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,11 +3702,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-13T21:34:45Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-15T04:52:10Z",
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2625,
+            "stars": 2623,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3738,7 +3738,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 725,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4035,7 +4035,7 @@
             "open_issues": 20,
             "owner": "vrld",
             "repo": "moonshine",
-            "stars": 734,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4198,7 +4198,7 @@
             "open_issues": 0,
             "owner": "bjornbytes",
             "repo": "lust",
-            "stars": 137,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9469,
+            "stars": 9467,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4596,
+            "stars": 4594,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:05:29.691Z",
+    "last_updated": "2026-11-15T20:35:13.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
