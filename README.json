@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "groverburger",
             "repo": "g3d",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "g3d",
               "love2d",
@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "ecs",
               "entity-component",
@@ -2909,7 +2909,7 @@
             "open_issues": 3,
             "owner": "automattf",
             "repo": "vector.lua",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "game-development",
               "love2d",
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1104,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-18T22:37:00Z",
+            "last_commit": "2026-11-19T05:03:33Z",
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -6053,7 +6053,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6134,7 +6134,7 @@
             "open_issues": 11,
             "owner": "MisterDA",
             "repo": "love-release",
-            "stars": 481,
+            "stars": 480,
             "topics": [
               "love",
               "love2d",
@@ -6447,7 +6447,7 @@
             "open_issues": 53,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4594,
+            "stars": 4593,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:42:20.483Z",
+    "last_updated": "2026-11-19T22:45:52.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
