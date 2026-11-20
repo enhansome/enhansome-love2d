@@ -2625,7 +2625,7 @@
             "open_issues": 11,
             "owner": "tanema",
             "repo": "light_world.lua",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2646,7 +2646,7 @@
             "open_issues": 1,
             "owner": "matiasah",
             "repo": "shadows",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "glsl",
               "lighting-effects",
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1922,
+            "stars": 1923,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3355,7 +3355,7 @@
             "open_issues": 19,
             "owner": "rxi",
             "repo": "classic",
-            "stars": 1081,
+            "stars": 1082,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1105,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2626,
+            "stars": 2627,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3738,7 +3738,7 @@
             "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
-            "stars": 727,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4132,7 +4132,7 @@
             "open_issues": 67,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "lua",
               "testing"
@@ -4357,7 +4357,7 @@
             "open_issues": 18,
             "owner": "vrld",
             "repo": "suit",
-            "stars": 544,
+            "stars": 545,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4378,7 +4378,7 @@
             "open_issues": 26,
             "owner": "flamendless",
             "repo": "Slab",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "gamedev",
               "imgui",
@@ -4479,7 +4479,7 @@
             "open_issues": 5,
             "owner": "gustavostuff",
             "repo": "gooi",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "gamedev",
               "gui",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9466,
+            "stars": 9467,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 53,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4593,
+            "stars": 4594,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:45:52.433Z",
+    "last_updated": "2026-11-20T22:21:35.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 1,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4566,
+      "stars": 4568,
       "topics": [
         "awesome",
         "awesome-list",
