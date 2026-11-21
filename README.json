@@ -1706,7 +1706,7 @@
             "open_issues": 1,
             "owner": "BlackMATov",
             "repo": "evolved.lua",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "ecs",
               "entity-component",
@@ -1973,8 +1973,8 @@
             "id": 900067214,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-16T10:09:02Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-21T02:07:35Z",
+            "open_issues": 48,
             "owner": "PrismRL",
             "repo": "prism",
             "stars": 126,
@@ -3628,7 +3628,7 @@
             "language": "Lua",
             "license": "MPL-2.0",
             "last_commit": "2026-04-08T17:54:35Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "erinmaus",
             "repo": "slick",
             "stars": 85,
@@ -4526,7 +4526,7 @@
             "open_issues": 1,
             "owner": "SiENcE",
             "repo": "luis",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "framework",
               "gamepad-support",
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9467,
+            "stars": 9466,
             "topics": [
               "appimage",
               "applications",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:21:35.877Z",
+    "last_updated": "2026-11-21T21:11:19.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6522,7 +6522,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-09-26T21:02:34Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
       "stars": 4568,
