@@ -391,7 +391,7 @@
             "id": 571810885,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-06-18T19:40:34Z",
+            "last_commit": "2026-11-22T17:04:36Z",
             "open_issues": 1,
             "owner": "Safebox36",
             "repo": "OdaiHTN",
@@ -808,6 +808,30 @@
       "items": [
         {
           "node_type": "item",
+          "title": "LÖVE API",
+          "description": "The complete API documentation of LÖVE in a Lua table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The whole LÖVE wiki in a Lua table.",
+            "homepage": "http://love2d-community.github.io/love-api/",
+            "id": 32788810,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2026-05-07T03:07:24Z",
+            "open_issues": 13,
+            "owner": "love2d-community",
+            "repo": "love-api",
+            "stars": 381,
+            "topics": [
+              "love2d",
+              "lua"
+            ]
+          },
+          "first_seen": "2026-08-29T00:07:46.551Z"
+        },
+        {
+          "node_type": "item",
           "title": "lurker",
           "description": "Auto-swaps changed Lua files in a running game.",
           "children": [],
@@ -824,30 +848,6 @@
             "repo": "lurker",
             "stars": 381,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:07:46.551Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LÖVE API",
-          "description": "The complete API documentation of LÖVE in a Lua table.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The whole LÖVE wiki in a Lua table.",
-            "homepage": "http://love2d-community.github.io/love-api/",
-            "id": 32788810,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-05-07T03:07:24Z",
-            "open_issues": 13,
-            "owner": "love2d-community",
-            "repo": "love-api",
-            "stars": 380,
-            "topics": [
-              "love2d",
-              "lua"
-            ]
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
         },
@@ -1654,7 +1654,7 @@
             "open_issues": 10,
             "owner": "Concord-Studio",
             "repo": "Concord",
-            "stars": 325,
+            "stars": 324,
             "topics": [
               "ecs",
               "game-development",
@@ -1802,7 +1802,7 @@
             "open_issues": 31,
             "owner": "karai17",
             "repo": "Simple-Tiled-Implementation",
-            "stars": 1091,
+            "stars": 1092,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1973,8 +1973,8 @@
             "id": 900067214,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-21T02:07:35Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-22T20:47:21Z",
+            "open_issues": 49,
             "owner": "PrismRL",
             "repo": "prism",
             "stars": 126,
@@ -2642,7 +2642,7 @@
             "id": 61066314,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-17T00:39:27Z",
+            "last_commit": "2026-11-22T19:46:56Z",
             "open_issues": 1,
             "owner": "matiasah",
             "repo": "shadows",
@@ -3631,7 +3631,7 @@
             "open_issues": 9,
             "owner": "erinmaus",
             "repo": "slick",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2627,
+            "stars": 2626,
             "topics": [
               "game-engine",
               "gamedev",
@@ -4731,7 +4731,7 @@
             "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "grid",
               "gui",
@@ -6053,7 +6053,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6106,7 +6106,7 @@
             "open_issues": 238,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9466,
+            "stars": 9467,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 53,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4594,
+            "stars": 4595,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3092,
+            "stars": 3093,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:11:19.350Z",
+    "last_updated": "2026-11-22T21:16:40.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 2,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4568,
+      "stars": 4570,
       "topics": [
         "awesome",
         "awesome-list",
