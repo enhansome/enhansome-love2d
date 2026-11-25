@@ -251,7 +251,7 @@
             "open_issues": 39,
             "owner": "Yonaba",
             "repo": "Jumper",
-            "stars": 652,
+            "stars": 653,
             "topics": [
               "gamedev",
               "lua",
@@ -846,7 +846,7 @@
             "open_issues": 6,
             "owner": "rxi",
             "repo": "lurker",
-            "stars": 381,
+            "stars": 382,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1247,
+            "stars": 1248,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -2234,7 +2234,7 @@
             "open_issues": 1,
             "owner": "besnoi",
             "repo": "clove",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "asset-loader",
               "helper-library",
@@ -2867,7 +2867,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3334,7 +3334,7 @@
             "open_issues": 1,
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1923,
+            "stars": 1924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3702,7 +3702,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-24T18:02:35Z",
+            "last_commit": "2026-11-25T18:57:41Z",
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -4084,7 +4084,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4330,7 +4330,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -4663,7 +4663,7 @@
             "open_issues": 1,
             "owner": "MikuAuahDark",
             "repo": "NPad93",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6053,7 +6053,7 @@
                 "open_issues": 4,
                 "owner": "LuaCATS",
                 "repo": "love2d",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "lua-language-server",
                   "luacats"
@@ -6106,7 +6106,7 @@
             "open_issues": 239,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9469,
+            "stars": 9470,
             "topics": [
               "appimage",
               "applications",
@@ -6176,11 +6176,11 @@
             "id": 907020907,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-11-24T21:05:58Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-25T00:24:14Z",
+            "open_issues": 10,
             "owner": "Oval-Tutu",
             "repo": "bootstrap-love2d-project",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "android",
               "apk",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4596,
+            "stars": 4599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6468,7 +6468,7 @@
             "open_issues": 1,
             "owner": "pico-8",
             "repo": "awesome-PICO-8",
-            "stars": 3095,
+            "stars": 3096,
             "topics": [
               "8-bit-computer",
               "8bit",
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:07:19.827Z",
+    "last_updated": "2026-11-25T23:47:42.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 2,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4572,
+      "stars": 4573,
       "topics": [
         "awesome",
         "awesome-list",
