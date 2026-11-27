@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "excessive",
             "repo": "iqm-exm",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "blender-addon",
               "blender-exporter",
@@ -1186,8 +1186,8 @@
             "id": 946790676,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2025-05-23T08:38:34Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-26T09:18:14Z",
+            "open_issues": 4,
             "owner": "Oval-Tutu",
             "repo": "shove",
             "stars": 102,
@@ -1338,7 +1338,7 @@
             "id": 23729551,
             "language": "Lua",
             "license": null,
-            "last_commit": "2023-05-03T02:08:24Z",
+            "last_commit": "2026-11-26T13:52:20Z",
             "open_issues": 1,
             "owner": "hsluv",
             "repo": "hsluv-lua",
@@ -1754,7 +1754,7 @@
             "open_issues": 0,
             "owner": "joescodeshack",
             "repo": "adorbs",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 23,
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1248,
+            "stars": 1249,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3178,7 +3178,7 @@
             "open_issues": 7,
             "owner": "camchenry",
             "repo": "sock.lua",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "enet",
               "gamedev",
@@ -3589,7 +3589,7 @@
             "open_issues": 15,
             "owner": "kikito",
             "repo": "bump.lua",
-            "stars": 1108,
+            "stars": 1107,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -3706,7 +3706,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2632,
+            "stars": 2634,
             "topics": [
               "game-engine",
               "gamedev",
@@ -3735,7 +3735,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T22:03:52Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "lovebrew",
             "repo": "lovepotion",
             "stars": 725,
@@ -4132,7 +4132,7 @@
             "open_issues": 67,
             "owner": "lunarmodules",
             "repo": "busted",
-            "stars": 1650,
+            "stars": 1651,
             "topics": [
               "lua",
               "testing"
@@ -4731,7 +4731,7 @@
             "open_issues": 0,
             "owner": "mtanksl",
             "repo": "LOVELi",
-            "stars": 43,
+            "stars": 42,
             "topics": [
               "grid",
               "gui",
@@ -6106,7 +6106,7 @@
             "open_issues": 239,
             "owner": "AppImage",
             "repo": "AppImageKit",
-            "stars": 9470,
+            "stars": 9474,
             "topics": [
               "appimage",
               "applications",
@@ -6447,7 +6447,7 @@
             "open_issues": 52,
             "owner": "LewisJEllis",
             "repo": "awesome-lua",
-            "stars": 4599,
+            "stars": 4598,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:46.551Z"
@@ -6513,7 +6513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:47:42.406Z",
+    "last_updated": "2026-11-27T00:01:14.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
@@ -6525,7 +6525,7 @@
       "open_issues": 2,
       "owner": "love2d-community",
       "repo": "awesome-love2d",
-      "stars": 4573,
+      "stars": 4574,
       "topics": [
         "awesome",
         "awesome-list",
